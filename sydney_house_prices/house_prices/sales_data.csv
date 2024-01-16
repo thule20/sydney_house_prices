@@ -1,0 +1,1496 @@
+,greatersydney,rings,lga,dwellingtype,sales_price_median,sales_price_mean,sales_no,date
+800,Greater Sydney,Inner Ring,Inner West,Non Strata,1560.0,1658.0,265.0,2018-03-31
+801,Greater Sydney,Inner Ring,Inner West,Strata,770.0,845.0,236.0,2018-03-31
+803,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2704.0,3086.0,60.0,2018-03-31
+804,Greater Sydney,Inner Ring,Lane Cove,Strata,818.0,864.0,96.0,2018-03-31
+806,Greater Sydney,Inner Ring,Mosman,Non Strata,3415.0,3927.0,38.0,2018-03-31
+807,Greater Sydney,Inner Ring,Mosman,Strata,1040.0,1369.0,71.0,2018-03-31
+809,Greater Sydney,Inner Ring,North Sydney,Non Strata,2600.0,2628.0,49.0,2018-03-31
+810,Greater Sydney,Inner Ring,North Sydney,Strata,1095.0,1195.0,252.0,2018-03-31
+812,Greater Sydney,Inner Ring,Randwick,Non Strata,2250.0,2288.0,129.0,2018-03-31
+813,Greater Sydney,Inner Ring,Randwick,Strata,946.0,1037.0,213.0,2018-03-31
+815,Greater Sydney,Inner Ring,Sydney,Non Strata,1658.0,1887.0,132.0,2018-03-31
+816,Greater Sydney,Inner Ring,Sydney,Strata,900.0,998.0,692.0,2018-03-31
+818,Greater Sydney,Inner Ring,Waverley,Non Strata,2828.0,2931.0,90.0,2018-03-31
+819,Greater Sydney,Inner Ring,Waverley,Strata,1213.0,1285.0,160.0,2018-03-31
+821,Greater Sydney,Inner Ring,Woollahra,Non Strata,3650.0,4055.0,85.0,2018-03-31
+822,Greater Sydney,Inner Ring,Woollahra,Strata,1500.0,1670.0,133.0,2018-03-31
+827,Greater Sydney,Middle Ring,Bayside,Non Strata,1303.0,1349.0,152.0,2018-03-31
+828,Greater Sydney,Middle Ring,Bayside,Strata,720.0,748.0,343.0,2018-03-31
+830,Greater Sydney,Middle Ring,Burwood,Non Strata,1665.0,1812.0,20.0,2018-03-31
+831,Greater Sydney,Middle Ring,Burwood,Strata,763.0,823.0,42.0,2018-03-31
+833,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2155.0,2218.0,77.0,2018-03-31
+834,Greater Sydney,Middle Ring,Canada Bay,Strata,885.0,969.0,163.0,2018-03-31
+836,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,990.0,1046.0,464.0,2018-03-31
+837,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,585.0,592.0,382.0,2018-03-31
+839,Greater Sydney,Middle Ring,Cumberland,Non Strata,880.0,920.0,229.0,2018-03-31
+840,Greater Sydney,Middle Ring,Cumberland,Strata,580.0,577.0,286.0,2018-03-31
+842,Greater Sydney,Middle Ring,Georges River,Non Strata,1356.0,1405.0,145.0,2018-03-31
+843,Greater Sydney,Middle Ring,Georges River,Strata,700.0,715.0,177.0,2018-03-31
+845,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2900.0,2969.0,20.0,2018-03-31
+846,Greater Sydney,Middle Ring,Hunters Hill,Strata,1154.0,1188.0,20.0,2018-03-31
+848,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2065.0,2266.0,243.0,2018-03-31
+849,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,975.0,1064.0,131.0,2018-03-31
+851,Greater Sydney,Middle Ring,Parramatta,Non Strata,1240.0,1272.0,224.0,2018-03-31
+852,Greater Sydney,Middle Ring,Parramatta,Strata,679.0,689.0,448.0,2018-03-31
+854,Greater Sydney,Middle Ring,Ryde,Non Strata,1775.0,1851.0,105.0,2018-03-31
+855,Greater Sydney,Middle Ring,Ryde,Strata,723.0,769.0,190.0,2018-03-31
+857,Greater Sydney,Middle Ring,Strathfield,Non Strata,2520.0,2468.0,20.0,2018-03-31
+858,Greater Sydney,Middle Ring,Strathfield,Strata,630.0,650.0,90.0,2018-03-31
+860,Greater Sydney,Middle Ring,Willoughby,Non Strata,2450.0,2602.0,95.0,2018-03-31
+861,Greater Sydney,Middle Ring,Willoughby,Strata,995.0,1058.0,95.0,2018-03-31
+866,Greater Sydney,Outer Ring,Blacktown,Non Strata,755.0,773.0,733.0,2018-03-31
+867,Greater Sydney,Outer Ring,Blacktown,Strata,590.0,572.0,190.0,2018-03-31
+869,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,673.0,702.0,271.0,2018-03-31
+870,Greater Sydney,Outer Ring,Blue Mountains,Strata,520.0,503.0,20.0,2018-03-31
+872,Greater Sydney,Outer Ring,Camden,Non Strata,765.0,810.0,309.0,2018-03-31
+873,Greater Sydney,Outer Ring,Camden,Strata,556.0,573.0,20.0,2018-03-31
+875,Greater Sydney,Outer Ring,Campbelltown,Non Strata,640.0,652.0,410.0,2018-03-31
+876,Greater Sydney,Outer Ring,Campbelltown,Strata,468.0,471.0,102.0,2018-03-31
+878,Greater Sydney,Outer Ring,Central Coast,Non Strata,670.0,720.0,1182.0,2018-03-31
+879,Greater Sydney,Outer Ring,Central Coast,Strata,510.0,532.0,340.0,2018-03-31
+881,Greater Sydney,Outer Ring,Fairfield,Non Strata,800.0,819.0,249.0,2018-03-31
+882,Greater Sydney,Outer Ring,Fairfield,Strata,485.0,513.0,59.0,2018-03-31
+884,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,778.0,933.0,168.0,2018-03-31
+885,Greater Sydney,Outer Ring,Hawkesbury,Strata,524.0,525.0,32.0,2018-03-31
+887,Greater Sydney,Outer Ring,Hornsby,Non Strata,1350.0,1377.0,222.0,2018-03-31
+888,Greater Sydney,Outer Ring,Hornsby,Strata,693.0,716.0,152.0,2018-03-31
+890,Greater Sydney,Outer Ring,Liverpool,Non Strata,790.0,821.0,327.0,2018-03-31
+891,Greater Sydney,Outer Ring,Liverpool,Strata,500.0,497.0,142.0,2018-03-31
+893,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1825.0,2005.0,399.0,2018-03-31
+894,Greater Sydney,Outer Ring,Northern Beaches,Strata,890.0,995.0,393.0,2018-03-31
+896,Greater Sydney,Outer Ring,Penrith,Non Strata,696.0,711.0,494.0,2018-03-31
+897,Greater Sydney,Outer Ring,Penrith,Strata,521.0,499.0,168.0,2018-03-31
+899,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1258.0,1368.0,349.0,2018-03-31
+900,Greater Sydney,Outer Ring,Sutherland Shire,Strata,775.0,830.0,351.0,2018-03-31
+902,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1281.0,1368.0,306.0,2018-03-31
+903,Greater Sydney,Outer Ring,The Hills Shire,Strata,770.0,783.0,79.0,2018-03-31
+905,Greater Sydney,Outer Ring,Wollondilly,Non Strata,767.0,851.0,135.0,2018-03-31
+906,Greater Sydney,Outer Ring,Wollondilly,Strata,425.0,403.0,20.0,2018-03-31
+3585,Greater Sydney,Inner Ring,Inner West,Non Strata,1458.0,1565.0,338.0,2018-06-30
+3586,Greater Sydney,Inner Ring,Inner West,Strata,776.0,811.0,347.0,2018-06-30
+3588,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2500.0,2677.0,45.0,2018-06-30
+3589,Greater Sydney,Inner Ring,Lane Cove,Strata,810.0,875.0,101.0,2018-06-30
+3591,Greater Sydney,Inner Ring,Mosman,Non Strata,3500.0,4098.0,37.0,2018-06-30
+3592,Greater Sydney,Inner Ring,Mosman,Strata,1035.0,1361.0,71.0,2018-06-30
+3594,Greater Sydney,Inner Ring,North Sydney,Non Strata,2300.0,2466.0,47.0,2018-06-30
+3595,Greater Sydney,Inner Ring,North Sydney,Strata,1081.0,1180.0,268.0,2018-06-30
+3597,Greater Sydney,Inner Ring,Randwick,Non Strata,2155.0,2285.0,128.0,2018-06-30
+3598,Greater Sydney,Inner Ring,Randwick,Strata,918.0,989.0,234.0,2018-06-30
+3600,Greater Sydney,Inner Ring,Sydney,Non Strata,1600.0,1912.0,160.0,2018-06-30
+3601,Greater Sydney,Inner Ring,Sydney,Strata,900.0,984.0,826.0,2018-06-30
+3603,Greater Sydney,Inner Ring,Waverley,Non Strata,2778.0,3036.0,76.0,2018-06-30
+3604,Greater Sydney,Inner Ring,Waverley,Strata,1190.0,1231.0,188.0,2018-06-30
+3606,Greater Sydney,Inner Ring,Woollahra,Non Strata,3255.0,3750.0,80.0,2018-06-30
+3607,Greater Sydney,Inner Ring,Woollahra,Strata,1255.0,1712.0,135.0,2018-06-30
+3612,Greater Sydney,Middle Ring,Bayside,Non Strata,1298.0,1358.0,149.0,2018-06-30
+3613,Greater Sydney,Middle Ring,Bayside,Strata,720.0,744.0,363.0,2018-06-30
+3615,Greater Sydney,Middle Ring,Burwood,Non Strata,1608.0,1730.0,32.0,2018-06-30
+3616,Greater Sydney,Middle Ring,Burwood,Strata,780.0,795.0,52.0,2018-06-30
+3618,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2058.0,2138.0,88.0,2018-06-30
+3619,Greater Sydney,Middle Ring,Canada Bay,Strata,923.0,1009.0,214.0,2018-06-30
+3621,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,985.0,1023.0,491.0,2018-06-30
+3622,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,562.0,569.0,384.0,2018-06-30
+3624,Greater Sydney,Middle Ring,Cumberland,Non Strata,868.0,900.0,275.0,2018-06-30
+3625,Greater Sydney,Middle Ring,Cumberland,Strata,580.0,573.0,315.0,2018-06-30
+3627,Greater Sydney,Middle Ring,Georges River,Non Strata,1250.0,1351.0,179.0,2018-06-30
+3628,Greater Sydney,Middle Ring,Georges River,Strata,690.0,710.0,216.0,2018-06-30
+3630,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2625.0,3267.0,20.0,2018-06-30
+3631,Greater Sydney,Middle Ring,Hunters Hill,Strata,1000.0,1151.0,20.0,2018-06-30
+3633,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2010.0,2289.0,214.0,2018-06-30
+3634,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,970.0,1075.0,160.0,2018-06-30
+3636,Greater Sydney,Middle Ring,Parramatta,Non Strata,1230.0,1240.0,279.0,2018-06-30
+3637,Greater Sydney,Middle Ring,Parramatta,Strata,680.0,683.0,532.0,2018-06-30
+3639,Greater Sydney,Middle Ring,Ryde,Non Strata,1673.0,1765.0,144.0,2018-06-30
+3640,Greater Sydney,Middle Ring,Ryde,Strata,803.0,942.0,316.0,2018-06-30
+3642,Greater Sydney,Middle Ring,Strathfield,Non Strata,1880.0,2150.0,20.0,2018-06-30
+3643,Greater Sydney,Middle Ring,Strathfield,Strata,625.0,631.0,117.0,2018-06-30
+3645,Greater Sydney,Middle Ring,Willoughby,Non Strata,2485.0,2621.0,110.0,2018-06-30
+3646,Greater Sydney,Middle Ring,Willoughby,Strata,946.0,1023.0,120.0,2018-06-30
+3651,Greater Sydney,Outer Ring,Blacktown,Non Strata,740.0,771.0,697.0,2018-06-30
+3652,Greater Sydney,Outer Ring,Blacktown,Strata,571.0,551.0,186.0,2018-06-30
+3654,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,664.0,706.0,304.0,2018-06-30
+3655,Greater Sydney,Outer Ring,Blue Mountains,Strata,515.0,505.0,20.0,2018-06-30
+3657,Greater Sydney,Outer Ring,Camden,Non Strata,750.0,782.0,318.0,2018-06-30
+3658,Greater Sydney,Outer Ring,Camden,Strata,650.0,606.0,20.0,2018-06-30
+3660,Greater Sydney,Outer Ring,Campbelltown,Non Strata,645.0,657.0,378.0,2018-06-30
+3661,Greater Sydney,Outer Ring,Campbelltown,Strata,481.0,480.0,92.0,2018-06-30
+3663,Greater Sydney,Outer Ring,Central Coast,Non Strata,658.0,708.0,1117.0,2018-06-30
+3664,Greater Sydney,Outer Ring,Central Coast,Strata,500.0,528.0,289.0,2018-06-30
+3666,Greater Sydney,Outer Ring,Fairfield,Non Strata,789.0,802.0,276.0,2018-06-30
+3667,Greater Sydney,Outer Ring,Fairfield,Strata,438.0,466.0,93.0,2018-06-30
+3669,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,743.0,858.0,152.0,2018-06-30
+3670,Greater Sydney,Outer Ring,Hawkesbury,Strata,535.0,524.0,38.0,2018-06-30
+3672,Greater Sydney,Outer Ring,Hornsby,Non Strata,1300.0,1360.0,244.0,2018-06-30
+3673,Greater Sydney,Outer Ring,Hornsby,Strata,698.0,736.0,162.0,2018-06-30
+3675,Greater Sydney,Outer Ring,Liverpool,Non Strata,788.0,814.0,348.0,2018-06-30
+3676,Greater Sydney,Outer Ring,Liverpool,Strata,520.0,505.0,134.0,2018-06-30
+3678,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1700.0,1908.0,432.0,2018-06-30
+3679,Greater Sydney,Outer Ring,Northern Beaches,Strata,866.0,961.0,401.0,2018-06-30
+3681,Greater Sydney,Outer Ring,Penrith,Non Strata,691.0,714.0,464.0,2018-06-30
+3682,Greater Sydney,Outer Ring,Penrith,Strata,511.0,497.0,162.0,2018-06-30
+3684,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1200.0,1290.0,415.0,2018-06-30
+3685,Greater Sydney,Outer Ring,Sutherland Shire,Strata,770.0,860.0,367.0,2018-06-30
+3687,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1257.0,1345.0,345.0,2018-06-30
+3688,Greater Sydney,Outer Ring,The Hills Shire,Strata,783.0,786.0,86.0,2018-06-30
+3690,Greater Sydney,Outer Ring,Wollondilly,Non Strata,815.0,861.0,118.0,2018-06-30
+3691,Greater Sydney,Outer Ring,Wollondilly,Strata,535.0,,5.0,2018-06-30
+6382,Greater Sydney,Inner Ring,Inner West,Non Strata,1371.0,1437.0,232.0,2018-09-30
+6383,Greater Sydney,Inner Ring,Inner West,Strata,735.0,776.0,201.0,2018-09-30
+6385,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2650.0,2589.0,36.0,2018-09-30
+6386,Greater Sydney,Inner Ring,Lane Cove,Strata,745.0,804.0,97.0,2018-09-30
+6388,Greater Sydney,Inner Ring,Mosman,Non Strata,3675.0,4358.0,36.0,2018-09-30
+6389,Greater Sydney,Inner Ring,Mosman,Strata,900.0,1099.0,70.0,2018-09-30
+6391,Greater Sydney,Inner Ring,North Sydney,Non Strata,2278.0,2642.0,42.0,2018-09-30
+6392,Greater Sydney,Inner Ring,North Sydney,Strata,1070.0,1247.0,234.0,2018-09-30
+6394,Greater Sydney,Inner Ring,Randwick,Non Strata,1845.0,2025.0,88.0,2018-09-30
+6395,Greater Sydney,Inner Ring,Randwick,Strata,862.0,923.0,157.0,2018-09-30
+6397,Greater Sydney,Inner Ring,Sydney,Non Strata,1411.0,1516.0,124.0,2018-09-30
+6398,Greater Sydney,Inner Ring,Sydney,Strata,850.0,968.0,531.0,2018-09-30
+6400,Greater Sydney,Inner Ring,Waverley,Non Strata,2350.0,2618.0,67.0,2018-09-30
+6401,Greater Sydney,Inner Ring,Waverley,Strata,1070.0,1159.0,159.0,2018-09-30
+6403,Greater Sydney,Inner Ring,Woollahra,Non Strata,3600.0,4789.0,51.0,2018-09-30
+6404,Greater Sydney,Inner Ring,Woollahra,Strata,1213.0,1409.0,122.0,2018-09-30
+6409,Greater Sydney,Middle Ring,Bayside,Non Strata,1195.0,1219.0,111.0,2018-09-30
+6410,Greater Sydney,Middle Ring,Bayside,Strata,700.0,719.0,215.0,2018-09-30
+6412,Greater Sydney,Middle Ring,Burwood,Non Strata,1500.0,1515.0,35.0,2018-09-30
+6413,Greater Sydney,Middle Ring,Burwood,Strata,750.0,779.0,37.0,2018-09-30
+6415,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1705.0,1873.0,54.0,2018-09-30
+6416,Greater Sydney,Middle Ring,Canada Bay,Strata,880.0,930.0,139.0,2018-09-30
+6418,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,870.0,914.0,308.0,2018-09-30
+6419,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,530.0,540.0,210.0,2018-09-30
+6421,Greater Sydney,Middle Ring,Cumberland,Non Strata,800.0,823.0,165.0,2018-09-30
+6422,Greater Sydney,Middle Ring,Cumberland,Strata,550.0,538.0,147.0,2018-09-30
+6424,Greater Sydney,Middle Ring,Georges River,Non Strata,1178.0,1266.0,136.0,2018-09-30
+6425,Greater Sydney,Middle Ring,Georges River,Strata,695.0,708.0,110.0,2018-09-30
+6427,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2875.0,2994.0,20.0,2018-09-30
+6428,Greater Sydney,Middle Ring,Hunters Hill,Strata,877.0,970.0,20.0,2018-09-30
+6430,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2050.0,2164.0,180.0,2018-09-30
+6431,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,905.0,985.0,108.0,2018-09-30
+6433,Greater Sydney,Middle Ring,Parramatta,Non Strata,1123.0,1281.0,184.0,2018-09-30
+6434,Greater Sydney,Middle Ring,Parramatta,Strata,653.0,650.0,270.0,2018-09-30
+6436,Greater Sydney,Middle Ring,Ryde,Non Strata,1435.0,1498.0,90.0,2018-09-30
+6437,Greater Sydney,Middle Ring,Ryde,Strata,700.0,742.0,171.0,2018-09-30
+6439,Greater Sydney,Middle Ring,Strathfield,Non Strata,1425.0,1552.0,20.0,2018-09-30
+6440,Greater Sydney,Middle Ring,Strathfield,Strata,628.0,623.0,46.0,2018-09-30
+6442,Greater Sydney,Middle Ring,Willoughby,Non Strata,2240.0,2320.0,72.0,2018-09-30
+6443,Greater Sydney,Middle Ring,Willoughby,Strata,998.0,1062.0,86.0,2018-09-30
+6448,Greater Sydney,Outer Ring,Blacktown,Non Strata,720.0,730.0,522.0,2018-09-30
+6449,Greater Sydney,Outer Ring,Blacktown,Strata,538.0,533.0,104.0,2018-09-30
+6451,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,630.0,650.0,199.0,2018-09-30
+6452,Greater Sydney,Outer Ring,Blue Mountains,Strata,516.5,,5.0,2018-09-30
+6454,Greater Sydney,Outer Ring,Camden,Non Strata,720.0,739.0,233.0,2018-09-30
+6455,Greater Sydney,Outer Ring,Camden,Strata,540.0,552.0,20.0,2018-09-30
+6457,Greater Sydney,Outer Ring,Campbelltown,Non Strata,600.0,603.0,262.0,2018-09-30
+6458,Greater Sydney,Outer Ring,Campbelltown,Strata,429.0,431.0,59.0,2018-09-30
+6460,Greater Sydney,Outer Ring,Central Coast,Non Strata,630.0,676.0,825.0,2018-09-30
+6461,Greater Sydney,Outer Ring,Central Coast,Strata,495.0,513.0,233.0,2018-09-30
+6463,Greater Sydney,Outer Ring,Fairfield,Non Strata,730.0,749.0,150.0,2018-09-30
+6464,Greater Sydney,Outer Ring,Fairfield,Strata,450.0,449.0,45.0,2018-09-30
+6466,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,770.0,917.0,99.0,2018-09-30
+6467,Greater Sydney,Outer Ring,Hawkesbury,Strata,495.0,475.0,20.0,2018-09-30
+6469,Greater Sydney,Outer Ring,Hornsby,Non Strata,1193.0,1220.0,198.0,2018-09-30
+6470,Greater Sydney,Outer Ring,Hornsby,Strata,670.0,709.0,90.0,2018-09-30
+6472,Greater Sydney,Outer Ring,Liverpool,Non Strata,750.0,769.0,215.0,2018-09-30
+6473,Greater Sydney,Outer Ring,Liverpool,Strata,492.0,481.0,70.0,2018-09-30
+6475,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1650.0,1837.0,360.0,2018-09-30
+6476,Greater Sydney,Outer Ring,Northern Beaches,Strata,860.0,932.0,312.0,2018-09-30
+6478,Greater Sydney,Outer Ring,Penrith,Non Strata,660.0,688.0,355.0,2018-09-30
+6479,Greater Sydney,Outer Ring,Penrith,Strata,490.0,476.0,105.0,2018-09-30
+6481,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1080.0,1187.0,292.0,2018-09-30
+6482,Greater Sydney,Outer Ring,Sutherland Shire,Strata,745.0,1654.0,265.0,2018-09-30
+6484,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1177.0,1278.0,249.0,2018-09-30
+6485,Greater Sydney,Outer Ring,The Hills Shire,Strata,794.0,780.0,48.0,2018-09-30
+6487,Greater Sydney,Outer Ring,Wollondilly,Non Strata,663.0,776.0,90.0,2018-09-30
+6488,Greater Sydney,Outer Ring,Wollondilly,Strata,516.5,,5.0,2018-09-30
+9161,Greater Sydney,Inner Ring,Inner West,Non Strata,1380.0,1458.0,331.0,2018-12-31
+9162,Greater Sydney,Inner Ring,Inner West,Strata,738.0,780.0,253.0,2018-12-31
+9164,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2650.0,2585.0,50.0,2018-12-31
+9165,Greater Sydney,Inner Ring,Lane Cove,Strata,745.0,820.0,112.0,2018-12-31
+9167,Greater Sydney,Inner Ring,Mosman,Non Strata,3700.0,4565.0,45.0,2018-12-31
+9168,Greater Sydney,Inner Ring,Mosman,Strata,915.0,1172.0,87.0,2018-12-31
+9170,Greater Sydney,Inner Ring,North Sydney,Non Strata,2278.0,2574.0,54.0,2018-12-31
+9171,Greater Sydney,Inner Ring,North Sydney,Strata,1070.0,1259.0,276.0,2018-12-31
+9173,Greater Sydney,Inner Ring,Randwick,Non Strata,1961.0,2112.0,135.0,2018-12-31
+9174,Greater Sydney,Inner Ring,Randwick,Strata,865.0,934.0,187.0,2018-12-31
+9176,Greater Sydney,Inner Ring,Sydney,Non Strata,1470.0,1574.0,163.0,2018-12-31
+9177,Greater Sydney,Inner Ring,Sydney,Strata,870.0,1000.0,682.0,2018-12-31
+9179,Greater Sydney,Inner Ring,Waverley,Non Strata,2568.0,2712.0,90.0,2018-12-31
+9180,Greater Sydney,Inner Ring,Waverley,Strata,1105.0,1156.0,198.0,2018-12-31
+9182,Greater Sydney,Inner Ring,Woollahra,Non Strata,4258.0,5165.0,96.0,2018-12-31
+9183,Greater Sydney,Inner Ring,Woollahra,Strata,1260.0,1577.0,159.0,2018-12-31
+9188,Greater Sydney,Middle Ring,Bayside,Non Strata,1183.0,1222.0,146.0,2018-12-31
+9189,Greater Sydney,Middle Ring,Bayside,Strata,694.0,709.0,288.0,2018-12-31
+9191,Greater Sydney,Middle Ring,Burwood,Non Strata,1520.0,1583.0,45.0,2018-12-31
+9192,Greater Sydney,Middle Ring,Burwood,Strata,865.0,850.0,66.0,2018-12-31
+9194,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1752.0,1916.0,78.0,2018-12-31
+9195,Greater Sydney,Middle Ring,Canada Bay,Strata,890.0,943.0,189.0,2018-12-31
+9197,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,890.0,939.0,441.0,2018-12-31
+9198,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,530.0,542.0,276.0,2018-12-31
+9200,Greater Sydney,Middle Ring,Cumberland,Non Strata,800.0,821.0,222.0,2018-12-31
+9201,Greater Sydney,Middle Ring,Cumberland,Strata,550.0,549.0,190.0,2018-12-31
+9203,Greater Sydney,Middle Ring,Georges River,Non Strata,1200.0,1313.0,191.0,2018-12-31
+9204,Greater Sydney,Middle Ring,Georges River,Strata,690.0,714.0,155.0,2018-12-31
+9206,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2670.0,2780.0,20.0,2018-12-31
+9207,Greater Sydney,Middle Ring,Hunters Hill,Strata,1200.0,1063.0,20.0,2018-12-31
+9209,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2050.0,2184.0,260.0,2018-12-31
+9210,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,910.0,990.0,141.0,2018-12-31
+9212,Greater Sydney,Middle Ring,Parramatta,Non Strata,1125.0,1237.0,254.0,2018-12-31
+9213,Greater Sydney,Middle Ring,Parramatta,Strata,657.0,657.0,357.0,2018-12-31
+9215,Greater Sydney,Middle Ring,Ryde,Non Strata,1428.0,1480.0,146.0,2018-12-31
+9216,Greater Sydney,Middle Ring,Ryde,Strata,736.0,829.0,246.0,2018-12-31
+9218,Greater Sydney,Middle Ring,Strathfield,Non Strata,1625.0,1711.0,36.0,2018-12-31
+9219,Greater Sydney,Middle Ring,Strathfield,Strata,638.0,637.0,64.0,2018-12-31
+9221,Greater Sydney,Middle Ring,Willoughby,Non Strata,2260.0,2327.0,97.0,2018-12-31
+9222,Greater Sydney,Middle Ring,Willoughby,Strata,977.0,1052.0,102.0,2018-12-31
+9227,Greater Sydney,Outer Ring,Blacktown,Non Strata,719.0,729.0,655.0,2018-12-31
+9228,Greater Sydney,Outer Ring,Blacktown,Strata,540.0,536.0,133.0,2018-12-31
+9230,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,635.0,660.0,235.0,2018-12-31
+9231,Greater Sydney,Outer Ring,Blue Mountains,Strata,530.0,534.0,20.0,2018-12-31
+9233,Greater Sydney,Outer Ring,Camden,Non Strata,720.0,740.0,285.0,2018-12-31
+9234,Greater Sydney,Outer Ring,Camden,Strata,530.0,539.0,20.0,2018-12-31
+9236,Greater Sydney,Outer Ring,Campbelltown,Non Strata,601.0,604.0,308.0,2018-12-31
+9237,Greater Sydney,Outer Ring,Campbelltown,Strata,420.0,427.0,73.0,2018-12-31
+9239,Greater Sydney,Outer Ring,Central Coast,Non Strata,640.0,696.0,982.0,2018-12-31
+9240,Greater Sydney,Outer Ring,Central Coast,Strata,500.0,519.0,273.0,2018-12-31
+9242,Greater Sydney,Outer Ring,Fairfield,Non Strata,730.0,754.0,217.0,2018-12-31
+9243,Greater Sydney,Outer Ring,Fairfield,Strata,458.0,458.0,54.0,2018-12-31
+9245,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,770.0,907.0,133.0,2018-12-31
+9246,Greater Sydney,Outer Ring,Hawkesbury,Strata,495.0,472.0,20.0,2018-12-31
+9248,Greater Sydney,Outer Ring,Hornsby,Non Strata,1180.0,1212.0,261.0,2018-12-31
+9249,Greater Sydney,Outer Ring,Hornsby,Strata,663.0,713.0,104.0,2018-12-31
+9251,Greater Sydney,Outer Ring,Liverpool,Non Strata,750.0,793.0,281.0,2018-12-31
+9252,Greater Sydney,Outer Ring,Liverpool,Strata,485.0,477.0,95.0,2018-12-31
+9254,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1660.0,1837.0,483.0,2018-12-31
+9255,Greater Sydney,Outer Ring,Northern Beaches,Strata,873.0,964.0,410.0,2018-12-31
+9257,Greater Sydney,Outer Ring,Penrith,Non Strata,665.0,692.0,422.0,2018-12-31
+9258,Greater Sydney,Outer Ring,Penrith,Strata,490.0,477.0,128.0,2018-12-31
+9260,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1105.0,1215.0,421.0,2018-12-31
+9261,Greater Sydney,Outer Ring,Sutherland Shire,Strata,730.0,827.0,312.0,2018-12-31
+9263,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1168.0,1285.0,321.0,2018-12-31
+9264,Greater Sydney,Outer Ring,The Hills Shire,Strata,794.0,791.0,56.0,2018-12-31
+9266,Greater Sydney,Outer Ring,Wollondilly,Non Strata,708.0,838.0,106.0,2018-12-31
+9267,Greater Sydney,Outer Ring,Wollondilly,Strata,530.0,,5.0,2018-12-31
+11932,Greater Sydney,Inner Ring,Inner West,Non Strata,1353.0,1465.0,244.0,2019-03-31
+11933,Greater Sydney,Inner Ring,Inner West,Strata,699.0,749.0,187.0,2019-03-31
+11935,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2000.0,2205.0,38.0,2019-03-31
+11936,Greater Sydney,Inner Ring,Lane Cove,Strata,777.0,853.0,86.0,2019-03-31
+11938,Greater Sydney,Inner Ring,Mosman,Non Strata,3603.0,3991.0,20.0,2019-03-31
+11939,Greater Sydney,Inner Ring,Mosman,Strata,963.0,1145.0,50.0,2019-03-31
+11941,Greater Sydney,Inner Ring,North Sydney,Non Strata,2278.0,2343.0,44.0,2019-03-31
+11942,Greater Sydney,Inner Ring,North Sydney,Strata,1043.0,1140.0,188.0,2019-03-31
+11944,Greater Sydney,Inner Ring,Randwick,Non Strata,1960.0,2061.0,89.0,2019-03-31
+11945,Greater Sydney,Inner Ring,Randwick,Strata,860.0,943.0,173.0,2019-03-31
+11947,Greater Sydney,Inner Ring,Sydney,Non Strata,1500.0,1585.0,108.0,2019-03-31
+11948,Greater Sydney,Inner Ring,Sydney,Strata,840.0,956.0,541.0,2019-03-31
+11950,Greater Sydney,Inner Ring,Waverley,Non Strata,2620.0,2830.0,59.0,2019-03-31
+11951,Greater Sydney,Inner Ring,Waverley,Strata,1100.0,1874.0,123.0,2019-03-31
+11953,Greater Sydney,Inner Ring,Woollahra,Non Strata,3960.0,4434.0,68.0,2019-03-31
+11954,Greater Sydney,Inner Ring,Woollahra,Strata,1310.0,1664.0,120.0,2019-03-31
+11959,Greater Sydney,Middle Ring,Bayside,Non Strata,1138.0,1176.0,98.0,2019-03-31
+11960,Greater Sydney,Middle Ring,Bayside,Strata,675.0,707.0,265.0,2019-03-31
+11962,Greater Sydney,Middle Ring,Burwood,Non Strata,1249.0,1433.0,20.0,2019-03-31
+11963,Greater Sydney,Middle Ring,Burwood,Strata,695.0,719.0,36.0,2019-03-31
+11965,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1688.0,1701.0,56.0,2019-03-31
+11966,Greater Sydney,Middle Ring,Canada Bay,Strata,854.0,924.0,120.0,2019-03-31
+11968,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,855.0,879.0,351.0,2019-03-31
+11969,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,547.0,593.0,255.0,2019-03-31
+11971,Greater Sydney,Middle Ring,Cumberland,Non Strata,770.0,789.0,183.0,2019-03-31
+11972,Greater Sydney,Middle Ring,Cumberland,Strata,538.0,527.0,144.0,2019-03-31
+11974,Greater Sydney,Middle Ring,Georges River,Non Strata,1200.0,1231.0,125.0,2019-03-31
+11975,Greater Sydney,Middle Ring,Georges River,Strata,650.0,655.0,144.0,2019-03-31
+11977,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2500.0,2769.0,20.0,2019-03-31
+11978,Greater Sydney,Middle Ring,Hunters Hill,Strata,1620.0,1541.0,20.0,2019-03-31
+11980,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,1910.0,2065.0,168.0,2019-03-31
+11981,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,880.0,951.0,106.0,2019-03-31
+11983,Greater Sydney,Middle Ring,Parramatta,Non Strata,1010.0,1068.0,191.0,2019-03-31
+11984,Greater Sydney,Middle Ring,Parramatta,Strata,647.0,642.0,279.0,2019-03-31
+11986,Greater Sydney,Middle Ring,Ryde,Non Strata,1335.0,1428.0,117.0,2019-03-31
+11987,Greater Sydney,Middle Ring,Ryde,Strata,685.0,739.0,195.0,2019-03-31
+11989,Greater Sydney,Middle Ring,Strathfield,Non Strata,2250.0,2499.0,20.0,2019-03-31
+11990,Greater Sydney,Middle Ring,Strathfield,Strata,633.0,627.0,52.0,2019-03-31
+11992,Greater Sydney,Middle Ring,Willoughby,Non Strata,2105.0,2291.0,62.0,2019-03-31
+11993,Greater Sydney,Middle Ring,Willoughby,Strata,883.0,975.0,86.0,2019-03-31
+11998,Greater Sydney,Outer Ring,Blacktown,Non Strata,684.0,702.0,564.0,2019-03-31
+11999,Greater Sydney,Outer Ring,Blacktown,Strata,525.0,521.0,123.0,2019-03-31
+12001,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,650.0,679.0,219.0,2019-03-31
+12002,Greater Sydney,Outer Ring,Blue Mountains,Strata,551.0,542.0,20.0,2019-03-31
+12004,Greater Sydney,Outer Ring,Camden,Non Strata,700.0,720.0,242.0,2019-03-31
+12005,Greater Sydney,Outer Ring,Camden,Strata,489.0,505.0,20.0,2019-03-31
+12007,Greater Sydney,Outer Ring,Campbelltown,Non Strata,571.0,584.0,284.0,2019-03-31
+12008,Greater Sydney,Outer Ring,Campbelltown,Strata,420.0,425.0,63.0,2019-03-31
+12010,Greater Sydney,Outer Ring,Central Coast,Non Strata,620.0,665.0,845.0,2019-03-31
+12011,Greater Sydney,Outer Ring,Central Coast,Strata,490.0,523.0,230.0,2019-03-31
+12013,Greater Sydney,Outer Ring,Fairfield,Non Strata,719.0,725.0,166.0,2019-03-31
+12014,Greater Sydney,Outer Ring,Fairfield,Strata,421.0,424.0,45.0,2019-03-31
+12016,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,750.0,834.0,112.0,2019-03-31
+12017,Greater Sydney,Outer Ring,Hawkesbury,Strata,470.0,443.0,20.0,2019-03-31
+12019,Greater Sydney,Outer Ring,Hornsby,Non Strata,1175.0,1221.0,180.0,2019-03-31
+12020,Greater Sydney,Outer Ring,Hornsby,Strata,646.0,648.0,104.0,2019-03-31
+12022,Greater Sydney,Outer Ring,Liverpool,Non Strata,750.0,780.0,232.0,2019-03-31
+12023,Greater Sydney,Outer Ring,Liverpool,Strata,522.0,498.0,58.0,2019-03-31
+12025,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1600.0,1722.0,373.0,2019-03-31
+12026,Greater Sydney,Outer Ring,Northern Beaches,Strata,800.0,908.0,358.0,2019-03-31
+12028,Greater Sydney,Outer Ring,Penrith,Non Strata,643.0,650.0,364.0,2019-03-31
+12029,Greater Sydney,Outer Ring,Penrith,Strata,460.0,451.0,114.0,2019-03-31
+12031,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1050.0,1159.0,303.0,2019-03-31
+12032,Greater Sydney,Outer Ring,Sutherland Shire,Strata,700.0,735.0,270.0,2019-03-31
+12034,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1128.0,1194.0,251.0,2019-03-31
+12035,Greater Sydney,Outer Ring,The Hills Shire,Strata,721.0,733.0,66.0,2019-03-31
+12037,Greater Sydney,Outer Ring,Wollondilly,Non Strata,670.0,757.0,121.0,2019-03-31
+12038,Greater Sydney,Outer Ring,Wollondilly,Strata,522.0,,5.0,2019-03-31
+14678,Greater Sydney,Inner Ring,Inner West,Non Strata,1400.0,1526.0,365.0,2019-06-30
+14679,Greater Sydney,Inner Ring,Inner West,Strata,768.0,1802.0,348.0,2019-06-30
+14681,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2138.0,3073.0,56.0,2019-06-30
+14682,Greater Sydney,Inner Ring,Lane Cove,Strata,724.0,805.0,116.0,2019-06-30
+14684,Greater Sydney,Inner Ring,Mosman,Non Strata,3450.0,3662.0,48.0,2019-06-30
+14685,Greater Sydney,Inner Ring,Mosman,Strata,950.0,1214.0,65.0,2019-06-30
+14687,Greater Sydney,Inner Ring,North Sydney,Non Strata,2650.0,3182.0,49.0,2019-06-30
+14688,Greater Sydney,Inner Ring,North Sydney,Strata,978.0,1169.0,266.0,2019-06-30
+14690,Greater Sydney,Inner Ring,Randwick,Non Strata,1925.0,2052.0,137.0,2019-06-30
+14691,Greater Sydney,Inner Ring,Randwick,Strata,875.0,950.0,214.0,2019-06-30
+14693,Greater Sydney,Inner Ring,Sydney,Non Strata,1429.0,1655.0,130.0,2019-06-30
+14694,Greater Sydney,Inner Ring,Sydney,Strata,885.0,1024.0,765.0,2019-06-30
+14696,Greater Sydney,Inner Ring,Waverley,Non Strata,2635.0,2885.0,90.0,2019-06-30
+14697,Greater Sydney,Inner Ring,Waverley,Strata,1065.0,1153.0,176.0,2019-06-30
+14699,Greater Sydney,Inner Ring,Woollahra,Non Strata,3500.0,3958.0,105.0,2019-06-30
+14700,Greater Sydney,Inner Ring,Woollahra,Strata,1400.0,1533.0,135.0,2019-06-30
+14705,Greater Sydney,Middle Ring,Bayside,Non Strata,1127.0,1181.0,174.0,2019-06-30
+14706,Greater Sydney,Middle Ring,Bayside,Strata,690.0,728.0,442.0,2019-06-30
+14708,Greater Sydney,Middle Ring,Burwood,Non Strata,1265.0,1368.0,20.0,2019-06-30
+14709,Greater Sydney,Middle Ring,Burwood,Strata,728.0,739.0,72.0,2019-06-30
+14711,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1650.0,1787.0,108.0,2019-06-30
+14712,Greater Sydney,Middle Ring,Canada Bay,Strata,860.0,910.0,211.0,2019-06-30
+14714,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,867.0,917.0,504.0,2019-06-30
+14715,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,536.0,544.0,358.0,2019-06-30
+14717,Greater Sydney,Middle Ring,Cumberland,Non Strata,780.0,803.0,275.0,2019-06-30
+14718,Greater Sydney,Middle Ring,Cumberland,Strata,570.0,624.0,284.0,2019-06-30
+14720,Greater Sydney,Middle Ring,Georges River,Non Strata,1125.0,1231.0,186.0,2019-06-30
+14721,Greater Sydney,Middle Ring,Georges River,Strata,633.0,651.0,200.0,2019-06-30
+14723,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2534.0,2925.0,20.0,2019-06-30
+14724,Greater Sydney,Middle Ring,Hunters Hill,Strata,755.0,793.0,20.0,2019-06-30
+14726,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,1894.0,2081.0,264.0,2019-06-30
+14727,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,930.0,1017.0,163.0,2019-06-30
+14729,Greater Sydney,Middle Ring,Parramatta,Non Strata,1006.0,1058.0,292.0,2019-06-30
+14730,Greater Sydney,Middle Ring,Parramatta,Strata,668.0,4098.0,516.0,2019-06-30
+14732,Greater Sydney,Middle Ring,Ryde,Non Strata,1400.0,1514.0,147.0,2019-06-30
+14733,Greater Sydney,Middle Ring,Ryde,Strata,670.0,711.0,355.0,2019-06-30
+14735,Greater Sydney,Middle Ring,Strathfield,Non Strata,2100.0,2105.0,36.0,2019-06-30
+14736,Greater Sydney,Middle Ring,Strathfield,Strata,650.0,5170.0,122.0,2019-06-30
+14738,Greater Sydney,Middle Ring,Willoughby,Non Strata,2215.0,2314.0,124.0,2019-06-30
+14739,Greater Sydney,Middle Ring,Willoughby,Strata,930.0,2160.0,126.0,2019-06-30
+14744,Greater Sydney,Outer Ring,Blacktown,Non Strata,705.0,711.0,747.0,2019-06-30
+14745,Greater Sydney,Outer Ring,Blacktown,Strata,538.0,521.0,150.0,2019-06-30
+14747,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,650.0,673.0,278.0,2019-06-30
+14748,Greater Sydney,Outer Ring,Blue Mountains,Strata,565.0,538.0,20.0,2019-06-30
+14750,Greater Sydney,Outer Ring,Camden,Non Strata,695.0,718.0,299.0,2019-06-30
+14751,Greater Sydney,Outer Ring,Camden,Strata,549.0,582.0,20.0,2019-06-30
+14753,Greater Sydney,Outer Ring,Campbelltown,Non Strata,575.0,585.0,323.0,2019-06-30
+14754,Greater Sydney,Outer Ring,Campbelltown,Strata,404.0,407.0,78.0,2019-06-30
+14756,Greater Sydney,Outer Ring,Central Coast,Non Strata,620.0,663.0,967.0,2019-06-30
+14757,Greater Sydney,Outer Ring,Central Coast,Strata,450.0,486.0,276.0,2019-06-30
+14759,Greater Sydney,Outer Ring,Fairfield,Non Strata,700.0,712.0,267.0,2019-06-30
+14760,Greater Sydney,Outer Ring,Fairfield,Strata,408.0,421.0,72.0,2019-06-30
+14762,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,720.0,849.0,166.0,2019-06-30
+14763,Greater Sydney,Outer Ring,Hawkesbury,Strata,515.0,489.0,20.0,2019-06-30
+14765,Greater Sydney,Outer Ring,Hornsby,Non Strata,1140.0,1177.0,250.0,2019-06-30
+14766,Greater Sydney,Outer Ring,Hornsby,Strata,660.0,670.0,151.0,2019-06-30
+14768,Greater Sydney,Outer Ring,Liverpool,Non Strata,728.0,745.0,348.0,2019-06-30
+14769,Greater Sydney,Outer Ring,Liverpool,Strata,480.0,467.0,107.0,2019-06-30
+14771,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1673.0,1824.0,478.0,2019-06-30
+14772,Greater Sydney,Outer Ring,Northern Beaches,Strata,815.0,902.0,455.0,2019-06-30
+14774,Greater Sydney,Outer Ring,Penrith,Non Strata,645.0,669.0,460.0,2019-06-30
+14775,Greater Sydney,Outer Ring,Penrith,Strata,450.0,449.0,166.0,2019-06-30
+14777,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1100.0,1153.0,442.0,2019-06-30
+14778,Greater Sydney,Outer Ring,Sutherland Shire,Strata,720.0,772.0,397.0,2019-06-30
+14780,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1155.0,1263.0,379.0,2019-06-30
+14781,Greater Sydney,Outer Ring,The Hills Shire,Strata,720.0,739.0,92.0,2019-06-30
+14783,Greater Sydney,Outer Ring,Wollondilly,Non Strata,663.0,726.0,116.0,2019-06-30
+17430,Greater Sydney,Inner Ring,Inner West,Non Strata,1500.0,1586.0,330.0,2019-09-30
+17431,Greater Sydney,Inner Ring,Inner West,Strata,750.0,813.0,335.0,2019-09-30
+17433,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2550.0,2679.0,45.0,2019-09-30
+17434,Greater Sydney,Inner Ring,Lane Cove,Strata,795.0,904.0,154.0,2019-09-30
+17436,Greater Sydney,Inner Ring,Mosman,Non Strata,3240.0,3861.0,36.0,2019-09-30
+17437,Greater Sydney,Inner Ring,Mosman,Strata,940.0,1097.0,82.0,2019-09-30
+17439,Greater Sydney,Inner Ring,North Sydney,Non Strata,2505.0,2945.0,54.0,2019-09-30
+17440,Greater Sydney,Inner Ring,North Sydney,Strata,980.0,1164.0,325.0,2019-09-30
+17442,Greater Sydney,Inner Ring,Randwick,Non Strata,1950.0,2200.0,136.0,2019-09-30
+17443,Greater Sydney,Inner Ring,Randwick,Strata,941.0,1048.0,245.0,2019-09-30
+17445,Greater Sydney,Inner Ring,Sydney,Non Strata,1551.0,1646.0,166.0,2019-09-30
+17446,Greater Sydney,Inner Ring,Sydney,Strata,964.0,1986.0,918.0,2019-09-30
+17448,Greater Sydney,Inner Ring,Waverley,Non Strata,2790.0,2990.0,83.0,2019-09-30
+17449,Greater Sydney,Inner Ring,Waverley,Strata,1200.0,2253.0,240.0,2019-09-30
+17451,Greater Sydney,Inner Ring,Woollahra,Non Strata,3050.0,3436.0,92.0,2019-09-30
+17452,Greater Sydney,Inner Ring,Woollahra,Strata,1450.0,1955.0,163.0,2019-09-30
+17457,Greater Sydney,Middle Ring,Bayside,Non Strata,1250.0,1297.0,162.0,2019-09-30
+17458,Greater Sydney,Middle Ring,Bayside,Strata,720.0,736.0,494.0,2019-09-30
+17460,Greater Sydney,Middle Ring,Burwood,Non Strata,1685.0,1837.0,20.0,2019-09-30
+17461,Greater Sydney,Middle Ring,Burwood,Strata,735.0,747.0,73.0,2019-09-30
+17463,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1721.0,1940.0,105.0,2019-09-30
+17464,Greater Sydney,Middle Ring,Canada Bay,Strata,900.0,979.0,234.0,2019-09-30
+17466,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,920.0,959.0,538.0,2019-09-30
+17467,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,535.0,556.0,419.0,2019-09-30
+17469,Greater Sydney,Middle Ring,Cumberland,Non Strata,800.0,810.0,286.0,2019-09-30
+17470,Greater Sydney,Middle Ring,Cumberland,Strata,553.0,541.0,298.0,2019-09-30
+17472,Greater Sydney,Middle Ring,Georges River,Non Strata,1250.0,1301.0,216.0,2019-09-30
+17473,Greater Sydney,Middle Ring,Georges River,Strata,661.0,665.0,246.0,2019-09-30
+17475,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2620.0,3201.0,20.0,2019-09-30
+17476,Greater Sydney,Middle Ring,Hunters Hill,Strata,1290.0,1318.0,20.0,2019-09-30
+17478,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2020.0,2270.0,283.0,2019-09-30
+17479,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,900.0,998.0,186.0,2019-09-30
+17481,Greater Sydney,Middle Ring,Parramatta,Non Strata,1130.0,1170.0,306.0,2019-09-30
+17482,Greater Sydney,Middle Ring,Parramatta,Strata,650.0,652.0,589.0,2019-09-30
+17484,Greater Sydney,Middle Ring,Ryde,Non Strata,1520.0,1592.0,149.0,2019-09-30
+17485,Greater Sydney,Middle Ring,Ryde,Strata,780.0,1771.0,420.0,2019-09-30
+17487,Greater Sydney,Middle Ring,Strathfield,Non Strata,2243.0,2367.0,36.0,2019-09-30
+17488,Greater Sydney,Middle Ring,Strathfield,Strata,625.0,638.0,108.0,2019-09-30
+17490,Greater Sydney,Middle Ring,Willoughby,Non Strata,2386.0,2553.0,103.0,2019-09-30
+17491,Greater Sydney,Middle Ring,Willoughby,Strata,990.0,1033.0,107.0,2019-09-30
+17496,Greater Sydney,Outer Ring,Blacktown,Non Strata,720.0,732.0,890.0,2019-09-30
+17497,Greater Sydney,Outer Ring,Blacktown,Strata,550.0,536.0,220.0,2019-09-30
+17499,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,650.0,676.0,308.0,2019-09-30
+17500,Greater Sydney,Outer Ring,Blue Mountains,Strata,600.0,577.0,40.0,2019-09-30
+17502,Greater Sydney,Outer Ring,Camden,Non Strata,715.0,742.0,366.0,2019-09-30
+17503,Greater Sydney,Outer Ring,Camden,Strata,561.0,541.0,32.0,2019-09-30
+17505,Greater Sydney,Outer Ring,Campbelltown,Non Strata,605.0,618.0,362.0,2019-09-30
+17506,Greater Sydney,Outer Ring,Campbelltown,Strata,420.0,427.0,88.0,2019-09-30
+17508,Greater Sydney,Outer Ring,Central Coast,Non Strata,630.0,666.0,1079.0,2019-09-30
+17509,Greater Sydney,Outer Ring,Central Coast,Strata,470.0,516.0,313.0,2019-09-30
+17511,Greater Sydney,Outer Ring,Fairfield,Non Strata,743.0,753.0,284.0,2019-09-30
+17512,Greater Sydney,Outer Ring,Fairfield,Strata,460.0,824.0,95.0,2019-09-30
+17514,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,714.0,794.0,200.0,2019-09-30
+17515,Greater Sydney,Outer Ring,Hawkesbury,Strata,445.0,423.0,33.0,2019-09-30
+17517,Greater Sydney,Outer Ring,Hornsby,Non Strata,1226.0,1264.0,281.0,2019-09-30
+17518,Greater Sydney,Outer Ring,Hornsby,Strata,690.0,3470.0,271.0,2019-09-30
+17520,Greater Sydney,Outer Ring,Liverpool,Non Strata,760.0,768.0,345.0,2019-09-30
+17521,Greater Sydney,Outer Ring,Liverpool,Strata,485.0,482.0,162.0,2019-09-30
+17523,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1720.0,1939.0,488.0,2019-09-30
+17524,Greater Sydney,Outer Ring,Northern Beaches,Strata,905.0,1015.0,446.0,2019-09-30
+17526,Greater Sydney,Outer Ring,Penrith,Non Strata,650.0,666.0,468.0,2019-09-30
+17527,Greater Sydney,Outer Ring,Penrith,Strata,475.0,463.0,243.0,2019-09-30
+17529,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1158.0,1236.0,432.0,2019-09-30
+17530,Greater Sydney,Outer Ring,Sutherland Shire,Strata,730.0,929.0,471.0,2019-09-30
+17532,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1255.0,1361.0,487.0,2019-09-30
+17533,Greater Sydney,Outer Ring,The Hills Shire,Strata,780.0,874.0,122.0,2019-09-30
+17535,Greater Sydney,Outer Ring,Wollondilly,Non Strata,850.0,860.0,146.0,2019-09-30
+17536,Greater Sydney,Outer Ring,Wollondilly,Strata,550.0,,5.0,2019-09-30
+20199,Greater Sydney,Inner Ring,Inner West,Non Strata,1614.0,1686.0,442.0,2019-12-31
+20200,Greater Sydney,Inner Ring,Inner West,Strata,792.0,865.0,340.0,2019-12-31
+20202,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2478.0,2731.0,72.0,2019-12-31
+20203,Greater Sydney,Inner Ring,Lane Cove,Strata,920.0,1051.0,146.0,2019-12-31
+20205,Greater Sydney,Inner Ring,Mosman,Non Strata,3900.0,4287.0,67.0,2019-12-31
+20206,Greater Sydney,Inner Ring,Mosman,Strata,1158.0,1398.0,90.0,2019-12-31
+20208,Greater Sydney,Inner Ring,North Sydney,Non Strata,2536.0,2972.0,76.0,2019-12-31
+20209,Greater Sydney,Inner Ring,North Sydney,Strata,1030.0,1144.0,321.0,2019-12-31
+20211,Greater Sydney,Inner Ring,Randwick,Non Strata,2300.0,2456.0,160.0,2019-12-31
+20212,Greater Sydney,Inner Ring,Randwick,Strata,1009.0,1086.0,289.0,2019-12-31
+20214,Greater Sydney,Inner Ring,Sydney,Non Strata,1673.0,1832.0,180.0,2019-12-31
+20215,Greater Sydney,Inner Ring,Sydney,Strata,937.0,1054.0,954.0,2019-12-31
+20217,Greater Sydney,Inner Ring,Waverley,Non Strata,2838.0,2996.0,98.0,2019-12-31
+20218,Greater Sydney,Inner Ring,Waverley,Strata,1160.0,1274.0,241.0,2019-12-31
+20220,Greater Sydney,Inner Ring,Woollahra,Non Strata,3200.0,4114.0,119.0,2019-12-31
+20221,Greater Sydney,Inner Ring,Woollahra,Strata,1275.0,1762.0,196.0,2019-12-31
+20226,Greater Sydney,Middle Ring,Bayside,Non Strata,1366.0,1395.0,191.0,2019-12-31
+20227,Greater Sydney,Middle Ring,Bayside,Strata,725.0,747.0,540.0,2019-12-31
+20229,Greater Sydney,Middle Ring,Burwood,Non Strata,1610.0,1608.0,33.0,2019-12-31
+20230,Greater Sydney,Middle Ring,Burwood,Strata,800.0,813.0,90.0,2019-12-31
+20232,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2080.0,2158.0,119.0,2019-12-31
+20233,Greater Sydney,Middle Ring,Canada Bay,Strata,875.0,968.0,227.0,2019-12-31
+20235,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,950.0,1013.0,644.0,2019-12-31
+20236,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,550.0,562.0,429.0,2019-12-31
+20238,Greater Sydney,Middle Ring,Cumberland,Non Strata,833.0,881.0,317.0,2019-12-31
+20239,Greater Sydney,Middle Ring,Cumberland,Strata,550.0,544.0,288.0,2019-12-31
+20241,Greater Sydney,Middle Ring,Georges River,Non Strata,1281.0,1353.0,270.0,2019-12-31
+20242,Greater Sydney,Middle Ring,Georges River,Strata,680.0,682.0,271.0,2019-12-31
+20244,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2780.0,3231.0,32.0,2019-12-31
+20245,Greater Sydney,Middle Ring,Hunters Hill,Strata,1170.0,1076.0,20.0,2019-12-31
+20247,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2208.0,2364.0,308.0,2019-12-31
+20248,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,980.0,1110.0,227.0,2019-12-31
+20250,Greater Sydney,Middle Ring,Parramatta,Non Strata,1251.0,1297.0,342.0,2019-12-31
+20251,Greater Sydney,Middle Ring,Parramatta,Strata,671.0,1675.0,599.0,2019-12-31
+20253,Greater Sydney,Middle Ring,Ryde,Non Strata,1690.0,1767.0,169.0,2019-12-31
+20254,Greater Sydney,Middle Ring,Ryde,Strata,810.0,882.0,454.0,2019-12-31
+20256,Greater Sydney,Middle Ring,Strathfield,Non Strata,2070.0,2171.0,42.0,2019-12-31
+20257,Greater Sydney,Middle Ring,Strathfield,Strata,650.0,655.0,126.0,2019-12-31
+20259,Greater Sydney,Middle Ring,Willoughby,Non Strata,2480.0,2585.0,126.0,2019-12-31
+20260,Greater Sydney,Middle Ring,Willoughby,Strata,1010.0,1060.0,122.0,2019-12-31
+20265,Greater Sydney,Outer Ring,Blacktown,Non Strata,755.0,771.0,883.0,2019-12-31
+20266,Greater Sydney,Outer Ring,Blacktown,Strata,520.0,524.0,221.0,2019-12-31
+20268,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,660.0,690.0,296.0,2019-12-31
+20269,Greater Sydney,Outer Ring,Blue Mountains,Strata,525.0,529.0,20.0,2019-12-31
+20271,Greater Sydney,Outer Ring,Camden,Non Strata,727.0,755.0,318.0,2019-12-31
+20272,Greater Sydney,Outer Ring,Camden,Strata,572.0,563.0,20.0,2019-12-31
+20274,Greater Sydney,Outer Ring,Campbelltown,Non Strata,606.0,617.0,350.0,2019-12-31
+20275,Greater Sydney,Outer Ring,Campbelltown,Strata,433.0,439.0,96.0,2019-12-31
+20277,Greater Sydney,Outer Ring,Central Coast,Non Strata,650.0,701.0,1153.0,2019-12-31
+20278,Greater Sydney,Outer Ring,Central Coast,Strata,485.0,524.0,299.0,2019-12-31
+20280,Greater Sydney,Outer Ring,Fairfield,Non Strata,770.0,805.0,302.0,2019-12-31
+20281,Greater Sydney,Outer Ring,Fairfield,Strata,434.0,453.0,92.0,2019-12-31
+20283,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,690.0,798.0,205.0,2019-12-31
+20284,Greater Sydney,Outer Ring,Hawkesbury,Strata,499.0,488.0,20.0,2019-12-31
+20286,Greater Sydney,Outer Ring,Hornsby,Non Strata,1330.0,1373.0,318.0,2019-12-31
+20287,Greater Sydney,Outer Ring,Hornsby,Strata,661.0,709.0,193.0,2019-12-31
+20289,Greater Sydney,Outer Ring,Liverpool,Non Strata,800.0,899.0,408.0,2019-12-31
+20290,Greater Sydney,Outer Ring,Liverpool,Strata,480.0,495.0,172.0,2019-12-31
+20292,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1880.0,2077.0,601.0,2019-12-31
+20293,Greater Sydney,Outer Ring,Northern Beaches,Strata,985.0,1123.0,552.0,2019-12-31
+20295,Greater Sydney,Outer Ring,Penrith,Non Strata,682.0,709.0,476.0,2019-12-31
+20296,Greater Sydney,Outer Ring,Penrith,Strata,490.0,494.0,217.0,2019-12-31
+20298,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1252.0,1346.0,451.0,2019-12-31
+20299,Greater Sydney,Outer Ring,Sutherland Shire,Strata,742.0,802.0,441.0,2019-12-31
+20301,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1300.0,1337.0,512.0,2019-12-31
+20302,Greater Sydney,Outer Ring,The Hills Shire,Strata,800.0,800.0,121.0,2019-12-31
+20304,Greater Sydney,Outer Ring,Wollondilly,Non Strata,755.0,857.0,146.0,2019-12-31
+20305,Greater Sydney,Outer Ring,Wollondilly,Strata,520.0,,5.0,2019-12-31
+22978,Greater Sydney,Inner Ring,Inner West,Non Strata,1700.0,1752.0,322.0,2020-03-31
+22979,Greater Sydney,Inner Ring,Inner West,Strata,820.0,861.0,260.0,2020-03-31
+22981,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2470.0,2688.0,37.0,2020-03-31
+22982,Greater Sydney,Inner Ring,Lane Cove,Strata,878.0,949.0,138.0,2020-03-31
+22984,Greater Sydney,Inner Ring,Mosman,Non Strata,4050.0,4805.0,44.0,2020-03-31
+22985,Greater Sydney,Inner Ring,Mosman,Strata,993.0,1112.0,76.0,2020-03-31
+22987,Greater Sydney,Inner Ring,North Sydney,Non Strata,2673.0,2899.0,44.0,2020-03-31
+22988,Greater Sydney,Inner Ring,North Sydney,Strata,1170.0,1288.0,297.0,2020-03-31
+22990,Greater Sydney,Inner Ring,Randwick,Non Strata,2331.0,2411.0,126.0,2020-03-31
+22991,Greater Sydney,Inner Ring,Randwick,Strata,1000.0,1079.0,227.0,2020-03-31
+22993,Greater Sydney,Inner Ring,Sydney,Non Strata,1691.0,1733.0,135.0,2020-03-31
+22994,Greater Sydney,Inner Ring,Sydney,Strata,935.0,1043.0,743.0,2020-03-31
+22996,Greater Sydney,Inner Ring,Waverley,Non Strata,3008.0,3260.0,88.0,2020-03-31
+22997,Greater Sydney,Inner Ring,Waverley,Strata,1300.0,1446.0,207.0,2020-03-31
+22999,Greater Sydney,Inner Ring,Woollahra,Non Strata,3710.0,3922.0,94.0,2020-03-31
+23000,Greater Sydney,Inner Ring,Woollahra,Strata,1410.0,1716.0,132.0,2020-03-31
+23005,Greater Sydney,Middle Ring,Bayside,Non Strata,1390.0,1411.0,149.0,2020-03-31
+23006,Greater Sydney,Middle Ring,Bayside,Strata,730.0,761.0,439.0,2020-03-31
+23008,Greater Sydney,Middle Ring,Burwood,Non Strata,1500.0,1647.0,31.0,2020-03-31
+23009,Greater Sydney,Middle Ring,Burwood,Strata,830.0,838.0,75.0,2020-03-31
+23011,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1973.0,1999.0,100.0,2020-03-31
+23012,Greater Sydney,Middle Ring,Canada Bay,Strata,925.0,1029.0,190.0,2020-03-31
+23014,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,985.0,1028.0,412.0,2020-03-31
+23015,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,565.0,561.0,382.0,2020-03-31
+23017,Greater Sydney,Middle Ring,Cumberland,Non Strata,893.0,919.0,266.0,2020-03-31
+23018,Greater Sydney,Middle Ring,Cumberland,Strata,570.0,557.0,274.0,2020-03-31
+23020,Greater Sydney,Middle Ring,Georges River,Non Strata,1350.0,1419.0,174.0,2020-03-31
+23021,Greater Sydney,Middle Ring,Georges River,Strata,680.0,692.0,237.0,2020-03-31
+23023,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3540.0,3719.0,20.0,2020-03-31
+23024,Greater Sydney,Middle Ring,Hunters Hill,Strata,853.0,877.0,20.0,2020-03-31
+23026,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2300.0,2515.0,235.0,2020-03-31
+23027,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,934.0,1042.0,166.0,2020-03-31
+23029,Greater Sydney,Middle Ring,Parramatta,Non Strata,1250.0,1307.0,260.0,2020-03-31
+23030,Greater Sydney,Middle Ring,Parramatta,Strata,650.0,668.0,504.0,2020-03-31
+23032,Greater Sydney,Middle Ring,Ryde,Non Strata,1718.0,1826.0,117.0,2020-03-31
+23033,Greater Sydney,Middle Ring,Ryde,Strata,745.0,783.0,338.0,2020-03-31
+23035,Greater Sydney,Middle Ring,Strathfield,Non Strata,2078.0,2083.0,37.0,2020-03-31
+23036,Greater Sydney,Middle Ring,Strathfield,Strata,650.0,647.0,125.0,2020-03-31
+23038,Greater Sydney,Middle Ring,Willoughby,Non Strata,2600.0,2724.0,90.0,2020-03-31
+23039,Greater Sydney,Middle Ring,Willoughby,Strata,1060.0,1193.0,107.0,2020-03-31
+23044,Greater Sydney,Outer Ring,Blacktown,Non Strata,761.0,775.0,733.0,2020-03-31
+23045,Greater Sydney,Outer Ring,Blacktown,Strata,570.0,566.0,206.0,2020-03-31
+23047,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,665.0,696.0,277.0,2020-03-31
+23048,Greater Sydney,Outer Ring,Blue Mountains,Strata,475.0,525.0,20.0,2020-03-31
+23050,Greater Sydney,Outer Ring,Camden,Non Strata,735.0,764.0,300.0,2020-03-31
+23051,Greater Sydney,Outer Ring,Camden,Strata,608.0,590.0,20.0,2020-03-31
+23053,Greater Sydney,Outer Ring,Campbelltown,Non Strata,628.0,634.0,335.0,2020-03-31
+23054,Greater Sydney,Outer Ring,Campbelltown,Strata,441.0,435.0,86.0,2020-03-31
+23056,Greater Sydney,Outer Ring,Central Coast,Non Strata,663.0,709.0,1006.0,2020-03-31
+23057,Greater Sydney,Outer Ring,Central Coast,Strata,500.0,543.0,287.0,2020-03-31
+23059,Greater Sydney,Outer Ring,Fairfield,Non Strata,770.0,776.0,218.0,2020-03-31
+23060,Greater Sydney,Outer Ring,Fairfield,Strata,405.0,417.0,65.0,2020-03-31
+23062,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,718.0,830.0,155.0,2020-03-31
+23063,Greater Sydney,Outer Ring,Hawkesbury,Strata,515.0,821.0,41.0,2020-03-31
+23065,Greater Sydney,Outer Ring,Hornsby,Non Strata,1400.0,1425.0,235.0,2020-03-31
+23066,Greater Sydney,Outer Ring,Hornsby,Strata,673.0,691.0,178.0,2020-03-31
+23068,Greater Sydney,Outer Ring,Liverpool,Non Strata,780.0,778.0,298.0,2020-03-31
+23069,Greater Sydney,Outer Ring,Liverpool,Strata,485.0,485.0,133.0,2020-03-31
+23071,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1925.0,2074.0,465.0,2020-03-31
+23072,Greater Sydney,Outer Ring,Northern Beaches,Strata,958.0,1090.0,439.0,2020-03-31
+23074,Greater Sydney,Outer Ring,Penrith,Non Strata,705.0,725.0,422.0,2020-03-31
+23075,Greater Sydney,Outer Ring,Penrith,Strata,490.0,485.0,237.0,2020-03-31
+23077,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1300.0,1373.0,391.0,2020-03-31
+23078,Greater Sydney,Outer Ring,Sutherland Shire,Strata,745.0,814.0,423.0,2020-03-31
+23080,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1300.0,1363.0,391.0,2020-03-31
+23081,Greater Sydney,Outer Ring,The Hills Shire,Strata,795.0,807.0,137.0,2020-03-31
+23083,Greater Sydney,Outer Ring,Wollondilly,Non Strata,780.0,868.0,126.0,2020-03-31
+23084,Greater Sydney,Outer Ring,Wollondilly,Strata,515.0,,5.0,2020-03-31
+25729,Greater Sydney,Inner Ring,Inner West,Non Strata,1565.0,1626.0,319.0,2020-06-30
+25730,Greater Sydney,Inner Ring,Inner West,Strata,772.0,837.0,216.0,2020-06-30
+25732,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2375.0,2870.0,47.0,2020-06-30
+25733,Greater Sydney,Inner Ring,Lane Cove,Strata,785.0,827.0,70.0,2020-06-30
+25735,Greater Sydney,Inner Ring,Mosman,Non Strata,3730.0,4167.0,41.0,2020-06-30
+25736,Greater Sydney,Inner Ring,Mosman,Strata,950.0,1070.0,65.0,2020-06-30
+25738,Greater Sydney,Inner Ring,North Sydney,Non Strata,2350.0,2415.0,49.0,2020-06-30
+25739,Greater Sydney,Inner Ring,North Sydney,Strata,1100.0,1205.0,234.0,2020-06-30
+25741,Greater Sydney,Inner Ring,Randwick,Non Strata,2170.0,2343.0,135.0,2020-06-30
+25742,Greater Sydney,Inner Ring,Randwick,Strata,975.0,1144.0,203.0,2020-06-30
+25744,Greater Sydney,Inner Ring,Sydney,Non Strata,1650.0,1828.0,151.0,2020-06-30
+25745,Greater Sydney,Inner Ring,Sydney,Strata,885.0,1017.0,558.0,2020-06-30
+25747,Greater Sydney,Inner Ring,Waverley,Non Strata,2901.0,3049.0,89.0,2020-06-30
+25748,Greater Sydney,Inner Ring,Waverley,Strata,1140.0,1187.0,178.0,2020-06-30
+25750,Greater Sydney,Inner Ring,Woollahra,Non Strata,3360.0,3802.0,100.0,2020-06-30
+25751,Greater Sydney,Inner Ring,Woollahra,Strata,1608.0,1816.0,130.0,2020-06-30
+25756,Greater Sydney,Middle Ring,Bayside,Non Strata,1301.0,1374.0,128.0,2020-06-30
+25757,Greater Sydney,Middle Ring,Bayside,Strata,679.0,714.0,290.0,2020-06-30
+25759,Greater Sydney,Middle Ring,Burwood,Non Strata,1845.0,1768.0,20.0,2020-06-30
+25760,Greater Sydney,Middle Ring,Burwood,Strata,690.0,703.0,31.0,2020-06-30
+25762,Greater Sydney,Middle Ring,Canada Bay,Non Strata,1866.0,2042.0,88.0,2020-06-30
+25763,Greater Sydney,Middle Ring,Canada Bay,Strata,900.0,991.0,154.0,2020-06-30
+25765,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,943.0,1001.0,428.0,2020-06-30
+25766,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,564.0,567.0,227.0,2020-06-30
+25768,Greater Sydney,Middle Ring,Cumberland,Non Strata,860.0,876.0,226.0,2020-06-30
+25769,Greater Sydney,Middle Ring,Cumberland,Strata,530.0,540.0,153.0,2020-06-30
+25771,Greater Sydney,Middle Ring,Georges River,Non Strata,1285.0,1402.0,163.0,2020-06-30
+25772,Greater Sydney,Middle Ring,Georges River,Strata,693.0,713.0,162.0,2020-06-30
+25774,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2425.0,2809.0,20.0,2020-06-30
+25775,Greater Sydney,Middle Ring,Hunters Hill,Strata,880.0,991.0,20.0,2020-06-30
+25777,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2203.0,2385.0,222.0,2020-06-30
+25778,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,900.0,953.0,109.0,2020-06-30
+25780,Greater Sydney,Middle Ring,Parramatta,Non Strata,1205.0,1248.0,231.0,2020-06-30
+25781,Greater Sydney,Middle Ring,Parramatta,Strata,630.0,666.0,325.0,2020-06-30
+25783,Greater Sydney,Middle Ring,Ryde,Non Strata,1670.0,1743.0,109.0,2020-06-30
+25784,Greater Sydney,Middle Ring,Ryde,Strata,730.0,754.0,212.0,2020-06-30
+25786,Greater Sydney,Middle Ring,Strathfield,Non Strata,2305.0,2353.0,20.0,2020-06-30
+25787,Greater Sydney,Middle Ring,Strathfield,Strata,630.0,636.0,71.0,2020-06-30
+25789,Greater Sydney,Middle Ring,Willoughby,Non Strata,2515.0,2693.0,89.0,2020-06-30
+25790,Greater Sydney,Middle Ring,Willoughby,Strata,952.0,1023.0,80.0,2020-06-30
+25795,Greater Sydney,Outer Ring,Blacktown,Non Strata,755.0,774.0,682.0,2020-06-30
+25796,Greater Sydney,Outer Ring,Blacktown,Strata,540.0,538.0,113.0,2020-06-30
+25798,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,670.0,715.0,251.0,2020-06-30
+25799,Greater Sydney,Outer Ring,Blue Mountains,Strata,565.0,545.0,20.0,2020-06-30
+25801,Greater Sydney,Outer Ring,Camden,Non Strata,730.0,775.0,261.0,2020-06-30
+25802,Greater Sydney,Outer Ring,Camden,Strata,465.0,495.0,20.0,2020-06-30
+25804,Greater Sydney,Outer Ring,Campbelltown,Non Strata,640.0,637.0,301.0,2020-06-30
+25805,Greater Sydney,Outer Ring,Campbelltown,Strata,430.0,432.0,82.0,2020-06-30
+25807,Greater Sydney,Outer Ring,Central Coast,Non Strata,665.0,728.0,967.0,2020-06-30
+25808,Greater Sydney,Outer Ring,Central Coast,Strata,490.0,517.0,225.0,2020-06-30
+25810,Greater Sydney,Outer Ring,Fairfield,Non Strata,770.0,794.0,215.0,2020-06-30
+25811,Greater Sydney,Outer Ring,Fairfield,Strata,420.0,445.0,72.0,2020-06-30
+25813,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,720.0,860.0,177.0,2020-06-30
+25814,Greater Sydney,Outer Ring,Hawkesbury,Strata,485.0,479.0,20.0,2020-06-30
+25816,Greater Sydney,Outer Ring,Hornsby,Non Strata,1305.0,1361.0,251.0,2020-06-30
+25817,Greater Sydney,Outer Ring,Hornsby,Strata,665.0,721.0,108.0,2020-06-30
+25819,Greater Sydney,Outer Ring,Liverpool,Non Strata,766.0,776.0,286.0,2020-06-30
+25820,Greater Sydney,Outer Ring,Liverpool,Strata,510.0,496.0,108.0,2020-06-30
+25822,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1850.0,2059.0,461.0,2020-06-30
+25823,Greater Sydney,Outer Ring,Northern Beaches,Strata,915.0,1023.0,367.0,2020-06-30
+25825,Greater Sydney,Outer Ring,Penrith,Non Strata,685.0,703.0,408.0,2020-06-30
+25826,Greater Sydney,Outer Ring,Penrith,Strata,473.0,560.0,120.0,2020-06-30
+25828,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1200.0,1292.0,374.0,2020-06-30
+25829,Greater Sydney,Outer Ring,Sutherland Shire,Strata,733.0,841.0,281.0,2020-06-30
+25831,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1320.0,1385.0,357.0,2020-06-30
+25832,Greater Sydney,Outer Ring,The Hills Shire,Strata,784.0,790.0,72.0,2020-06-30
+25834,Greater Sydney,Outer Ring,Wollondilly,Non Strata,745.0,823.0,141.0,2020-06-30
+25835,Greater Sydney,Outer Ring,Wollondilly,Strata,510.0,,5.0,2020-06-30
+28484,Greater Sydney,Inner Ring,Inner West,Non Strata,1550.0,1691.0,453.0,2020-09-30
+28485,Greater Sydney,Inner Ring,Inner West,Strata,742.0,796.0,350.0,2020-09-30
+28487,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2590.0,2718.0,47.0,2020-09-30
+28488,Greater Sydney,Inner Ring,Lane Cove,Strata,745.0,783.0,115.0,2020-09-30
+28490,Greater Sydney,Inner Ring,Mosman,Non Strata,4340.0,4854.0,48.0,2020-09-30
+28491,Greater Sydney,Inner Ring,Mosman,Strata,1023.0,1252.0,110.0,2020-09-30
+28493,Greater Sydney,Inner Ring,North Sydney,Non Strata,2838.0,3268.0,51.0,2020-09-30
+28494,Greater Sydney,Inner Ring,North Sydney,Strata,1075.0,1180.0,294.0,2020-09-30
+28496,Greater Sydney,Inner Ring,Randwick,Non Strata,2213.0,2400.0,176.0,2020-09-30
+28497,Greater Sydney,Inner Ring,Randwick,Strata,995.0,1139.0,298.0,2020-09-30
+28499,Greater Sydney,Inner Ring,Sydney,Non Strata,1625.0,1749.0,190.0,2020-09-30
+28500,Greater Sydney,Inner Ring,Sydney,Strata,900.0,1120.0,825.0,2020-09-30
+28502,Greater Sydney,Inner Ring,Waverley,Non Strata,3050.0,3300.0,122.0,2020-09-30
+28503,Greater Sydney,Inner Ring,Waverley,Strata,1120.0,1256.0,239.0,2020-09-30
+28505,Greater Sydney,Inner Ring,Woollahra,Non Strata,3825.0,4532.0,128.0,2020-09-30
+28506,Greater Sydney,Inner Ring,Woollahra,Strata,1363.0,1606.0,168.0,2020-09-30
+28511,Greater Sydney,Middle Ring,Bayside,Non Strata,1373.0,1401.0,180.0,2020-09-30
+28512,Greater Sydney,Middle Ring,Bayside,Strata,730.0,738.0,499.0,2020-09-30
+28514,Greater Sydney,Middle Ring,Burwood,Non Strata,1610.0,1758.0,20.0,2020-09-30
+28515,Greater Sydney,Middle Ring,Burwood,Strata,820.0,821.0,64.0,2020-09-30
+28517,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2075.0,2177.0,98.0,2020-09-30
+28518,Greater Sydney,Middle Ring,Canada Bay,Strata,930.0,1003.0,233.0,2020-09-30
+28520,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,977.0,1022.0,630.0,2020-09-30
+28521,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,560.0,575.0,421.0,2020-09-30
+28523,Greater Sydney,Middle Ring,Cumberland,Non Strata,870.0,923.0,300.0,2020-09-30
+28524,Greater Sydney,Middle Ring,Cumberland,Strata,530.0,540.0,250.0,2020-09-30
+28526,Greater Sydney,Middle Ring,Georges River,Non Strata,1306.0,1393.0,205.0,2020-09-30
+28527,Greater Sydney,Middle Ring,Georges River,Strata,680.0,693.0,226.0,2020-09-30
+28529,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3100.0,3810.0,41.0,2020-09-30
+28530,Greater Sydney,Middle Ring,Hunters Hill,Strata,1125.0,1158.0,20.0,2020-09-30
+28532,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2370.0,2467.0,338.0,2020-09-30
+28533,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,922.0,1053.0,159.0,2020-09-30
+28535,Greater Sydney,Middle Ring,Parramatta,Non Strata,1250.0,1283.0,340.0,2020-09-30
+28536,Greater Sydney,Middle Ring,Parramatta,Strata,650.0,660.0,590.0,2020-09-30
+28538,Greater Sydney,Middle Ring,Ryde,Non Strata,1681.0,1733.0,164.0,2020-09-30
+28539,Greater Sydney,Middle Ring,Ryde,Strata,773.0,803.0,344.0,2020-09-30
+28541,Greater Sydney,Middle Ring,Strathfield,Non Strata,2194.0,2431.0,36.0,2020-09-30
+28542,Greater Sydney,Middle Ring,Strathfield,Strata,660.0,663.0,112.0,2020-09-30
+28544,Greater Sydney,Middle Ring,Willoughby,Non Strata,2522.0,2672.0,116.0,2020-09-30
+28545,Greater Sydney,Middle Ring,Willoughby,Strata,975.0,1036.0,127.0,2020-09-30
+28550,Greater Sydney,Outer Ring,Blacktown,Non Strata,775.0,787.0,991.0,2020-09-30
+28551,Greater Sydney,Outer Ring,Blacktown,Strata,540.0,536.0,231.0,2020-09-30
+28553,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,695.0,723.0,383.0,2020-09-30
+28554,Greater Sydney,Outer Ring,Blue Mountains,Strata,550.0,552.0,20.0,2020-09-30
+28556,Greater Sydney,Outer Ring,Camden,Non Strata,740.0,782.0,451.0,2020-09-30
+28557,Greater Sydney,Outer Ring,Camden,Strata,600.0,575.0,20.0,2020-09-30
+28559,Greater Sydney,Outer Ring,Campbelltown,Non Strata,640.0,637.0,421.0,2020-09-30
+28560,Greater Sydney,Outer Ring,Campbelltown,Strata,453.0,454.0,111.0,2020-09-30
+28562,Greater Sydney,Outer Ring,Central Coast,Non Strata,700.0,785.0,1478.0,2020-09-30
+28563,Greater Sydney,Outer Ring,Central Coast,Strata,530.0,566.0,386.0,2020-09-30
+28565,Greater Sydney,Outer Ring,Fairfield,Non Strata,801.0,837.0,302.0,2020-09-30
+28566,Greater Sydney,Outer Ring,Fairfield,Strata,445.0,451.0,84.0,2020-09-30
+28568,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,818.0,979.0,242.0,2020-09-30
+28569,Greater Sydney,Outer Ring,Hawkesbury,Strata,493.0,476.0,42.0,2020-09-30
+28571,Greater Sydney,Outer Ring,Hornsby,Non Strata,1329.0,1376.0,314.0,2020-09-30
+28572,Greater Sydney,Outer Ring,Hornsby,Strata,697.0,754.0,178.0,2020-09-30
+28574,Greater Sydney,Outer Ring,Liverpool,Non Strata,769.0,794.0,452.0,2020-09-30
+28575,Greater Sydney,Outer Ring,Liverpool,Strata,500.0,491.0,166.0,2020-09-30
+28577,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,1915.0,2192.0,635.0,2020-09-30
+28578,Greater Sydney,Outer Ring,Northern Beaches,Strata,950.0,1084.0,530.0,2020-09-30
+28580,Greater Sydney,Outer Ring,Penrith,Non Strata,705.0,762.0,579.0,2020-09-30
+28581,Greater Sydney,Outer Ring,Penrith,Strata,500.0,502.0,243.0,2020-09-30
+28583,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1242.0,1323.0,524.0,2020-09-30
+28584,Greater Sydney,Outer Ring,Sutherland Shire,Strata,740.0,781.0,435.0,2020-09-30
+28586,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1300.0,1358.0,553.0,2020-09-30
+28587,Greater Sydney,Outer Ring,The Hills Shire,Strata,795.0,818.0,156.0,2020-09-30
+28589,Greater Sydney,Outer Ring,Wollondilly,Non Strata,743.0,851.0,216.0,2020-09-30
+28590,Greater Sydney,Outer Ring,Wollondilly,Strata,540.0,,5.0,2020-09-30
+31293,Greater Sydney,Inner Ring,Inner West,Non Strata,1678.0,1770.0,530.0,2020-12-31
+31294,Greater Sydney,Inner Ring,Inner West,Strata,810.0,899.0,404.0,2020-12-31
+31296,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2470.0,2646.0,74.0,2020-12-31
+31297,Greater Sydney,Inner Ring,Lane Cove,Strata,772.0,839.0,149.0,2020-12-31
+31299,Greater Sydney,Inner Ring,Mosman,Non Strata,4368.0,4768.0,72.0,2020-12-31
+31300,Greater Sydney,Inner Ring,Mosman,Strata,1085.0,1357.0,85.0,2020-12-31
+31302,Greater Sydney,Inner Ring,North Sydney,Non Strata,2950.0,3437.0,69.0,2020-12-31
+31303,Greater Sydney,Inner Ring,North Sydney,Strata,1160.0,1273.0,395.0,2020-12-31
+31305,Greater Sydney,Inner Ring,Randwick,Non Strata,2300.0,2441.0,211.0,2020-12-31
+31306,Greater Sydney,Inner Ring,Randwick,Strata,950.0,1090.0,361.0,2020-12-31
+31308,Greater Sydney,Inner Ring,Sydney,Non Strata,1790.0,2107.0,244.0,2020-12-31
+31309,Greater Sydney,Inner Ring,Sydney,Strata,890.0,1026.0,1008.0,2020-12-31
+31311,Greater Sydney,Inner Ring,Waverley,Non Strata,3351.0,3509.0,121.0,2020-12-31
+31312,Greater Sydney,Inner Ring,Waverley,Strata,1221.0,1349.0,270.0,2020-12-31
+31314,Greater Sydney,Inner Ring,Woollahra,Non Strata,3874.0,4570.0,131.0,2020-12-31
+31315,Greater Sydney,Inner Ring,Woollahra,Strata,1528.0,1932.0,216.0,2020-12-31
+31320,Greater Sydney,Middle Ring,Bayside,Non Strata,1375.0,1410.0,265.0,2020-12-31
+31321,Greater Sydney,Middle Ring,Bayside,Strata,775.0,763.0,711.0,2020-12-31
+31323,Greater Sydney,Middle Ring,Burwood,Non Strata,1720.0,1780.0,60.0,2020-12-31
+31324,Greater Sydney,Middle Ring,Burwood,Strata,715.0,749.0,78.0,2020-12-31
+31326,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2150.0,2145.0,146.0,2020-12-31
+31327,Greater Sydney,Middle Ring,Canada Bay,Strata,885.0,1004.0,264.0,2020-12-31
+31329,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1000.0,1063.0,678.0,2020-12-31
+31330,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,585.0,690.0,502.0,2020-12-31
+31332,Greater Sydney,Middle Ring,Cumberland,Non Strata,910.0,958.0,387.0,2020-12-31
+31333,Greater Sydney,Middle Ring,Cumberland,Strata,565.0,555.0,366.0,2020-12-31
+31335,Greater Sydney,Middle Ring,Georges River,Non Strata,1390.0,1474.0,289.0,2020-12-31
+31336,Greater Sydney,Middle Ring,Georges River,Strata,665.0,722.0,301.0,2020-12-31
+31338,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2978.0,3416.0,42.0,2020-12-31
+31339,Greater Sydney,Middle Ring,Hunters Hill,Strata,1263.0,1369.0,20.0,2020-12-31
+31341,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2500.0,2648.0,396.0,2020-12-31
+31342,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,950.0,1049.0,197.0,2020-12-31
+31344,Greater Sydney,Middle Ring,Parramatta,Non Strata,1290.0,1345.0,444.0,2020-12-31
+31345,Greater Sydney,Middle Ring,Parramatta,Strata,675.0,675.0,769.0,2020-12-31
+31347,Greater Sydney,Middle Ring,Ryde,Non Strata,1750.0,1854.0,232.0,2020-12-31
+31348,Greater Sydney,Middle Ring,Ryde,Strata,760.0,791.0,396.0,2020-12-31
+31350,Greater Sydney,Middle Ring,Strathfield,Non Strata,2620.0,2606.0,59.0,2020-12-31
+31351,Greater Sydney,Middle Ring,Strathfield,Strata,656.0,949.0,194.0,2020-12-31
+31353,Greater Sydney,Middle Ring,Willoughby,Non Strata,2639.0,2738.0,163.0,2020-12-31
+31354,Greater Sydney,Middle Ring,Willoughby,Strata,951.0,1025.0,134.0,2020-12-31
+31359,Greater Sydney,Outer Ring,Blacktown,Non Strata,795.0,809.0,1168.0,2020-12-31
+31360,Greater Sydney,Outer Ring,Blacktown,Strata,545.0,537.0,338.0,2020-12-31
+31362,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,720.0,753.0,439.0,2020-12-31
+31363,Greater Sydney,Outer Ring,Blue Mountains,Strata,515.0,516.0,20.0,2020-12-31
+31365,Greater Sydney,Outer Ring,Camden,Non Strata,785.0,818.0,524.0,2020-12-31
+31366,Greater Sydney,Outer Ring,Camden,Strata,613.0,609.0,34.0,2020-12-31
+31368,Greater Sydney,Outer Ring,Campbelltown,Non Strata,650.0,658.0,497.0,2020-12-31
+31369,Greater Sydney,Outer Ring,Campbelltown,Strata,440.0,449.0,99.0,2020-12-31
+31371,Greater Sydney,Outer Ring,Central Coast,Non Strata,730.0,823.0,1683.0,2020-12-31
+31372,Greater Sydney,Outer Ring,Central Coast,Strata,565.0,604.0,469.0,2020-12-31
+31374,Greater Sydney,Outer Ring,Fairfield,Non Strata,815.0,851.0,387.0,2020-12-31
+31375,Greater Sydney,Outer Ring,Fairfield,Strata,436.0,683.0,131.0,2020-12-31
+31377,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,820.0,1003.0,267.0,2020-12-31
+31378,Greater Sydney,Outer Ring,Hawkesbury,Strata,505.0,480.0,40.0,2020-12-31
+31380,Greater Sydney,Outer Ring,Hornsby,Non Strata,1450.0,1481.0,403.0,2020-12-31
+31381,Greater Sydney,Outer Ring,Hornsby,Strata,695.0,750.0,185.0,2020-12-31
+31383,Greater Sydney,Outer Ring,Liverpool,Non Strata,795.0,824.0,515.0,2020-12-31
+31384,Greater Sydney,Outer Ring,Liverpool,Strata,500.0,500.0,205.0,2020-12-31
+31386,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2084.0,2337.0,732.0,2020-12-31
+31387,Greater Sydney,Outer Ring,Northern Beaches,Strata,970.0,1124.0,618.0,2020-12-31
+31389,Greater Sydney,Outer Ring,Penrith,Non Strata,726.0,769.0,604.0,2020-12-31
+31390,Greater Sydney,Outer Ring,Penrith,Strata,518.0,509.0,298.0,2020-12-31
+31392,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1324.0,1422.0,628.0,2020-12-31
+31393,Greater Sydney,Outer Ring,Sutherland Shire,Strata,770.0,824.0,563.0,2020-12-31
+31395,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1326.0,1369.0,702.0,2020-12-31
+31396,Greater Sydney,Outer Ring,The Hills Shire,Strata,830.0,832.0,213.0,2020-12-31
+31398,Greater Sydney,Outer Ring,Wollondilly,Non Strata,767.0,838.0,224.0,2020-12-31
+31399,Greater Sydney,Outer Ring,Wollondilly,Strata,545.0,,5.0,2020-12-31
+34122,Greater Sydney,Inner Ring,Inner West,Non Strata,1798.0,1884.0,410.0,2021-03-31
+34123,Greater Sydney,Inner Ring,Inner West,Strata,770.0,848.0,375.0,2021-03-31
+34125,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2950.0,3089.0,55.0,2021-03-31
+34126,Greater Sydney,Inner Ring,Lane Cove,Strata,773.0,861.0,144.0,2021-03-31
+34128,Greater Sydney,Inner Ring,Mosman,Non Strata,4750.0,5059.0,60.0,2021-03-31
+34129,Greater Sydney,Inner Ring,Mosman,Strata,1120.0,1378.0,85.0,2021-03-31
+34131,Greater Sydney,Inner Ring,North Sydney,Non Strata,3300.0,3451.0,71.0,2021-03-31
+34132,Greater Sydney,Inner Ring,North Sydney,Strata,1180.0,1269.0,323.0,2021-03-31
+34134,Greater Sydney,Inner Ring,Randwick,Non Strata,2700.0,2903.0,193.0,2021-03-31
+34135,Greater Sydney,Inner Ring,Randwick,Strata,989.0,1100.0,354.0,2021-03-31
+34137,Greater Sydney,Inner Ring,Sydney,Non Strata,1750.0,1936.0,222.0,2021-03-31
+34138,Greater Sydney,Inner Ring,Sydney,Strata,918.0,1090.0,1078.0,2021-03-31
+34140,Greater Sydney,Inner Ring,Waverley,Non Strata,3560.0,4035.0,103.0,2021-03-31
+34141,Greater Sydney,Inner Ring,Waverley,Strata,1365.0,1697.0,268.0,2021-03-31
+34143,Greater Sydney,Inner Ring,Woollahra,Non Strata,4287.0,4594.0,107.0,2021-03-31
+34144,Greater Sydney,Inner Ring,Woollahra,Strata,1640.0,2067.0,199.0,2021-03-31
+34149,Greater Sydney,Middle Ring,Bayside,Non Strata,1505.0,1537.0,177.0,2021-03-31
+34150,Greater Sydney,Middle Ring,Bayside,Strata,745.0,765.0,676.0,2021-03-31
+34152,Greater Sydney,Middle Ring,Burwood,Non Strata,1860.0,2012.0,49.0,2021-03-31
+34153,Greater Sydney,Middle Ring,Burwood,Strata,769.0,783.0,84.0,2021-03-31
+34155,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2430.0,2429.0,126.0,2021-03-31
+34156,Greater Sydney,Middle Ring,Canada Bay,Strata,1013.0,1091.0,297.0,2021-03-31
+34158,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1100.0,1157.0,665.0,2021-03-31
+34159,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,573.0,584.0,558.0,2021-03-31
+34161,Greater Sydney,Middle Ring,Cumberland,Non Strata,940.0,1000.0,339.0,2021-03-31
+34162,Greater Sydney,Middle Ring,Cumberland,Strata,550.0,547.0,378.0,2021-03-31
+34164,Greater Sydney,Middle Ring,Georges River,Non Strata,1495.0,1579.0,251.0,2021-03-31
+34165,Greater Sydney,Middle Ring,Georges River,Strata,710.0,2285.0,335.0,2021-03-31
+34167,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,2855.0,3735.0,20.0,2021-03-31
+34168,Greater Sydney,Middle Ring,Hunters Hill,Strata,1100.0,1185.0,20.0,2021-03-31
+34170,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2783.0,3011.0,312.0,2021-03-31
+34171,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,990.0,1127.0,186.0,2021-03-31
+34173,Greater Sydney,Middle Ring,Parramatta,Non Strata,1360.0,1409.0,375.0,2021-03-31
+34174,Greater Sydney,Middle Ring,Parramatta,Strata,690.0,689.0,810.0,2021-03-31
+34176,Greater Sydney,Middle Ring,Ryde,Non Strata,1973.0,2105.0,158.0,2021-03-31
+34177,Greater Sydney,Middle Ring,Ryde,Strata,800.0,843.0,453.0,2021-03-31
+34179,Greater Sydney,Middle Ring,Strathfield,Non Strata,2873.0,2622.0,42.0,2021-03-31
+34180,Greater Sydney,Middle Ring,Strathfield,Strata,635.0,641.0,167.0,2021-03-31
+34182,Greater Sydney,Middle Ring,Willoughby,Non Strata,2970.0,3124.0,125.0,2021-03-31
+34183,Greater Sydney,Middle Ring,Willoughby,Strata,1015.0,1087.0,138.0,2021-03-31
+34188,Greater Sydney,Outer Ring,Blacktown,Non Strata,850.0,879.0,1189.0,2021-03-31
+34189,Greater Sydney,Outer Ring,Blacktown,Strata,570.0,572.0,400.0,2021-03-31
+34191,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,767.0,820.0,358.0,2021-03-31
+34192,Greater Sydney,Outer Ring,Blue Mountains,Strata,600.0,603.0,20.0,2021-03-31
+34194,Greater Sydney,Outer Ring,Camden,Non Strata,831.0,876.0,414.0,2021-03-31
+34195,Greater Sydney,Outer Ring,Camden,Strata,610.0,586.0,20.0,2021-03-31
+34197,Greater Sydney,Outer Ring,Campbelltown,Non Strata,700.0,714.0,498.0,2021-03-31
+34198,Greater Sydney,Outer Ring,Campbelltown,Strata,465.0,474.0,123.0,2021-03-31
+34200,Greater Sydney,Outer Ring,Central Coast,Non Strata,796.0,901.0,1513.0,2021-03-31
+34201,Greater Sydney,Outer Ring,Central Coast,Strata,555.0,602.0,487.0,2021-03-31
+34203,Greater Sydney,Outer Ring,Fairfield,Non Strata,855.0,881.0,315.0,2021-03-31
+34204,Greater Sydney,Outer Ring,Fairfield,Strata,470.0,494.0,101.0,2021-03-31
+34206,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,796.0,922.0,260.0,2021-03-31
+34207,Greater Sydney,Outer Ring,Hawkesbury,Strata,573.0,563.0,20.0,2021-03-31
+34209,Greater Sydney,Outer Ring,Hornsby,Non Strata,1630.0,1672.0,340.0,2021-03-31
+34210,Greater Sydney,Outer Ring,Hornsby,Strata,701.0,774.0,248.0,2021-03-31
+34212,Greater Sydney,Outer Ring,Liverpool,Non Strata,830.0,849.0,443.0,2021-03-31
+34213,Greater Sydney,Outer Ring,Liverpool,Strata,520.0,520.0,198.0,2021-03-31
+34215,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2350.0,2616.0,546.0,2021-03-31
+34216,Greater Sydney,Outer Ring,Northern Beaches,Strata,1060.0,1226.0,541.0,2021-03-31
+34218,Greater Sydney,Outer Ring,Penrith,Non Strata,780.0,810.0,576.0,2021-03-31
+34219,Greater Sydney,Outer Ring,Penrith,Strata,522.0,510.0,369.0,2021-03-31
+34221,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1465.0,1563.0,511.0,2021-03-31
+34222,Greater Sydney,Outer Ring,Sutherland Shire,Strata,813.0,921.0,655.0,2021-03-31
+34224,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1500.0,1602.0,590.0,2021-03-31
+34225,Greater Sydney,Outer Ring,The Hills Shire,Strata,819.0,841.0,198.0,2021-03-31
+34227,Greater Sydney,Outer Ring,Wollondilly,Non Strata,830.0,922.0,193.0,2021-03-31
+34228,Greater Sydney,Outer Ring,Wollondilly,Strata,573.0,,5.0,2021-03-31
+36957,Greater Sydney,Inner Ring,Inner West,Non Strata,1910.0,2084.0,494.0,2021-06-30
+36958,Greater Sydney,Inner Ring,Inner West,Strata,829.0,967.0,512.0,2021-06-30
+36960,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3200.0,3588.0,77.0,2021-06-30
+36961,Greater Sydney,Inner Ring,Lane Cove,Strata,850.0,993.0,174.0,2021-06-30
+36963,Greater Sydney,Inner Ring,Mosman,Non Strata,4890.0,5348.0,77.0,2021-06-30
+36964,Greater Sydney,Inner Ring,Mosman,Strata,1255.0,1550.0,104.0,2021-06-30
+36966,Greater Sydney,Inner Ring,North Sydney,Non Strata,3483.0,5647.0,98.0,2021-06-30
+36967,Greater Sydney,Inner Ring,North Sydney,Strata,1200.0,1394.0,447.0,2021-06-30
+36969,Greater Sydney,Inner Ring,Randwick,Non Strata,2925.0,3185.0,227.0,2021-06-30
+36970,Greater Sydney,Inner Ring,Randwick,Strata,1125.0,1243.0,409.0,2021-06-30
+36972,Greater Sydney,Inner Ring,Sydney,Non Strata,2000.0,2228.0,211.0,2021-06-30
+36973,Greater Sydney,Inner Ring,Sydney,Strata,980.0,1237.0,1333.0,2021-06-30
+36975,Greater Sydney,Inner Ring,Waverley,Non Strata,4003.0,4309.0,126.0,2021-06-30
+36976,Greater Sydney,Inner Ring,Waverley,Strata,1395.0,1669.0,360.0,2021-06-30
+36978,Greater Sydney,Inner Ring,Woollahra,Non Strata,4550.0,5234.0,142.0,2021-06-30
+36979,Greater Sydney,Inner Ring,Woollahra,Strata,1670.0,2181.0,319.0,2021-06-30
+36984,Greater Sydney,Middle Ring,Bayside,Non Strata,1670.0,1703.0,277.0,2021-06-30
+36985,Greater Sydney,Middle Ring,Bayside,Strata,733.0,788.0,674.0,2021-06-30
+36987,Greater Sydney,Middle Ring,Burwood,Non Strata,2048.0,2220.0,50.0,2021-06-30
+36988,Greater Sydney,Middle Ring,Burwood,Strata,860.0,887.0,105.0,2021-06-30
+36990,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2568.0,2715.0,144.0,2021-06-30
+36991,Greater Sydney,Middle Ring,Canada Bay,Strata,1044.0,1122.0,346.0,2021-06-30
+36993,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1221.0,1266.0,916.0,2021-06-30
+36994,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,582.0,605.0,625.0,2021-06-30
+36996,Greater Sydney,Middle Ring,Cumberland,Non Strata,1010.0,1063.0,511.0,2021-06-30
+36997,Greater Sydney,Middle Ring,Cumberland,Strata,576.0,582.0,468.0,2021-06-30
+36999,Greater Sydney,Middle Ring,Georges River,Non Strata,1622.0,1700.0,301.0,2021-06-30
+37000,Greater Sydney,Middle Ring,Georges River,Strata,690.0,726.0,369.0,2021-06-30
+37002,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3288.0,3658.0,20.0,2021-06-30
+37003,Greater Sydney,Middle Ring,Hunters Hill,Strata,1600.0,2127.0,20.0,2021-06-30
+37005,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2928.0,3179.0,398.0,2021-06-30
+37006,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1060.0,1191.0,272.0,2021-06-30
+37008,Greater Sydney,Middle Ring,Parramatta,Non Strata,1499.0,1570.0,464.0,2021-06-30
+37009,Greater Sydney,Middle Ring,Parramatta,Strata,710.0,711.0,976.0,2021-06-30
+37011,Greater Sydney,Middle Ring,Ryde,Non Strata,2161.0,2215.0,268.0,2021-06-30
+37012,Greater Sydney,Middle Ring,Ryde,Strata,860.0,956.0,593.0,2021-06-30
+37014,Greater Sydney,Middle Ring,Strathfield,Non Strata,2944.0,2949.0,62.0,2021-06-30
+37015,Greater Sydney,Middle Ring,Strathfield,Strata,650.0,660.0,183.0,2021-06-30
+37017,Greater Sydney,Middle Ring,Willoughby,Non Strata,3301.0,3452.0,165.0,2021-06-30
+37018,Greater Sydney,Middle Ring,Willoughby,Strata,1055.0,1109.0,161.0,2021-06-30
+37023,Greater Sydney,Outer Ring,Blacktown,Non Strata,920.0,961.0,1283.0,2021-06-30
+37024,Greater Sydney,Outer Ring,Blacktown,Strata,580.0,599.0,549.0,2021-06-30
+37026,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,805.0,863.0,407.0,2021-06-30
+37027,Greater Sydney,Outer Ring,Blue Mountains,Strata,555.0,579.0,20.0,2021-06-30
+37029,Greater Sydney,Outer Ring,Camden,Non Strata,865.0,936.0,496.0,2021-06-30
+37030,Greater Sydney,Outer Ring,Camden,Strata,519.0,588.0,39.0,2021-06-30
+37032,Greater Sydney,Outer Ring,Campbelltown,Non Strata,730.0,753.0,549.0,2021-06-30
+37033,Greater Sydney,Outer Ring,Campbelltown,Strata,477.0,487.0,179.0,2021-06-30
+37035,Greater Sydney,Outer Ring,Central Coast,Non Strata,855.0,959.0,1619.0,2021-06-30
+37036,Greater Sydney,Outer Ring,Central Coast,Strata,615.0,672.0,442.0,2021-06-30
+37038,Greater Sydney,Outer Ring,Fairfield,Non Strata,920.0,952.0,445.0,2021-06-30
+37039,Greater Sydney,Outer Ring,Fairfield,Strata,429.0,465.0,110.0,2021-06-30
+37041,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,870.0,1058.0,261.0,2021-06-30
+37042,Greater Sydney,Outer Ring,Hawkesbury,Strata,585.0,571.0,33.0,2021-06-30
+37044,Greater Sydney,Outer Ring,Hornsby,Non Strata,1780.0,1822.0,410.0,2021-06-30
+37045,Greater Sydney,Outer Ring,Hornsby,Strata,705.0,747.0,263.0,2021-06-30
+37047,Greater Sydney,Outer Ring,Liverpool,Non Strata,900.0,940.0,579.0,2021-06-30
+37048,Greater Sydney,Outer Ring,Liverpool,Strata,524.0,525.0,282.0,2021-06-30
+37050,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2610.0,2942.0,725.0,2021-06-30
+37051,Greater Sydney,Outer Ring,Northern Beaches,Strata,1188.0,1270.0,630.0,2021-06-30
+37053,Greater Sydney,Outer Ring,Penrith,Non Strata,808.0,863.0,723.0,2021-06-30
+37054,Greater Sydney,Outer Ring,Penrith,Strata,521.0,514.0,346.0,2021-06-30
+37056,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1600.0,1750.0,608.0,2021-06-30
+37057,Greater Sydney,Outer Ring,Sutherland Shire,Strata,800.0,897.0,736.0,2021-06-30
+37059,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1676.0,1737.0,635.0,2021-06-30
+37060,Greater Sydney,Outer Ring,The Hills Shire,Strata,818.0,830.0,206.0,2021-06-30
+37062,Greater Sydney,Outer Ring,Wollondilly,Non Strata,895.0,1051.0,227.0,2021-06-30
+37063,Greater Sydney,Outer Ring,Wollondilly,Strata,492.0,479.0,20.0,2021-06-30
+39786,Greater Sydney,Inner Ring,Inner West,Non Strata,2054.0,2202.0,464.0,2021-09-30
+39787,Greater Sydney,Inner Ring,Inner West,Strata,855.0,947.0,443.0,2021-09-30
+39789,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3220.0,3344.0,65.0,2021-09-30
+39790,Greater Sydney,Inner Ring,Lane Cove,Strata,890.0,986.0,199.0,2021-09-30
+39792,Greater Sydney,Inner Ring,Mosman,Non Strata,5363.0,5746.0,59.0,2021-09-30
+39793,Greater Sydney,Inner Ring,Mosman,Strata,1300.0,1935.0,99.0,2021-09-30
+39795,Greater Sydney,Inner Ring,North Sydney,Non Strata,3185.0,3354.0,70.0,2021-09-30
+39796,Greater Sydney,Inner Ring,North Sydney,Strata,1315.0,1545.0,417.0,2021-09-30
+39798,Greater Sydney,Inner Ring,Randwick,Non Strata,3110.0,3304.0,203.0,2021-09-30
+39799,Greater Sydney,Inner Ring,Randwick,Strata,1160.0,1298.0,387.0,2021-09-30
+39801,Greater Sydney,Inner Ring,Sydney,Non Strata,2030.0,2229.0,256.0,2021-09-30
+39802,Greater Sydney,Inner Ring,Sydney,Strata,986.0,1193.0,1189.0,2021-09-30
+39804,Greater Sydney,Inner Ring,Waverley,Non Strata,4068.0,4524.0,112.0,2021-09-30
+39805,Greater Sydney,Inner Ring,Waverley,Strata,1400.0,1513.0,273.0,2021-09-30
+39807,Greater Sydney,Inner Ring,Woollahra,Non Strata,4500.0,5416.0,112.0,2021-09-30
+39808,Greater Sydney,Inner Ring,Woollahra,Strata,1506.0,2073.0,210.0,2021-09-30
+39813,Greater Sydney,Middle Ring,Bayside,Non Strata,1815.0,1879.0,230.0,2021-09-30
+39814,Greater Sydney,Middle Ring,Bayside,Strata,750.0,796.0,625.0,2021-09-30
+39816,Greater Sydney,Middle Ring,Burwood,Non Strata,2000.0,2140.0,45.0,2021-09-30
+39817,Greater Sydney,Middle Ring,Burwood,Strata,750.0,825.0,55.0,2021-09-30
+39819,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2619.0,2781.0,121.0,2021-09-30
+39820,Greater Sydney,Middle Ring,Canada Bay,Strata,1020.0,1098.0,305.0,2021-09-30
+39822,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1230.0,1287.0,708.0,2021-09-30
+39823,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,588.0,605.0,436.0,2021-09-30
+39825,Greater Sydney,Middle Ring,Cumberland,Non Strata,1051.0,1090.0,342.0,2021-09-30
+39826,Greater Sydney,Middle Ring,Cumberland,Strata,595.0,669.0,336.0,2021-09-30
+39828,Greater Sydney,Middle Ring,Georges River,Non Strata,1705.0,1838.0,240.0,2021-09-30
+39829,Greater Sydney,Middle Ring,Georges River,Strata,713.0,751.0,315.0,2021-09-30
+39831,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3976.0,4252.0,36.0,2021-09-30
+39832,Greater Sydney,Middle Ring,Hunters Hill,Strata,1230.0,1286.0,20.0,2021-09-30
+39834,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3055.0,3310.0,356.0,2021-09-30
+39835,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1085.0,1157.0,225.0,2021-09-30
+39837,Greater Sydney,Middle Ring,Parramatta,Non Strata,1566.0,1625.0,394.0,2021-09-30
+39838,Greater Sydney,Middle Ring,Parramatta,Strata,705.0,708.0,866.0,2021-09-30
+39840,Greater Sydney,Middle Ring,Ryde,Non Strata,2350.0,2361.0,203.0,2021-09-30
+39841,Greater Sydney,Middle Ring,Ryde,Strata,830.0,887.0,454.0,2021-09-30
+39843,Greater Sydney,Middle Ring,Strathfield,Non Strata,3200.0,3336.0,45.0,2021-09-30
+39844,Greater Sydney,Middle Ring,Strathfield,Strata,640.0,659.0,145.0,2021-09-30
+39846,Greater Sydney,Middle Ring,Willoughby,Non Strata,3350.0,3607.0,124.0,2021-09-30
+39847,Greater Sydney,Middle Ring,Willoughby,Strata,1060.0,1154.0,143.0,2021-09-30
+39852,Greater Sydney,Outer Ring,Blacktown,Non Strata,965.0,1003.0,1153.0,2021-09-30
+39853,Greater Sydney,Outer Ring,Blacktown,Strata,624.0,613.0,389.0,2021-09-30
+39855,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,860.0,930.0,365.0,2021-09-30
+39856,Greater Sydney,Outer Ring,Blue Mountains,Strata,679.0,681.0,20.0,2021-09-30
+39858,Greater Sydney,Outer Ring,Camden,Non Strata,940.0,1052.0,426.0,2021-09-30
+39859,Greater Sydney,Outer Ring,Camden,Strata,641.0,662.0,20.0,2021-09-30
+39861,Greater Sydney,Outer Ring,Campbelltown,Non Strata,770.0,809.0,516.0,2021-09-30
+39862,Greater Sydney,Outer Ring,Campbelltown,Strata,494.0,505.0,126.0,2021-09-30
+39864,Greater Sydney,Outer Ring,Central Coast,Non Strata,910.0,1041.0,1533.0,2021-09-30
+39865,Greater Sydney,Outer Ring,Central Coast,Strata,605.0,645.0,432.0,2021-09-30
+39867,Greater Sydney,Outer Ring,Fairfield,Non Strata,916.0,959.0,307.0,2021-09-30
+39868,Greater Sydney,Outer Ring,Fairfield,Strata,486.0,510.0,82.0,2021-09-30
+39870,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,945.0,1147.0,255.0,2021-09-30
+39871,Greater Sydney,Outer Ring,Hawkesbury,Strata,560.0,570.0,31.0,2021-09-30
+39873,Greater Sydney,Outer Ring,Hornsby,Non Strata,1800.0,1876.0,359.0,2021-09-30
+39874,Greater Sydney,Outer Ring,Hornsby,Strata,720.0,756.0,210.0,2021-09-30
+39876,Greater Sydney,Outer Ring,Liverpool,Non Strata,970.0,1043.0,484.0,2021-09-30
+39877,Greater Sydney,Outer Ring,Liverpool,Strata,530.0,536.0,225.0,2021-09-30
+39879,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2786.0,3069.0,635.0,2021-09-30
+39880,Greater Sydney,Outer Ring,Northern Beaches,Strata,1285.0,1411.0,659.0,2021-09-30
+39882,Greater Sydney,Outer Ring,Penrith,Non Strata,842.0,900.0,648.0,2021-09-30
+39883,Greater Sydney,Outer Ring,Penrith,Strata,540.0,531.0,310.0,2021-09-30
+39885,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1661.0,1802.0,576.0,2021-09-30
+39886,Greater Sydney,Outer Ring,Sutherland Shire,Strata,844.0,960.0,688.0,2021-09-30
+39888,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1700.0,1777.0,614.0,2021-09-30
+39889,Greater Sydney,Outer Ring,The Hills Shire,Strata,870.0,917.0,195.0,2021-09-30
+39891,Greater Sydney,Outer Ring,Wollondilly,Non Strata,925.0,1121.0,226.0,2021-09-30
+39892,Greater Sydney,Outer Ring,Wollondilly,Strata,517.0,548.0,20.0,2021-09-30
+42605,Greater Sydney,Inner Ring,Inner West,Non Strata,2140.0,2243.0,569.0,2021-12-31
+42606,Greater Sydney,Inner Ring,Inner West,Strata,865.0,974.0,470.0,2021-12-31
+42608,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3685.0,3974.0,80.0,2021-12-31
+42609,Greater Sydney,Inner Ring,Lane Cove,Strata,900.0,982.0,234.0,2021-12-31
+42611,Greater Sydney,Inner Ring,Mosman,Non Strata,5300.0,5954.0,55.0,2021-12-31
+42612,Greater Sydney,Inner Ring,Mosman,Strata,1600.0,2812.0,125.0,2021-12-31
+42614,Greater Sydney,Inner Ring,North Sydney,Non Strata,3600.0,3737.0,77.0,2021-12-31
+42615,Greater Sydney,Inner Ring,North Sydney,Strata,1368.0,1494.0,442.0,2021-12-31
+42617,Greater Sydney,Inner Ring,Randwick,Non Strata,3181.0,3284.0,208.0,2021-12-31
+42618,Greater Sydney,Inner Ring,Randwick,Strata,1162.0,1257.0,421.0,2021-12-31
+42620,Greater Sydney,Inner Ring,Sydney,Non Strata,2190.0,2305.0,259.0,2021-12-31
+42621,Greater Sydney,Inner Ring,Sydney,Strata,986.0,1169.0,1354.0,2021-12-31
+42623,Greater Sydney,Inner Ring,Waverley,Non Strata,4200.0,4703.0,127.0,2021-12-31
+42624,Greater Sydney,Inner Ring,Waverley,Strata,1570.0,1809.0,331.0,2021-12-31
+42626,Greater Sydney,Inner Ring,Woollahra,Non Strata,4250.0,5813.0,142.0,2021-12-31
+42627,Greater Sydney,Inner Ring,Woollahra,Strata,1750.0,2171.0,257.0,2021-12-31
+42632,Greater Sydney,Middle Ring,Bayside,Non Strata,1800.0,1893.0,287.0,2021-12-31
+42633,Greater Sydney,Middle Ring,Bayside,Strata,750.0,812.0,645.0,2021-12-31
+42635,Greater Sydney,Middle Ring,Burwood,Non Strata,2201.0,2248.0,74.0,2021-12-31
+42636,Greater Sydney,Middle Ring,Burwood,Strata,840.0,881.0,108.0,2021-12-31
+42638,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2950.0,3535.0,174.0,2021-12-31
+42639,Greater Sydney,Middle Ring,Canada Bay,Strata,1000.0,1105.0,356.0,2021-12-31
+42641,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1294.0,1329.0,908.0,2021-12-31
+42642,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,582.0,605.0,532.0,2021-12-31
+42644,Greater Sydney,Middle Ring,Cumberland,Non Strata,1150.0,1173.0,488.0,2021-12-31
+42645,Greater Sydney,Middle Ring,Cumberland,Strata,566.0,583.0,404.0,2021-12-31
+42647,Greater Sydney,Middle Ring,Georges River,Non Strata,1800.0,1939.0,342.0,2021-12-31
+42648,Greater Sydney,Middle Ring,Georges River,Strata,715.0,768.0,365.0,2021-12-31
+42650,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,4055.0,5336.0,34.0,2021-12-31
+42651,Greater Sydney,Middle Ring,Hunters Hill,Strata,1008.0,1286.0,36.0,2021-12-31
+42653,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3280.0,3448.0,369.0,2021-12-31
+42654,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1019.0,1130.0,245.0,2021-12-31
+42656,Greater Sydney,Middle Ring,Parramatta,Non Strata,1685.0,1736.0,471.0,2021-12-31
+42657,Greater Sydney,Middle Ring,Parramatta,Strata,720.0,814.0,1015.0,2021-12-31
+42659,Greater Sydney,Middle Ring,Ryde,Non Strata,2500.0,2590.0,256.0,2021-12-31
+42660,Greater Sydney,Middle Ring,Ryde,Strata,811.0,869.0,444.0,2021-12-31
+42662,Greater Sydney,Middle Ring,Strathfield,Non Strata,2900.0,2904.0,71.0,2021-12-31
+42663,Greater Sydney,Middle Ring,Strathfield,Strata,665.0,713.0,180.0,2021-12-31
+42665,Greater Sydney,Middle Ring,Willoughby,Non Strata,3560.0,3710.0,166.0,2021-12-31
+42666,Greater Sydney,Middle Ring,Willoughby,Strata,1070.0,1116.0,153.0,2021-12-31
+42671,Greater Sydney,Outer Ring,Blacktown,Non Strata,980.0,1038.0,1225.0,2021-12-31
+42672,Greater Sydney,Outer Ring,Blacktown,Strata,605.0,610.0,484.0,2021-12-31
+42674,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,940.0,1072.0,473.0,2021-12-31
+42675,Greater Sydney,Outer Ring,Blue Mountains,Strata,625.0,629.0,20.0,2021-12-31
+42677,Greater Sydney,Outer Ring,Camden,Non Strata,1000.0,1074.0,537.0,2021-12-31
+42678,Greater Sydney,Outer Ring,Camden,Strata,728.0,963.0,32.0,2021-12-31
+42680,Greater Sydney,Outer Ring,Campbelltown,Non Strata,815.0,837.0,575.0,2021-12-31
+42681,Greater Sydney,Outer Ring,Campbelltown,Strata,518.0,529.0,188.0,2021-12-31
+42683,Greater Sydney,Outer Ring,Central Coast,Non Strata,970.0,1129.0,1608.0,2021-12-31
+42684,Greater Sydney,Outer Ring,Central Coast,Strata,625.0,669.0,428.0,2021-12-31
+42686,Greater Sydney,Outer Ring,Fairfield,Non Strata,990.0,1042.0,411.0,2021-12-31
+42687,Greater Sydney,Outer Ring,Fairfield,Strata,520.0,1045.0,133.0,2021-12-31
+42689,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,1020.0,1256.0,268.0,2021-12-31
+42690,Greater Sydney,Outer Ring,Hawkesbury,Strata,651.0,649.0,42.0,2021-12-31
+42692,Greater Sydney,Outer Ring,Hornsby,Non Strata,2000.0,2025.0,457.0,2021-12-31
+42693,Greater Sydney,Outer Ring,Hornsby,Strata,744.0,836.0,229.0,2021-12-31
+42695,Greater Sydney,Outer Ring,Liverpool,Non Strata,1011.0,1078.0,622.0,2021-12-31
+42696,Greater Sydney,Outer Ring,Liverpool,Strata,534.0,537.0,254.0,2021-12-31
+42698,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2810.0,3094.0,700.0,2021-12-31
+42699,Greater Sydney,Outer Ring,Northern Beaches,Strata,1274.0,1393.0,650.0,2021-12-31
+42701,Greater Sydney,Outer Ring,Penrith,Non Strata,920.0,991.0,686.0,2021-12-31
+42702,Greater Sydney,Outer Ring,Penrith,Strata,561.0,558.0,342.0,2021-12-31
+42704,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1799.0,1940.0,656.0,2021-12-31
+42705,Greater Sydney,Outer Ring,Sutherland Shire,Strata,898.0,991.0,640.0,2021-12-31
+42707,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1873.0,1976.0,612.0,2021-12-31
+42708,Greater Sydney,Outer Ring,The Hills Shire,Strata,932.0,995.0,239.0,2021-12-31
+42710,Greater Sydney,Outer Ring,Wollondilly,Non Strata,1005.0,1116.0,221.0,2021-12-31
+42711,Greater Sydney,Outer Ring,Wollondilly,Strata,625.0,,5.0,2021-12-31
+45438,Greater Sydney,Inner Ring,Inner West,Non Strata,2100.0,2269.0,361.0,2022-03-31
+45439,Greater Sydney,Inner Ring,Inner West,Strata,839.0,922.0,371.0,2022-03-31
+45441,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3750.0,3942.0,41.0,2022-03-31
+45442,Greater Sydney,Inner Ring,Lane Cove,Strata,857.0,1027.0,149.0,2022-03-31
+45444,Greater Sydney,Inner Ring,Mosman,Non Strata,4900.0,5765.0,47.0,2022-03-31
+45445,Greater Sydney,Inner Ring,Mosman,Strata,1200.0,1398.0,80.0,2022-03-31
+45447,Greater Sydney,Inner Ring,North Sydney,Non Strata,3600.0,3944.0,51.0,2022-03-31
+45448,Greater Sydney,Inner Ring,North Sydney,Strata,1274.0,1394.0,301.0,2022-03-31
+45450,Greater Sydney,Inner Ring,Randwick,Non Strata,2938.0,3096.0,152.0,2022-03-31
+45451,Greater Sydney,Inner Ring,Randwick,Strata,1173.0,1253.0,324.0,2022-03-31
+45453,Greater Sydney,Inner Ring,Sydney,Non Strata,2000.0,2154.0,176.0,2022-03-31
+45454,Greater Sydney,Inner Ring,Sydney,Strata,955.0,1077.0,948.0,2022-03-31
+45456,Greater Sydney,Inner Ring,Waverley,Non Strata,4275.0,4642.0,67.0,2022-03-31
+45457,Greater Sydney,Inner Ring,Waverley,Strata,1640.0,5187.0,273.0,2022-03-31
+45459,Greater Sydney,Inner Ring,Woollahra,Non Strata,4200.0,5394.0,75.0,2022-03-31
+45460,Greater Sydney,Inner Ring,Woollahra,Strata,1903.0,2350.0,159.0,2022-03-31
+45465,Greater Sydney,Middle Ring,Bayside,Non Strata,1838.0,1923.0,202.0,2022-03-31
+45466,Greater Sydney,Middle Ring,Bayside,Strata,749.0,795.0,477.0,2022-03-31
+45468,Greater Sydney,Middle Ring,Burwood,Non Strata,2470.0,2458.0,42.0,2022-03-31
+45469,Greater Sydney,Middle Ring,Burwood,Strata,772.0,823.0,69.0,2022-03-31
+45471,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2832.0,2983.0,105.0,2022-03-31
+45472,Greater Sydney,Middle Ring,Canada Bay,Strata,995.0,1096.0,243.0,2022-03-31
+45474,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1311.0,1357.0,596.0,2022-03-31
+45475,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,590.0,608.0,434.0,2022-03-31
+45477,Greater Sydney,Middle Ring,Cumberland,Non Strata,1105.0,1147.0,356.0,2022-03-31
+45478,Greater Sydney,Middle Ring,Cumberland,Strata,553.0,565.0,364.0,2022-03-31
+45480,Greater Sydney,Middle Ring,Georges River,Non Strata,1795.0,1888.0,188.0,2022-03-31
+45481,Greater Sydney,Middle Ring,Georges River,Strata,693.0,731.0,282.0,2022-03-31
+45483,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,4115.0,4228.0,20.0,2022-03-31
+45484,Greater Sydney,Middle Ring,Hunters Hill,Strata,1560.0,1596.0,20.0,2022-03-31
+45486,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3230.0,3467.0,249.0,2022-03-31
+45487,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1036.0,1138.0,196.0,2022-03-31
+45489,Greater Sydney,Middle Ring,Parramatta,Non Strata,1730.0,1782.0,317.0,2022-03-31
+45490,Greater Sydney,Middle Ring,Parramatta,Strata,686.0,717.0,753.0,2022-03-31
+45492,Greater Sydney,Middle Ring,Ryde,Non Strata,2435.0,2554.0,144.0,2022-03-31
+45493,Greater Sydney,Middle Ring,Ryde,Strata,785.0,858.0,377.0,2022-03-31
+45495,Greater Sydney,Middle Ring,Strathfield,Non Strata,3450.0,3561.0,36.0,2022-03-31
+45496,Greater Sydney,Middle Ring,Strathfield,Strata,651.0,667.0,126.0,2022-03-31
+45498,Greater Sydney,Middle Ring,Willoughby,Non Strata,3299.0,3587.0,122.0,2022-03-31
+45499,Greater Sydney,Middle Ring,Willoughby,Strata,1100.0,1129.0,128.0,2022-03-31
+45504,Greater Sydney,Outer Ring,Blacktown,Non Strata,1041.0,1072.0,985.0,2022-03-31
+45505,Greater Sydney,Outer Ring,Blacktown,Strata,590.0,589.0,414.0,2022-03-31
+45507,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,983.0,1052.0,338.0,2022-03-31
+45508,Greater Sydney,Outer Ring,Blue Mountains,Strata,603.0,602.0,20.0,2022-03-31
+45510,Greater Sydney,Outer Ring,Camden,Non Strata,1080.0,1115.0,382.0,2022-03-31
+45511,Greater Sydney,Outer Ring,Camden,Strata,687.0,687.0,20.0,2022-03-31
+45513,Greater Sydney,Outer Ring,Campbelltown,Non Strata,830.0,867.0,421.0,2022-03-31
+45514,Greater Sydney,Outer Ring,Campbelltown,Strata,536.0,544.0,142.0,2022-03-31
+45516,Greater Sydney,Outer Ring,Central Coast,Non Strata,995.0,1133.0,1227.0,2022-03-31
+45517,Greater Sydney,Outer Ring,Central Coast,Strata,685.0,739.0,347.0,2022-03-31
+45519,Greater Sydney,Outer Ring,Fairfield,Non Strata,1018.0,1061.0,331.0,2022-03-31
+45520,Greater Sydney,Outer Ring,Fairfield,Strata,450.0,498.0,107.0,2022-03-31
+45522,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,968.0,1264.0,214.0,2022-03-31
+45523,Greater Sydney,Outer Ring,Hawkesbury,Strata,650.0,617.0,33.0,2022-03-31
+45525,Greater Sydney,Outer Ring,Hornsby,Non Strata,1918.0,1985.0,282.0,2022-03-31
+45526,Greater Sydney,Outer Ring,Hornsby,Strata,715.0,790.0,195.0,2022-03-31
+45528,Greater Sydney,Outer Ring,Liverpool,Non Strata,1002.0,1061.0,434.0,2022-03-31
+45529,Greater Sydney,Outer Ring,Liverpool,Strata,542.0,538.0,211.0,2022-03-31
+45531,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2851.0,3129.0,452.0,2022-03-31
+45532,Greater Sydney,Outer Ring,Northern Beaches,Strata,1200.0,1342.0,429.0,2022-03-31
+45534,Greater Sydney,Outer Ring,Penrith,Non Strata,920.0,964.0,536.0,2022-03-31
+45535,Greater Sydney,Outer Ring,Penrith,Strata,600.0,585.0,273.0,2022-03-31
+45537,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1745.0,1885.0,419.0,2022-03-31
+45538,Greater Sydney,Outer Ring,Sutherland Shire,Strata,920.0,997.0,495.0,2022-03-31
+45540,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1880.0,2078.0,402.0,2022-03-31
+45541,Greater Sydney,Outer Ring,The Hills Shire,Strata,935.0,977.0,126.0,2022-03-31
+45543,Greater Sydney,Outer Ring,Wollondilly,Non Strata,1125.0,1275.0,170.0,2022-03-31
+45544,Greater Sydney,Outer Ring,Wollondilly,Strata,650.0,,5.0,2022-03-31
+48245,Greater Sydney,Inner Ring,Inner West,Non Strata,1929.0,2127.0,418.0,2022-06-30
+48246,Greater Sydney,Inner Ring,Inner West,Strata,830.0,904.0,342.0,2022-06-30
+48248,Greater Sydney,Inner Ring,Lane Cove,Non Strata,4000.0,21753.0,82.0,2022-06-30
+48249,Greater Sydney,Inner Ring,Lane Cove,Strata,873.0,1093.0,166.0,2022-06-30
+48251,Greater Sydney,Inner Ring,Mosman,Non Strata,4575.0,6042.0,35.0,2022-06-30
+48252,Greater Sydney,Inner Ring,Mosman,Strata,1600.0,2666.0,95.0,2022-06-30
+48254,Greater Sydney,Inner Ring,North Sydney,Non Strata,3225.0,3556.0,51.0,2022-06-30
+48255,Greater Sydney,Inner Ring,North Sydney,Strata,1240.0,1380.0,373.0,2022-06-30
+48257,Greater Sydney,Inner Ring,Randwick,Non Strata,3025.0,3298.0,157.0,2022-06-30
+48258,Greater Sydney,Inner Ring,Randwick,Strata,1098.0,1182.0,282.0,2022-06-30
+48260,Greater Sydney,Inner Ring,Sydney,Non Strata,1933.0,2161.0,200.0,2022-06-30
+48261,Greater Sydney,Inner Ring,Sydney,Strata,965.0,1179.0,1008.0,2022-06-30
+48263,Greater Sydney,Inner Ring,Waverley,Non Strata,4010.0,4557.0,98.0,2022-06-30
+48264,Greater Sydney,Inner Ring,Waverley,Strata,1403.0,1530.0,216.0,2022-06-30
+48266,Greater Sydney,Inner Ring,Woollahra,Non Strata,5165.0,6257.0,110.0,2022-06-30
+48267,Greater Sydney,Inner Ring,Woollahra,Strata,1675.0,2160.0,157.0,2022-06-30
+48272,Greater Sydney,Middle Ring,Bayside,Non Strata,1800.0,1882.0,206.0,2022-06-30
+48273,Greater Sydney,Middle Ring,Bayside,Strata,750.0,801.0,594.0,2022-06-30
+48275,Greater Sydney,Middle Ring,Burwood,Non Strata,1975.0,2100.0,53.0,2022-06-30
+48276,Greater Sydney,Middle Ring,Burwood,Strata,880.0,915.0,102.0,2022-06-30
+48278,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2800.0,2846.0,126.0,2022-06-30
+48279,Greater Sydney,Middle Ring,Canada Bay,Strata,1050.0,1175.0,259.0,2022-06-30
+48281,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1300.0,1364.0,682.0,2022-06-30
+48282,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,595.0,621.0,469.0,2022-06-30
+48284,Greater Sydney,Middle Ring,Cumberland,Non Strata,1121.0,1172.0,374.0,2022-06-30
+48285,Greater Sydney,Middle Ring,Cumberland,Strata,554.0,573.0,372.0,2022-06-30
+48287,Greater Sydney,Middle Ring,Georges River,Non Strata,1831.0,2013.0,244.0,2022-06-30
+48288,Greater Sydney,Middle Ring,Georges River,Strata,700.0,738.0,324.0,2022-06-30
+48290,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3950.0,4235.0,20.0,2022-06-30
+48291,Greater Sydney,Middle Ring,Hunters Hill,Strata,925.0,1161.0,20.0,2022-06-30
+48293,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3005.0,3282.0,302.0,2022-06-30
+48294,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1075.0,1193.0,174.0,2022-06-30
+48296,Greater Sydney,Middle Ring,Parramatta,Non Strata,1611.0,1658.0,353.0,2022-06-30
+48297,Greater Sydney,Middle Ring,Parramatta,Strata,680.0,713.0,845.0,2022-06-30
+48299,Greater Sydney,Middle Ring,Ryde,Non Strata,2398.0,2447.0,188.0,2022-06-30
+48300,Greater Sydney,Middle Ring,Ryde,Strata,838.0,880.0,360.0,2022-06-30
+48302,Greater Sydney,Middle Ring,Strathfield,Non Strata,2720.0,2833.0,41.0,2022-06-30
+48303,Greater Sydney,Middle Ring,Strathfield,Strata,655.0,678.0,141.0,2022-06-30
+48305,Greater Sydney,Middle Ring,Willoughby,Non Strata,3318.0,3498.0,126.0,2022-06-30
+48306,Greater Sydney,Middle Ring,Willoughby,Strata,1620.0,22698.0,205.0,2022-06-30
+48311,Greater Sydney,Outer Ring,Blacktown,Non Strata,1020.0,1071.0,883.0,2022-06-30
+48312,Greater Sydney,Outer Ring,Blacktown,Strata,600.0,611.0,433.0,2022-06-30
+48314,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,938.0,1013.0,296.0,2022-06-30
+48315,Greater Sydney,Outer Ring,Blue Mountains,Strata,700.0,662.0,20.0,2022-06-30
+48317,Greater Sydney,Outer Ring,Camden,Non Strata,1050.0,1128.0,367.0,2022-06-30
+48318,Greater Sydney,Outer Ring,Camden,Strata,691.0,699.0,31.0,2022-06-30
+48320,Greater Sydney,Outer Ring,Campbelltown,Non Strata,847.0,894.0,450.0,2022-06-30
+48321,Greater Sydney,Outer Ring,Campbelltown,Strata,533.0,539.0,131.0,2022-06-30
+48323,Greater Sydney,Outer Ring,Central Coast,Non Strata,996.0,1124.0,1071.0,2022-06-30
+48324,Greater Sydney,Outer Ring,Central Coast,Strata,665.0,737.0,324.0,2022-06-30
+48326,Greater Sydney,Outer Ring,Fairfield,Non Strata,1018.0,1056.0,370.0,2022-06-30
+48327,Greater Sydney,Outer Ring,Fairfield,Strata,497.0,505.0,129.0,2022-06-30
+48329,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,1200.0,1383.0,186.0,2022-06-30
+48330,Greater Sydney,Outer Ring,Hawkesbury,Strata,683.0,657.0,36.0,2022-06-30
+48332,Greater Sydney,Outer Ring,Hornsby,Non Strata,1820.0,1910.0,297.0,2022-06-30
+48333,Greater Sydney,Outer Ring,Hornsby,Strata,720.0,806.0,202.0,2022-06-30
+48335,Greater Sydney,Outer Ring,Liverpool,Non Strata,1048.0,1101.0,478.0,2022-06-30
+48336,Greater Sydney,Outer Ring,Liverpool,Strata,528.0,540.0,236.0,2022-06-30
+48338,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2620.0,2982.0,485.0,2022-06-30
+48339,Greater Sydney,Outer Ring,Northern Beaches,Strata,1150.0,1261.0,448.0,2022-06-30
+48341,Greater Sydney,Outer Ring,Penrith,Non Strata,915.0,977.0,522.0,2022-06-30
+48342,Greater Sydney,Outer Ring,Penrith,Strata,572.0,554.0,251.0,2022-06-30
+48344,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1700.0,1842.0,465.0,2022-06-30
+48345,Greater Sydney,Outer Ring,Sutherland Shire,Strata,867.0,992.0,449.0,2022-06-30
+48347,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1825.0,1942.0,467.0,2022-06-30
+48348,Greater Sydney,Outer Ring,The Hills Shire,Strata,800.0,888.0,180.0,2022-06-30
+48350,Greater Sydney,Outer Ring,Wollondilly,Non Strata,1000.0,1122.0,180.0,2022-06-30
+48351,Greater Sydney,Outer Ring,Wollondilly,Strata,558.0,586.0,20.0,2022-06-30
+51064,Greater Sydney,Inner Ring,Inner West,Non Strata,1803.0,1970.0,384.0,2022-09-30
+51065,Greater Sydney,Inner Ring,Inner West,Strata,776.0,871.0,342.0,2022-09-30
+51067,Greater Sydney,Inner Ring,Lane Cove,Non Strata,4575.0,19542.0,78.0,2022-09-30
+51068,Greater Sydney,Inner Ring,Lane Cove,Strata,903.0,1061.0,140.0,2022-09-30
+51070,Greater Sydney,Inner Ring,Mosman,Non Strata,4718.0,5500.0,53.0,2022-09-30
+51071,Greater Sydney,Inner Ring,Mosman,Strata,1325.0,1719.0,87.0,2022-09-30
+51073,Greater Sydney,Inner Ring,North Sydney,Non Strata,3363.0,3574.0,48.0,2022-09-30
+51074,Greater Sydney,Inner Ring,North Sydney,Strata,1225.0,1401.0,313.0,2022-09-30
+51076,Greater Sydney,Inner Ring,Randwick,Non Strata,2800.0,2913.0,139.0,2022-09-30
+51077,Greater Sydney,Inner Ring,Randwick,Strata,1060.0,1173.0,271.0,2022-09-30
+51079,Greater Sydney,Inner Ring,Sydney,Non Strata,1745.0,1918.0,182.0,2022-09-30
+51080,Greater Sydney,Inner Ring,Sydney,Strata,923.0,1152.0,972.0,2022-09-30
+51082,Greater Sydney,Inner Ring,Waverley,Non Strata,3920.0,4136.0,73.0,2022-09-30
+51083,Greater Sydney,Inner Ring,Waverley,Strata,1350.0,1527.0,195.0,2022-09-30
+51085,Greater Sydney,Inner Ring,Woollahra,Non Strata,4625.0,5253.0,90.0,2022-09-30
+51086,Greater Sydney,Inner Ring,Woollahra,Strata,1800.0,2084.0,151.0,2022-09-30
+51091,Greater Sydney,Middle Ring,Bayside,Non Strata,1700.0,1698.0,198.0,2022-09-30
+51092,Greater Sydney,Middle Ring,Bayside,Strata,734.0,774.0,456.0,2022-09-30
+51094,Greater Sydney,Middle Ring,Burwood,Non Strata,1997.0,2141.0,36.0,2022-09-30
+51095,Greater Sydney,Middle Ring,Burwood,Strata,830.0,862.0,95.0,2022-09-30
+51097,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2738.0,2818.0,120.0,2022-09-30
+51098,Greater Sydney,Middle Ring,Canada Bay,Strata,975.0,1149.0,229.0,2022-09-30
+51100,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1211.0,1262.0,593.0,2022-09-30
+51101,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,545.0,570.0,465.0,2022-09-30
+51103,Greater Sydney,Middle Ring,Cumberland,Non Strata,1095.0,1149.0,308.0,2022-09-30
+51104,Greater Sydney,Middle Ring,Cumberland,Strata,560.0,557.0,314.0,2022-09-30
+51106,Greater Sydney,Middle Ring,Georges River,Non Strata,1700.0,1838.0,221.0,2022-09-30
+51107,Greater Sydney,Middle Ring,Georges River,Strata,700.0,712.0,310.0,2022-09-30
+51109,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3850.0,3902.0,20.0,2022-09-30
+51110,Greater Sydney,Middle Ring,Hunters Hill,Strata,1280.0,1539.0,20.0,2022-09-30
+51112,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2890.0,3224.0,288.0,2022-09-30
+51113,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1050.0,1166.0,173.0,2022-09-30
+51115,Greater Sydney,Middle Ring,Parramatta,Non Strata,1528.0,1591.0,324.0,2022-09-30
+51116,Greater Sydney,Middle Ring,Parramatta,Strata,650.0,677.0,765.0,2022-09-30
+51118,Greater Sydney,Middle Ring,Ryde,Non Strata,2225.0,2276.0,164.0,2022-09-30
+51119,Greater Sydney,Middle Ring,Ryde,Strata,760.0,832.0,366.0,2022-09-30
+51121,Greater Sydney,Middle Ring,Strathfield,Non Strata,2940.0,3125.0,44.0,2022-09-30
+51122,Greater Sydney,Middle Ring,Strathfield,Strata,650.0,686.0,147.0,2022-09-30
+51124,Greater Sydney,Middle Ring,Willoughby,Non Strata,3025.0,3193.0,114.0,2022-09-30
+51125,Greater Sydney,Middle Ring,Willoughby,Strata,1160.0,1445.0,151.0,2022-09-30
+51130,Greater Sydney,Outer Ring,Blacktown,Non Strata,960.0,1007.0,825.0,2022-09-30
+51131,Greater Sydney,Outer Ring,Blacktown,Strata,589.0,588.0,386.0,2022-09-30
+51133,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,900.0,987.0,307.0,2022-09-30
+51134,Greater Sydney,Outer Ring,Blue Mountains,Strata,718.0,682.0,20.0,2022-09-30
+51136,Greater Sydney,Outer Ring,Camden,Non Strata,1020.0,1079.0,383.0,2022-09-30
+51137,Greater Sydney,Outer Ring,Camden,Strata,768.0,836.0,20.0,2022-09-30
+51139,Greater Sydney,Outer Ring,Campbelltown,Non Strata,800.0,819.0,405.0,2022-09-30
+51140,Greater Sydney,Outer Ring,Campbelltown,Strata,515.0,521.0,149.0,2022-09-30
+51142,Greater Sydney,Outer Ring,Central Coast,Non Strata,900.0,1019.0,1027.0,2022-09-30
+51143,Greater Sydney,Outer Ring,Central Coast,Strata,650.0,699.0,296.0,2022-09-30
+51145,Greater Sydney,Outer Ring,Fairfield,Non Strata,988.0,1025.0,331.0,2022-09-30
+51146,Greater Sydney,Outer Ring,Fairfield,Strata,440.0,471.0,103.0,2022-09-30
+51148,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,1000.0,1294.0,194.0,2022-09-30
+51149,Greater Sydney,Outer Ring,Hawkesbury,Strata,600.0,597.0,20.0,2022-09-30
+51151,Greater Sydney,Outer Ring,Hornsby,Non Strata,1680.0,1757.0,283.0,2022-09-30
+51152,Greater Sydney,Outer Ring,Hornsby,Strata,700.0,770.0,182.0,2022-09-30
+51154,Greater Sydney,Outer Ring,Liverpool,Non Strata,995.0,1046.0,429.0,2022-09-30
+51155,Greater Sydney,Outer Ring,Liverpool,Strata,520.0,534.0,261.0,2022-09-30
+51157,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2300.0,2560.0,442.0,2022-09-30
+51158,Greater Sydney,Outer Ring,Northern Beaches,Strata,1105.0,1226.0,433.0,2022-09-30
+51160,Greater Sydney,Outer Ring,Penrith,Non Strata,868.0,934.0,517.0,2022-09-30
+51161,Greater Sydney,Outer Ring,Penrith,Strata,580.0,563.0,251.0,2022-09-30
+51163,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1640.0,1757.0,421.0,2022-09-30
+51164,Greater Sydney,Outer Ring,Sutherland Shire,Strata,875.0,922.0,395.0,2022-09-30
+51166,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1700.0,1888.0,457.0,2022-09-30
+51167,Greater Sydney,Outer Ring,The Hills Shire,Strata,791.0,847.0,164.0,2022-09-30
+51169,Greater Sydney,Outer Ring,Wollondilly,Non Strata,980.0,1161.0,173.0,2022-09-30
+51170,Greater Sydney,Outer Ring,Wollondilly,Strata,650.0,,5.0,2022-09-30
+53873,Greater Sydney,Inner Ring,Inner West,Non Strata,1788.0,1939.0,360.0,2022-12-31
+53874,Greater Sydney,Inner Ring,Inner West,Strata,810.0,901.0,306.0,2022-12-31
+53876,Greater Sydney,Inner Ring,Lane Cove,Non Strata,2875.0,3117.0,57.0,2022-12-31
+53877,Greater Sydney,Inner Ring,Lane Cove,Strata,980.0,1085.0,157.0,2022-12-31
+53879,Greater Sydney,Inner Ring,Mosman,Non Strata,4775.0,5700.0,48.0,2022-12-31
+53880,Greater Sydney,Inner Ring,Mosman,Strata,955.0,1133.0,75.0,2022-12-31
+53882,Greater Sydney,Inner Ring,North Sydney,Non Strata,2985.0,2939.0,36.0,2022-12-31
+53883,Greater Sydney,Inner Ring,North Sydney,Strata,1130.0,1275.0,291.0,2022-12-31
+53885,Greater Sydney,Inner Ring,Randwick,Non Strata,2800.0,3140.0,159.0,2022-12-31
+53886,Greater Sydney,Inner Ring,Randwick,Strata,1000.0,1196.0,258.0,2022-12-31
+53888,Greater Sydney,Inner Ring,Sydney,Non Strata,1900.0,2081.0,180.0,2022-12-31
+53889,Greater Sydney,Inner Ring,Sydney,Strata,878.0,1009.0,898.0,2022-12-31
+53891,Greater Sydney,Inner Ring,Waverley,Non Strata,4028.0,4506.0,84.0,2022-12-31
+53892,Greater Sydney,Inner Ring,Waverley,Strata,1300.0,1527.0,194.0,2022-12-31
+53894,Greater Sydney,Inner Ring,Woollahra,Non Strata,4175.0,6072.0,83.0,2022-12-31
+53895,Greater Sydney,Inner Ring,Woollahra,Strata,1655.0,1911.0,150.0,2022-12-31
+53900,Greater Sydney,Middle Ring,Bayside,Non Strata,1593.0,1705.0,196.0,2022-12-31
+53901,Greater Sydney,Middle Ring,Bayside,Strata,730.0,746.0,468.0,2022-12-31
+53903,Greater Sydney,Middle Ring,Burwood,Non Strata,1916.0,2141.0,36.0,2022-12-31
+53904,Greater Sydney,Middle Ring,Burwood,Strata,895.0,887.0,81.0,2022-12-31
+53906,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2533.0,2690.0,108.0,2022-12-31
+53907,Greater Sydney,Middle Ring,Canada Bay,Strata,980.0,1115.0,221.0,2022-12-31
+53909,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1200.0,1227.0,540.0,2022-12-31
+53910,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,580.0,590.0,391.0,2022-12-31
+53912,Greater Sydney,Middle Ring,Cumberland,Non Strata,1050.0,1095.0,282.0,2022-12-31
+53913,Greater Sydney,Middle Ring,Cumberland,Strata,535.0,559.0,305.0,2022-12-31
+53915,Greater Sydney,Middle Ring,Georges River,Non Strata,1600.0,1710.0,207.0,2022-12-31
+53916,Greater Sydney,Middle Ring,Georges River,Strata,710.0,756.0,261.0,2022-12-31
+53918,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,4002.0,4334.0,20.0,2022-12-31
+53919,Greater Sydney,Middle Ring,Hunters Hill,Strata,1065.0,1225.0,20.0,2022-12-31
+53921,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,2921.0,3221.0,288.0,2022-12-31
+53922,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,975.0,1072.0,156.0,2022-12-31
+53924,Greater Sydney,Middle Ring,Parramatta,Non Strata,1549.0,1639.0,314.0,2022-12-31
+53925,Greater Sydney,Middle Ring,Parramatta,Strata,685.0,1548.0,711.0,2022-12-31
+53927,Greater Sydney,Middle Ring,Ryde,Non Strata,2200.0,2232.0,168.0,2022-12-31
+53928,Greater Sydney,Middle Ring,Ryde,Strata,797.0,868.0,348.0,2022-12-31
+53930,Greater Sydney,Middle Ring,Strathfield,Non Strata,2615.0,2716.0,34.0,2022-12-31
+53931,Greater Sydney,Middle Ring,Strathfield,Strata,610.0,626.0,115.0,2022-12-31
+53933,Greater Sydney,Middle Ring,Willoughby,Non Strata,3305.0,3347.0,124.0,2022-12-31
+53934,Greater Sydney,Middle Ring,Willoughby,Strata,1000.0,1100.0,141.0,2022-12-31
+53939,Greater Sydney,Outer Ring,Blacktown,Non Strata,980.0,1009.0,834.0,2022-12-31
+53940,Greater Sydney,Outer Ring,Blacktown,Strata,601.0,608.0,317.0,2022-12-31
+53942,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,880.0,941.0,289.0,2022-12-31
+53943,Greater Sydney,Outer Ring,Blue Mountains,Strata,648.0,653.0,20.0,2022-12-31
+53945,Greater Sydney,Outer Ring,Camden,Non Strata,1046.0,1131.0,308.0,2022-12-31
+53946,Greater Sydney,Outer Ring,Camden,Strata,670.0,715.0,20.0,2022-12-31
+53948,Greater Sydney,Outer Ring,Campbelltown,Non Strata,810.0,832.0,351.0,2022-12-31
+53949,Greater Sydney,Outer Ring,Campbelltown,Strata,530.0,525.0,106.0,2022-12-31
+53951,Greater Sydney,Outer Ring,Central Coast,Non Strata,915.0,1033.0,991.0,2022-12-31
+53952,Greater Sydney,Outer Ring,Central Coast,Strata,655.0,694.0,270.0,2022-12-31
+53954,Greater Sydney,Outer Ring,Fairfield,Non Strata,980.0,1027.0,311.0,2022-12-31
+53955,Greater Sydney,Outer Ring,Fairfield,Strata,430.0,469.0,107.0,2022-12-31
+53957,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,880.0,1100.0,183.0,2022-12-31
+53958,Greater Sydney,Outer Ring,Hawkesbury,Strata,596.0,617.0,20.0,2022-12-31
+53960,Greater Sydney,Outer Ring,Hornsby,Non Strata,1718.0,1779.0,320.0,2022-12-31
+53961,Greater Sydney,Outer Ring,Hornsby,Strata,680.0,733.0,144.0,2022-12-31
+53963,Greater Sydney,Outer Ring,Liverpool,Non Strata,970.0,1008.0,381.0,2022-12-31
+53964,Greater Sydney,Outer Ring,Liverpool,Strata,500.0,512.0,222.0,2022-12-31
+53966,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2300.0,2551.0,461.0,2022-12-31
+53967,Greater Sydney,Outer Ring,Northern Beaches,Strata,1050.0,1223.0,412.0,2022-12-31
+53969,Greater Sydney,Outer Ring,Penrith,Non Strata,870.0,937.0,426.0,2022-12-31
+53970,Greater Sydney,Outer Ring,Penrith,Strata,595.0,574.0,207.0,2022-12-31
+53972,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1550.0,1674.0,381.0,2022-12-31
+53973,Greater Sydney,Outer Ring,Sutherland Shire,Strata,850.0,918.0,398.0,2022-12-31
+53975,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1746.0,1905.0,424.0,2022-12-31
+53976,Greater Sydney,Outer Ring,The Hills Shire,Strata,803.0,836.0,177.0,2022-12-31
+53978,Greater Sydney,Outer Ring,Wollondilly,Non Strata,988.0,1120.0,120.0,2022-12-31
+53979,Greater Sydney,Outer Ring,Wollondilly,Strata,514.0,546.0,20.0,2022-12-31
+56654,Greater Sydney,Inner Ring,Inner West,Non Strata,1919.0,2039.0,306.0,2023-03-31
+56655,Greater Sydney,Inner Ring,Inner West,Strata,805.0,881.0,271.0,2023-03-31
+56657,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3250.0,3316.0,37.0,2023-03-31
+56658,Greater Sydney,Inner Ring,Lane Cove,Strata,943.0,1111.0,173.0,2023-03-31
+56660,Greater Sydney,Inner Ring,Mosman,Non Strata,5350.0,6119.0,38.0,2023-03-31
+56661,Greater Sydney,Inner Ring,Mosman,Strata,1180.0,1416.0,69.0,2023-03-31
+56663,Greater Sydney,Inner Ring,North Sydney,Non Strata,3100.0,3050.0,36.0,2023-03-31
+56664,Greater Sydney,Inner Ring,North Sydney,Strata,1155.0,1320.0,278.0,2023-03-31
+56666,Greater Sydney,Inner Ring,Randwick,Non Strata,2900.0,3075.0,120.0,2023-03-31
+56667,Greater Sydney,Inner Ring,Randwick,Strata,960.0,1068.0,267.0,2023-03-31
+56669,Greater Sydney,Inner Ring,Sydney,Non Strata,2025.0,2148.0,117.0,2023-03-31
+56670,Greater Sydney,Inner Ring,Sydney,Strata,950.0,1061.0,922.0,2023-03-31
+56672,Greater Sydney,Inner Ring,Waverley,Non Strata,3850.0,4281.0,85.0,2023-03-31
+56673,Greater Sydney,Inner Ring,Waverley,Strata,1300.0,1531.0,182.0,2023-03-31
+56675,Greater Sydney,Inner Ring,Woollahra,Non Strata,4425.0,5366.0,77.0,2023-03-31
+56676,Greater Sydney,Inner Ring,Woollahra,Strata,1500.0,1828.0,127.0,2023-03-31
+56681,Greater Sydney,Middle Ring,Bayside,Non Strata,1582.0,1628.0,147.0,2023-03-31
+56682,Greater Sydney,Middle Ring,Bayside,Strata,739.0,755.0,516.0,2023-03-31
+56684,Greater Sydney,Middle Ring,Burwood,Non Strata,2275.0,2213.0,20.0,2023-03-31
+56685,Greater Sydney,Middle Ring,Burwood,Strata,850.0,869.0,93.0,2023-03-31
+56687,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2715.0,2812.0,78.0,2023-03-31
+56688,Greater Sydney,Middle Ring,Canada Bay,Strata,980.0,1099.0,216.0,2023-03-31
+56690,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1203.0,1253.0,440.0,2023-03-31
+56691,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,555.0,577.0,398.0,2023-03-31
+56693,Greater Sydney,Middle Ring,Cumberland,Non Strata,1079.0,1113.0,270.0,2023-03-31
+56694,Greater Sydney,Middle Ring,Cumberland,Strata,537.0,567.0,326.0,2023-03-31
+56696,Greater Sydney,Middle Ring,Georges River,Non Strata,1700.0,1800.0,157.0,2023-03-31
+56697,Greater Sydney,Middle Ring,Georges River,Strata,723.0,739.0,274.0,2023-03-31
+56699,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3410.0,3746.0,20.0,2023-03-31
+56700,Greater Sydney,Middle Ring,Hunters Hill,Strata,865.0,1135.0,20.0,2023-03-31
+56702,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3150.0,3420.0,236.0,2023-03-31
+56703,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1050.0,1172.0,163.0,2023-03-31
+56705,Greater Sydney,Middle Ring,Parramatta,Non Strata,1556.0,1607.0,241.0,2023-03-31
+56706,Greater Sydney,Middle Ring,Parramatta,Strata,663.0,679.0,739.0,2023-03-31
+56708,Greater Sydney,Middle Ring,Ryde,Non Strata,2250.0,2250.0,142.0,2023-03-31
+56709,Greater Sydney,Middle Ring,Ryde,Strata,785.0,802.0,357.0,2023-03-31
+56711,Greater Sydney,Middle Ring,Strathfield,Non Strata,3325.0,3460.0,20.0,2023-03-31
+56712,Greater Sydney,Middle Ring,Strathfield,Strata,630.0,643.0,126.0,2023-03-31
+56714,Greater Sydney,Middle Ring,Willoughby,Non Strata,3376.0,3455.0,78.0,2023-03-31
+56715,Greater Sydney,Middle Ring,Willoughby,Strata,970.0,1039.0,123.0,2023-03-31
+56720,Greater Sydney,Outer Ring,Blacktown,Non Strata,970.0,1016.0,817.0,2023-03-31
+56721,Greater Sydney,Outer Ring,Blacktown,Strata,612.0,608.0,332.0,2023-03-31
+56723,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,870.0,934.0,233.0,2023-03-31
+56724,Greater Sydney,Outer Ring,Blue Mountains,Strata,630.0,628.0,20.0,2023-03-31
+56726,Greater Sydney,Outer Ring,Camden,Non Strata,999.0,1086.0,301.0,2023-03-31
+56727,Greater Sydney,Outer Ring,Camden,Strata,705.0,734.0,20.0,2023-03-31
+56729,Greater Sydney,Outer Ring,Campbelltown,Non Strata,795.0,823.0,338.0,2023-03-31
+56730,Greater Sydney,Outer Ring,Campbelltown,Strata,559.0,561.0,126.0,2023-03-31
+56732,Greater Sydney,Outer Ring,Central Coast,Non Strata,875.0,977.0,994.0,2023-03-31
+56733,Greater Sydney,Outer Ring,Central Coast,Strata,625.0,679.0,279.0,2023-03-31
+56735,Greater Sydney,Outer Ring,Fairfield,Non Strata,980.0,1025.0,252.0,2023-03-31
+56736,Greater Sydney,Outer Ring,Fairfield,Strata,482.0,501.0,99.0,2023-03-31
+56738,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,920.0,1097.0,157.0,2023-03-31
+56739,Greater Sydney,Outer Ring,Hawkesbury,Strata,625.0,604.0,20.0,2023-03-31
+56741,Greater Sydney,Outer Ring,Hornsby,Non Strata,1800.0,1896.0,246.0,2023-03-31
+56742,Greater Sydney,Outer Ring,Hornsby,Strata,714.0,811.0,168.0,2023-03-31
+56744,Greater Sydney,Outer Ring,Liverpool,Non Strata,990.0,1030.0,340.0,2023-03-31
+56745,Greater Sydney,Outer Ring,Liverpool,Strata,528.0,544.0,214.0,2023-03-31
+56747,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2420.0,2730.0,381.0,2023-03-31
+56748,Greater Sydney,Outer Ring,Northern Beaches,Strata,1105.0,1255.0,360.0,2023-03-31
+56750,Greater Sydney,Outer Ring,Penrith,Non Strata,867.0,919.0,436.0,2023-03-31
+56751,Greater Sydney,Outer Ring,Penrith,Strata,575.0,546.0,230.0,2023-03-31
+56753,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1571.0,1701.0,352.0,2023-03-31
+56754,Greater Sydney,Outer Ring,Sutherland Shire,Strata,838.0,926.0,354.0,2023-03-31
+56756,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1751.0,1844.0,394.0,2023-03-31
+56757,Greater Sydney,Outer Ring,The Hills Shire,Strata,791.0,834.0,164.0,2023-03-31
+56759,Greater Sydney,Outer Ring,Wollondilly,Non Strata,950.0,1111.0,147.0,2023-03-31
+56760,Greater Sydney,Outer Ring,Wollondilly,Strata,625.0,,5.0,2023-03-31
+59445,Greater Sydney,Inner Ring,Inner West,Non Strata,2040.0,2160.0,392.0,2023-06-30
+59446,Greater Sydney,Inner Ring,Inner West,Strata,875.0,923.0,394.0,2023-06-30
+59448,Greater Sydney,Inner Ring,Lane Cove,Non Strata,3520.0,3827.0,36.0,2023-06-30
+59449,Greater Sydney,Inner Ring,Lane Cove,Strata,966.0,1112.0,179.0,2023-06-30
+59451,Greater Sydney,Inner Ring,Mosman,Non Strata,4300.0,5476.0,39.0,2023-06-30
+59452,Greater Sydney,Inner Ring,Mosman,Strata,1430.0,1636.0,82.0,2023-06-30
+59454,Greater Sydney,Inner Ring,North Sydney,Non Strata,3375.0,3775.0,52.0,2023-06-30
+59455,Greater Sydney,Inner Ring,North Sydney,Strata,1200.0,1389.0,379.0,2023-06-30
+59457,Greater Sydney,Inner Ring,Randwick,Non Strata,2870.0,3290.0,160.0,2023-06-30
+59458,Greater Sydney,Inner Ring,Randwick,Strata,1050.0,1191.0,316.0,2023-06-30
+59460,Greater Sydney,Inner Ring,Sydney,Non Strata,1885.0,2113.0,176.0,2023-06-30
+59461,Greater Sydney,Inner Ring,Sydney,Strata,970.0,1110.0,1156.0,2023-06-30
+59463,Greater Sydney,Inner Ring,Waverley,Non Strata,4075.0,4606.0,72.0,2023-06-30
+59464,Greater Sydney,Inner Ring,Waverley,Strata,1455.0,1632.0,250.0,2023-06-30
+59466,Greater Sydney,Inner Ring,Woollahra,Non Strata,4240.0,5440.0,88.0,2023-06-30
+59467,Greater Sydney,Inner Ring,Woollahra,Strata,1580.0,2300.0,179.0,2023-06-30
+59472,Greater Sydney,Middle Ring,Bayside,Non Strata,1655.0,1752.0,170.0,2023-06-30
+59473,Greater Sydney,Middle Ring,Bayside,Strata,735.0,777.0,561.0,2023-06-30
+59475,Greater Sydney,Middle Ring,Burwood,Non Strata,2128.0,2177.0,42.0,2023-06-30
+59476,Greater Sydney,Middle Ring,Burwood,Strata,900.0,940.0,119.0,2023-06-30
+59478,Greater Sydney,Middle Ring,Canada Bay,Non Strata,2613.0,2874.0,124.0,2023-06-30
+59479,Greater Sydney,Middle Ring,Canada Bay,Strata,1050.0,1197.0,256.0,2023-06-30
+59481,Greater Sydney,Middle Ring,Canterbury-Bankstown,Non Strata,1325.0,1368.0,682.0,2023-06-30
+59482,Greater Sydney,Middle Ring,Canterbury-Bankstown,Strata,560.0,589.0,514.0,2023-06-30
+59484,Greater Sydney,Middle Ring,Cumberland,Non Strata,1180.0,1220.0,379.0,2023-06-30
+59485,Greater Sydney,Middle Ring,Cumberland,Strata,560.0,578.0,424.0,2023-06-30
+59487,Greater Sydney,Middle Ring,Georges River,Non Strata,1818.0,1918.0,228.0,2023-06-30
+59488,Greater Sydney,Middle Ring,Georges River,Strata,723.0,753.0,377.0,2023-06-30
+59490,Greater Sydney,Middle Ring,Hunters Hill,Non Strata,3325.0,4182.0,20.0,2023-06-30
+59491,Greater Sydney,Middle Ring,Hunters Hill,Strata,949.0,1134.0,20.0,2023-06-30
+59493,Greater Sydney,Middle Ring,Ku-Ring-Gai,Non Strata,3080.0,3321.0,323.0,2023-06-30
+59494,Greater Sydney,Middle Ring,Ku-Ring-Gai,Strata,1020.0,1150.0,210.0,2023-06-30
+59496,Greater Sydney,Middle Ring,Parramatta,Non Strata,1709.0,1776.0,342.0,2023-06-30
+59497,Greater Sydney,Middle Ring,Parramatta,Strata,687.0,726.0,982.0,2023-06-30
+59499,Greater Sydney,Middle Ring,Ryde,Non Strata,2433.0,2560.0,216.0,2023-06-30
+59500,Greater Sydney,Middle Ring,Ryde,Strata,800.0,853.0,487.0,2023-06-30
+59502,Greater Sydney,Middle Ring,Strathfield,Non Strata,3100.0,3202.0,45.0,2023-06-30
+59503,Greater Sydney,Middle Ring,Strathfield,Strata,630.0,633.0,154.0,2023-06-30
+59505,Greater Sydney,Middle Ring,Willoughby,Non Strata,3320.0,3549.0,107.0,2023-06-30
+59506,Greater Sydney,Middle Ring,Willoughby,Strata,1160.0,1227.0,181.0,2023-06-30
+59511,Greater Sydney,Outer Ring,Blacktown,Non Strata,1080.0,1095.0,1040.0,2023-06-30
+59512,Greater Sydney,Outer Ring,Blacktown,Strata,632.0,646.0,417.0,2023-06-30
+59514,Greater Sydney,Outer Ring,Blue Mountains,Non Strata,860.0,918.0,290.0,2023-06-30
+59515,Greater Sydney,Outer Ring,Blue Mountains,Strata,639.0,702.0,20.0,2023-06-30
+59517,Greater Sydney,Outer Ring,Camden,Non Strata,1050.0,1109.0,363.0,2023-06-30
+59518,Greater Sydney,Outer Ring,Camden,Strata,695.0,745.0,20.0,2023-06-30
+59520,Greater Sydney,Outer Ring,Campbelltown,Non Strata,835.0,862.0,396.0,2023-06-30
+59521,Greater Sydney,Outer Ring,Campbelltown,Strata,535.0,519.0,129.0,2023-06-30
+59523,Greater Sydney,Outer Ring,Central Coast,Non Strata,920.0,1034.0,1021.0,2023-06-30
+59524,Greater Sydney,Outer Ring,Central Coast,Strata,655.0,702.0,331.0,2023-06-30
+59526,Greater Sydney,Outer Ring,Fairfield,Non Strata,1021.0,1062.0,360.0,2023-06-30
+59527,Greater Sydney,Outer Ring,Fairfield,Strata,482.0,1018.0,176.0,2023-06-30
+59529,Greater Sydney,Outer Ring,Hawkesbury,Non Strata,950.0,1161.0,180.0,2023-06-30
+59530,Greater Sydney,Outer Ring,Hawkesbury,Strata,640.0,610.0,20.0,2023-06-30
+59532,Greater Sydney,Outer Ring,Hornsby,Non Strata,1900.0,1970.0,317.0,2023-06-30
+59533,Greater Sydney,Outer Ring,Hornsby,Strata,745.0,839.0,229.0,2023-06-30
+59535,Greater Sydney,Outer Ring,Liverpool,Non Strata,1005.0,1072.0,461.0,2023-06-30
+59536,Greater Sydney,Outer Ring,Liverpool,Strata,530.0,529.0,275.0,2023-06-30
+59538,Greater Sydney,Outer Ring,Northern Beaches,Non Strata,2525.0,2845.0,451.0,2023-06-30
+59539,Greater Sydney,Outer Ring,Northern Beaches,Strata,1150.0,1281.0,484.0,2023-06-30
+59541,Greater Sydney,Outer Ring,Penrith,Non Strata,895.0,942.0,464.0,2023-06-30
+59542,Greater Sydney,Outer Ring,Penrith,Strata,575.0,563.0,236.0,2023-06-30
+59544,Greater Sydney,Outer Ring,Sutherland Shire,Non Strata,1686.0,1820.0,464.0,2023-06-30
+59545,Greater Sydney,Outer Ring,Sutherland Shire,Strata,860.0,932.0,460.0,2023-06-30
+59547,Greater Sydney,Outer Ring,The Hills Shire,Non Strata,1811.0,1903.0,540.0,2023-06-30
+59548,Greater Sydney,Outer Ring,The Hills Shire,Strata,780.0,853.0,207.0,2023-06-30
+59550,Greater Sydney,Outer Ring,Wollondilly,Non Strata,1070.0,1192.0,170.0,2023-06-30
+59551,Greater Sydney,Outer Ring,Wollondilly,Strata,558.0,568.0,20.0,2023-06-30

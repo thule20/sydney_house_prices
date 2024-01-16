@@ -1,0 +1,749 @@
+,lga,sales_price_median,sales_price_mean,sales_no,date,greatersydney_y,rings_y,dwellingtype_y,bedrooms,wrent_median,new_bonds_no,total_bonds_held,dwellingtype_g,month,year,change
+0,Inner West,1560.0,1658.0,265.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,780.0,779.0,5504.0,Non Strata,3,2018,0.0
+935,Inner West,1458.0,1565.0,338.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,800.0,620.0,5680.0,Non Strata,6,2018,-0.06538461538461537
+1868,Inner West,1371.0,1437.0,232.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,780.0,765.0,5925.0,Non Strata,9,2018,-0.05967078189300412
+2803,Inner West,1380.0,1458.0,331.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,780.0,693.0,6038.0,Non Strata,12,2018,0.006564551422319376
+3738,Inner West,1353.0,1465.0,244.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,795.0,824.0,6231.0,Non Strata,3,2019,-0.019565217391304346
+4675,Inner West,1400.0,1526.0,365.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,780.0,689.0,6437.0,Non Strata,6,2019,0.0347376201034737
+5594,Inner West,1500.0,1586.0,330.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,750.0,838.0,6532.0,Non Strata,9,2019,0.0714285714285714
+6533,Inner West,1614.0,1686.0,442.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,750.0,742.0,6665.0,Non Strata,12,2019,0.07600000000000007
+7473,Inner West,1700.0,1752.0,322.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,780.0,843.0,6816.0,Non Strata,3,2020,0.053283767038413865
+8413,Inner West,1565.0,1626.0,319.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,730.0,781.0,6865.0,Non Strata,6,2020,-0.0794117647058824
+9353,Inner West,1550.0,1691.0,453.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,750.0,937.0,6957.0,Non Strata,9,2020,-0.009584664536741228
+10293,Inner West,1678.0,1770.0,530.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,750.0,821.0,7068.0,Non Strata,12,2020,0.08258064516129027
+11233,Inner West,1798.0,1884.0,410.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,760.0,932.0,7163.0,Non Strata,3,2021,0.07151370679380209
+12171,Inner West,1910.0,2084.0,494.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,750.0,775.0,7207.0,Non Strata,6,2021,0.06229143492769751
+13106,Inner West,2054.0,2202.0,464.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,780.0,804.0,7188.0,Non Strata,9,2021,0.07539267015706796
+14041,Inner West,2140.0,2243.0,569.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,750.0,820.0,7263.0,Non Strata,12,2021,0.04186952288218104
+14976,Inner West,2100.0,2269.0,361.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,795.0,902.0,7337.0,Non Strata,3,2022,-0.01869158878504673
+15911,Inner West,1929.0,2127.0,418.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,800.0,806.0,7395.0,Non Strata,6,2022,-0.0814285714285714
+16846,Inner West,1803.0,1970.0,384.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,700.0,1466.0,8090.0,Non Strata,9,2022,-0.06531881804043549
+17782,Inner West,1788.0,1939.0,360.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,730.0,1282.0,8637.0,Non Strata,12,2022,-0.008319467554076532
+18717,Inner West,1919.0,2039.0,306.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,775.0,1396.0,9444.0,Non Strata,3,2023,0.0732662192393736
+19652,Inner West,2040.0,2160.0,392.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,900.0,663.0,8168.0,Non Strata,6,2023,0.06305367378843152
+28,Lane Cove,2704.0,3086.0,60.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,975.0,95.0,658.0,Non Strata,3,2018,0.0
+963,Lane Cove,2500.0,2677.0,45.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,995.0,74.0,681.0,Non Strata,6,2018,-0.07544378698224852
+1896,Lane Cove,2650.0,2589.0,36.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,955.0,82.0,707.0,Non Strata,9,2018,0.06000000000000005
+2831,Lane Cove,2650.0,2585.0,50.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,860.0,75.0,726.0,Non Strata,12,2018,0.0
+3766,Lane Cove,2000.0,2205.0,38.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,850.0,107.0,765.0,Non Strata,3,2019,-0.24528301886792447
+4703,Lane Cove,2138.0,3073.0,56.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,910.0,76.0,777.0,Non Strata,6,2019,0.06899999999999995
+5622,Lane Cove,2550.0,2679.0,45.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,910.0,82.0,781.0,Non Strata,9,2019,0.19270346117867176
+6561,Lane Cove,2478.0,2731.0,72.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,918.0,64.0,775.0,Non Strata,12,2019,-0.028235294117647025
+7501,Lane Cove,2470.0,2688.0,37.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,950.0,76.0,778.0,Non Strata,3,2020,-0.0032284100080710587
+8441,Lane Cove,2375.0,2870.0,47.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,900.0,61.0,751.0,Non Strata,6,2020,-0.038461538461538436
+9381,Lane Cove,2590.0,2718.0,47.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,1000.0,79.0,747.0,Non Strata,9,2020,0.09052631578947379
+10321,Lane Cove,2470.0,2646.0,74.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,980.0,74.0,753.0,Non Strata,12,2020,-0.04633204633204635
+11261,Lane Cove,2950.0,3089.0,55.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,950.0,85.0,754.0,Non Strata,3,2021,0.19433198380566807
+12199,Lane Cove,3200.0,3588.0,77.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,860.0,77.0,759.0,Non Strata,6,2021,0.0847457627118644
+13134,Lane Cove,3220.0,3344.0,65.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,875.0,42.0,733.0,Non Strata,9,2021,0.006250000000000089
+14069,Lane Cove,3685.0,3974.0,80.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,900.0,66.0,725.0,Non Strata,12,2021,0.14440993788819867
+15004,Lane Cove,3750.0,3942.0,41.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1100.0,84.0,721.0,Non Strata,3,2022,0.01763907734056991
+15939,Lane Cove,4000.0,21753.0,82.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,975.0,56.0,701.0,Non Strata,6,2022,0.06666666666666665
+16874,Lane Cove,4575.0,19542.0,78.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,670.0,193.0,826.0,Non Strata,9,2022,0.14375000000000004
+17810,Lane Cove,2875.0,3117.0,57.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,680.0,217.0,935.0,Non Strata,12,2022,-0.3715846994535519
+18745,Lane Cove,3250.0,3316.0,37.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,780.0,255.0,1128.0,Non Strata,3,2023,0.13043478260869557
+19680,Lane Cove,3520.0,3827.0,36.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1075.0,72.0,788.0,Non Strata,6,2023,0.08307692307692305
+55,Mosman,3415.0,3927.0,38.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,1775.0,68.0,450.0,Non Strata,3,2018,0.0
+990,Mosman,3500.0,4098.0,37.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,1575.0,56.0,455.0,Non Strata,6,2018,0.02489019033674955
+1923,Mosman,3675.0,4358.0,36.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,1575.0,64.0,464.0,Non Strata,9,2018,0.050000000000000044
+2858,Mosman,3700.0,4565.0,45.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,1575.0,56.0,475.0,Non Strata,12,2018,0.006802721088435382
+3793,Mosman,3603.0,3991.0,20.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,1425.0,70.0,485.0,Non Strata,3,2019,-0.02621621621621617
+4730,Mosman,3450.0,3662.0,48.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,1550.0,71.0,505.0,Non Strata,6,2019,-0.042464612822647796
+5649,Mosman,3240.0,3861.0,36.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,1500.0,65.0,503.0,Non Strata,9,2019,-0.060869565217391286
+6588,Mosman,3900.0,4287.0,67.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,1700.0,67.0,501.0,Non Strata,12,2019,0.20370370370370372
+7528,Mosman,4050.0,4805.0,44.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,1495.0,61.0,507.0,Non Strata,3,2020,0.03846153846153855
+8468,Mosman,3730.0,4167.0,41.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,1400.0,59.0,499.0,Non Strata,6,2020,-0.07901234567901239
+9408,Mosman,4340.0,4854.0,48.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,1500.0,71.0,511.0,Non Strata,9,2020,0.16353887399463818
+10348,Mosman,4368.0,4768.0,72.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,1590.0,57.0,504.0,Non Strata,12,2020,0.006451612903225712
+11288,Mosman,4750.0,5059.0,60.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,1500.0,75.0,516.0,Non Strata,3,2021,0.08745421245421237
+12226,Mosman,4890.0,5348.0,77.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,1850.0,61.0,504.0,Non Strata,6,2021,0.02947368421052632
+13161,Mosman,5363.0,5746.0,59.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,2125.0,56.0,513.0,Non Strata,9,2021,0.09672801635991823
+14096,Mosman,5300.0,5954.0,55.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,1888.0,56.0,517.0,Non Strata,12,2021,-0.011747156442289741
+15031,Mosman,4900.0,5765.0,47.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1575.0,56.0,517.0,Non Strata,3,2022,-0.07547169811320753
+15966,Mosman,4575.0,6042.0,35.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,1875.0,46.0,508.0,Non Strata,6,2022,-0.06632653061224492
+16901,Mosman,4718.0,5500.0,53.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,835.0,125.0,566.0,Non Strata,9,2022,0.031256830601092966
+17837,Mosman,4775.0,5700.0,48.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,898.0,144.0,641.0,Non Strata,12,2022,0.012081390419669269
+18772,Mosman,5350.0,6119.0,38.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,840.0,130.0,725.0,Non Strata,3,2023,0.12041884816753923
+19707,Mosman,4300.0,5476.0,39.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1850.0,69.0,575.0,Non Strata,6,2023,-0.19626168224299068
+81,North Sydney,2600.0,2628.0,49.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,1100.0,89.0,702.0,Non Strata,3,2018,0.0
+1016,North Sydney,2300.0,2466.0,47.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,900.0,106.0,747.0,Non Strata,6,2018,-0.11538461538461542
+1949,North Sydney,2278.0,2642.0,42.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,1000.0,109.0,770.0,Non Strata,9,2018,-0.009565217391304337
+2885,North Sydney,2278.0,2574.0,54.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,1000.0,119.0,800.0,Non Strata,12,2018,0.0
+3821,North Sydney,2278.0,2343.0,44.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,850.0,125.0,839.0,Non Strata,3,2019,0.0
+4758,North Sydney,2650.0,3182.0,49.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,1000.0,101.0,859.0,Non Strata,6,2019,0.1633011413520633
+5677,North Sydney,2505.0,2945.0,54.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,920.0,126.0,886.0,Non Strata,9,2019,-0.05471698113207546
+6616,North Sydney,2536.0,2972.0,76.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,900.0,111.0,906.0,Non Strata,12,2019,0.012375249500998109
+7556,North Sydney,2673.0,2899.0,44.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,910.0,145.0,960.0,Non Strata,3,2020,0.05402208201892744
+8496,North Sydney,2350.0,2415.0,49.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,940.0,113.0,976.0,Non Strata,6,2020,-0.12083800972689862
+9436,North Sydney,2838.0,3268.0,51.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,885.0,122.0,1008.0,Non Strata,9,2020,0.20765957446808514
+10376,North Sydney,2950.0,3437.0,69.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,900.0,116.0,1007.0,Non Strata,12,2020,0.03946441155743474
+11316,North Sydney,3300.0,3451.0,71.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,950.0,128.0,1021.0,Non Strata,3,2021,0.11864406779661008
+12254,North Sydney,3483.0,5647.0,98.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,1000.0,123.0,1027.0,Non Strata,6,2021,0.05545454545454542
+13189,North Sydney,3185.0,3354.0,70.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,1000.0,112.0,1014.0,Non Strata,9,2021,-0.08555842664369795
+14123,North Sydney,3600.0,3737.0,77.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,990.0,121.0,1025.0,Non Strata,12,2021,0.1302982731554161
+15058,North Sydney,3600.0,3944.0,51.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1050.0,106.0,1012.0,Non Strata,3,2022,0.0
+15993,North Sydney,3225.0,3556.0,51.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,965.0,116.0,1005.0,Non Strata,6,2022,-0.10416666666666663
+16928,North Sydney,3363.0,3574.0,48.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,650.0,597.0,1481.0,Non Strata,9,2022,0.042790697674418565
+17864,North Sydney,2985.0,2939.0,36.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,690.0,533.0,1870.0,Non Strata,12,2022,-0.11239964317573592
+18799,North Sydney,3100.0,3050.0,36.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,748.0,574.0,2329.0,Non Strata,3,2023,0.038525963149078635
+19734,North Sydney,3375.0,3775.0,52.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1100.0,125.0,1319.0,Non Strata,6,2023,0.08870967741935476
+109,Randwick,2250.0,2288.0,129.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,1000.0,261.0,1948.0,Non Strata,3,2018,0.0
+1044,Randwick,2155.0,2285.0,128.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,950.0,245.0,2019.0,Non Strata,6,2018,-0.04222222222222227
+1977,Randwick,1845.0,2025.0,88.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,995.0,266.0,2101.0,Non Strata,9,2018,-0.14385150812064962
+2913,Randwick,1961.0,2112.0,135.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,975.0,232.0,2121.0,Non Strata,12,2018,0.0628726287262873
+3849,Randwick,1960.0,2061.0,89.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,900.0,314.0,2204.0,Non Strata,3,2019,-0.0005099439061703182
+4786,Randwick,1925.0,2052.0,137.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,950.0,247.0,2246.0,Non Strata,6,2019,-0.017857142857142905
+5705,Randwick,1950.0,2200.0,136.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,915.0,333.0,2302.0,Non Strata,9,2019,0.01298701298701288
+6644,Randwick,2300.0,2456.0,160.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,950.0,285.0,2399.0,Non Strata,12,2019,0.17948717948717952
+7584,Randwick,2331.0,2411.0,126.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,950.0,280.0,2426.0,Non Strata,3,2020,0.013478260869565162
+8524,Randwick,2170.0,2343.0,135.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,900.0,265.0,2454.0,Non Strata,6,2020,-0.06906906906906907
+9464,Randwick,2213.0,2400.0,176.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,900.0,300.0,2494.0,Non Strata,9,2020,0.019815668202765035
+10404,Randwick,2300.0,2441.0,211.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,878.0,282.0,2562.0,Non Strata,12,2020,0.03931314957071841
+11344,Randwick,2700.0,2903.0,193.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,900.0,299.0,2564.0,Non Strata,3,2021,0.17391304347826098
+12282,Randwick,2925.0,3185.0,227.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,990.0,260.0,2570.0,Non Strata,6,2021,0.08333333333333326
+13217,Randwick,3110.0,3304.0,203.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,1000.0,258.0,2560.0,Non Strata,9,2021,0.06324786324786325
+14151,Randwick,3181.0,3284.0,208.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,950.0,258.0,2595.0,Non Strata,12,2021,0.022829581993569104
+15086,Randwick,2938.0,3096.0,152.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1000.0,329.0,2608.0,Non Strata,3,2022,-0.07639107198994022
+16021,Randwick,3025.0,3298.0,157.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,1050.0,264.0,2628.0,Non Strata,6,2022,0.02961198093941464
+16956,Randwick,2800.0,2913.0,139.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,730.0,817.0,3193.0,Non Strata,9,2022,-0.07438016528925617
+17892,Randwick,2800.0,3140.0,159.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,815.0,587.0,3523.0,Non Strata,12,2022,0.0
+18826,Randwick,2900.0,3075.0,120.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,815.0,666.0,3972.0,Non Strata,3,2023,0.03571428571428581
+19761,Randwick,2870.0,3290.0,160.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1200.0,270.0,2972.0,Non Strata,6,2023,-0.010344827586206917
+137,Sydney,1658.0,1887.0,132.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,810.0,506.0,2493.0,Non Strata,3,2018,0.0
+1072,Sydney,1600.0,1912.0,160.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,810.0,447.0,2711.0,Non Strata,6,2018,-0.0349819059107358
+2005,Sydney,1411.0,1516.0,124.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,770.0,514.0,2942.0,Non Strata,9,2018,-0.11812500000000004
+2941,Sydney,1470.0,1574.0,163.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,790.0,443.0,3070.0,Non Strata,12,2018,0.041814316087881
+3877,Sydney,1500.0,1585.0,108.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,775.0,573.0,3276.0,Non Strata,3,2019,0.020408163265306145
+4814,Sydney,1429.0,1655.0,130.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,793.0,482.0,3406.0,Non Strata,6,2019,-0.04733333333333334
+5733,Sydney,1551.0,1646.0,166.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,780.0,578.0,3566.0,Non Strata,9,2019,0.08537438768369499
+6672,Sydney,1673.0,1832.0,180.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,795.0,551.0,3749.0,Non Strata,12,2019,0.07865892972275956
+7612,Sydney,1691.0,1733.0,135.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,800.0,654.0,3933.0,Non Strata,3,2020,0.01075911536162577
+8552,Sydney,1650.0,1828.0,151.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,725.0,628.0,3994.0,Non Strata,6,2020,-0.02424600827912482
+9492,Sydney,1625.0,1749.0,190.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,700.0,841.0,4226.0,Non Strata,9,2020,-0.015151515151515138
+10432,Sydney,1790.0,2107.0,244.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,695.0,787.0,4506.0,Non Strata,12,2020,0.10153846153846158
+11372,Sydney,1750.0,1936.0,222.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,700.0,844.0,4693.0,Non Strata,3,2021,-0.022346368715083775
+12310,Sydney,2000.0,2228.0,211.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,700.0,622.0,4783.0,Non Strata,6,2021,0.1428571428571428
+13245,Sydney,2030.0,2229.0,256.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,750.0,619.0,4809.0,Non Strata,9,2021,0.014999999999999902
+14179,Sydney,2190.0,2305.0,259.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,750.0,643.0,4850.0,Non Strata,12,2021,0.07881773399014769
+15114,Sydney,2000.0,2154.0,176.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,800.0,728.0,4910.0,Non Strata,3,2022,-0.08675799086757996
+16049,Sydney,1933.0,2161.0,200.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,800.0,579.0,4894.0,Non Strata,6,2022,-0.033499999999999974
+16984,Sydney,1745.0,1918.0,182.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,700.0,2360.0,6655.0,Non Strata,9,2022,-0.0972581479565442
+17920,Sydney,1900.0,2081.0,180.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,750.0,2271.0,8207.0,Non Strata,12,2022,0.08882521489971351
+18854,Sydney,2025.0,2148.0,117.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,840.0,2378.0,9891.0,Non Strata,3,2023,0.06578947368421062
+19789,Sydney,1885.0,2113.0,176.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,900.0,607.0,5991.0,Non Strata,6,2023,-0.06913580246913575
+165,Waverley,2828.0,2931.0,90.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,1300.0,141.0,902.0,Non Strata,3,2018,0.0
+1100,Waverley,2778.0,3036.0,76.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,1200.0,126.0,943.0,Non Strata,6,2018,-0.01768033946251768
+2033,Waverley,2350.0,2618.0,67.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,1150.0,150.0,993.0,Non Strata,9,2018,-0.1540676745860331
+2969,Waverley,2568.0,2712.0,90.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,1200.0,127.0,1031.0,Non Strata,12,2018,0.09276595744680849
+3905,Waverley,2620.0,2830.0,59.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,1210.0,138.0,1060.0,Non Strata,3,2019,0.02024922118380057
+4842,Waverley,2635.0,2885.0,90.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,1200.0,149.0,1095.0,Non Strata,6,2019,0.005725190839694694
+5761,Waverley,2790.0,2990.0,83.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,1113.0,182.0,1134.0,Non Strata,9,2019,0.05882352941176472
+6700,Waverley,2838.0,2996.0,98.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,1200.0,153.0,1182.0,Non Strata,12,2019,0.017204301075268713
+7640,Waverley,3008.0,3260.0,88.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,1348.0,130.0,1198.0,Non Strata,3,2020,0.0599013389711065
+8580,Waverley,2901.0,3049.0,89.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,1100.0,166.0,1179.0,Non Strata,6,2020,-0.03557180851063835
+9520,Waverley,3050.0,3300.0,122.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,1150.0,210.0,1240.0,Non Strata,9,2020,0.05136159944846597
+10460,Waverley,3351.0,3509.0,121.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,1198.0,178.0,1271.0,Non Strata,12,2020,0.09868852459016386
+11400,Waverley,3560.0,4035.0,103.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,1198.0,160.0,1295.0,Non Strata,3,2021,0.062369441957624616
+12338,Waverley,4003.0,4309.0,126.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,1188.0,136.0,1294.0,Non Strata,6,2021,0.12443820224719104
+13273,Waverley,4068.0,4524.0,112.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,1250.0,153.0,1281.0,Non Strata,9,2021,0.01623782163377463
+14207,Waverley,4200.0,4703.0,127.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,1350.0,161.0,1292.0,Non Strata,12,2021,0.032448377581120846
+15142,Waverley,4275.0,4642.0,67.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1400.0,148.0,1306.0,Non Strata,3,2022,0.017857142857142794
+16077,Waverley,4010.0,4557.0,98.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,1325.0,149.0,1298.0,Non Strata,6,2022,-0.06198830409356726
+17012,Waverley,3920.0,4136.0,73.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,800.0,595.0,1758.0,Non Strata,9,2022,-0.02244389027431426
+17948,Waverley,4028.0,4506.0,84.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,880.0,429.0,2028.0,Non Strata,12,2022,0.027551020408163263
+18882,Waverley,3850.0,4281.0,85.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,995.0,393.0,2283.0,Non Strata,3,2023,-0.04419066534260174
+19817,Waverley,4075.0,4606.0,72.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1500.0,133.0,1548.0,Non Strata,6,2023,0.05844155844155852
+193,Woollahra,3650.0,4055.0,85.0,2018-03-31,Greater Sydney,Inner Ring,House,Total,1450.0,147.0,783.0,Non Strata,3,2018,0.0
+1128,Woollahra,3255.0,3750.0,80.0,2018-06-30,Greater Sydney,Inner Ring,House,Total,1250.0,91.0,794.0,Non Strata,6,2018,-0.10821917808219184
+2061,Woollahra,3600.0,4789.0,51.0,2018-09-30,Greater Sydney,Inner Ring,House,Total,1175.0,139.0,839.0,Non Strata,9,2018,0.10599078341013835
+2997,Woollahra,4258.0,5165.0,96.0,2018-12-31,Greater Sydney,Inner Ring,House,Total,1350.0,142.0,890.0,Non Strata,12,2018,0.1827777777777777
+3933,Woollahra,3960.0,4434.0,68.0,2019-03-31,Greater Sydney,Inner Ring,House,Total,1425.0,138.0,929.0,Non Strata,3,2019,-0.06998590887740719
+4870,Woollahra,3500.0,3958.0,105.0,2019-06-30,Greater Sydney,Inner Ring,House,Total,1283.0,126.0,950.0,Non Strata,6,2019,-0.11616161616161613
+5789,Woollahra,3050.0,3436.0,92.0,2019-09-30,Greater Sydney,Inner Ring,House,Total,1200.0,178.0,990.0,Non Strata,9,2019,-0.12857142857142856
+6728,Woollahra,3200.0,4114.0,119.0,2019-12-31,Greater Sydney,Inner Ring,House,Total,1250.0,163.0,1052.0,Non Strata,12,2019,0.049180327868852514
+7668,Woollahra,3710.0,3922.0,94.0,2020-03-31,Greater Sydney,Inner Ring,House,Total,1338.0,128.0,1065.0,Non Strata,3,2020,0.15937500000000004
+8608,Woollahra,3360.0,3802.0,100.0,2020-06-30,Greater Sydney,Inner Ring,House,Total,1175.0,166.0,1076.0,Non Strata,6,2020,-0.09433962264150941
+9548,Woollahra,3825.0,4532.0,128.0,2020-09-30,Greater Sydney,Inner Ring,House,Total,1200.0,189.0,1138.0,Non Strata,9,2020,0.1383928571428572
+10488,Woollahra,3874.0,4570.0,131.0,2020-12-31,Greater Sydney,Inner Ring,House,Total,1313.0,152.0,1177.0,Non Strata,12,2020,0.012810457516339913
+11428,Woollahra,4287.0,4594.0,107.0,2021-03-31,Greater Sydney,Inner Ring,House,Total,1300.0,156.0,1199.0,Non Strata,3,2021,0.10660815694372738
+12366,Woollahra,4550.0,5234.0,142.0,2021-06-30,Greater Sydney,Inner Ring,House,Total,1300.0,137.0,1189.0,Non Strata,6,2021,0.06134826218801037
+13301,Woollahra,4500.0,5416.0,112.0,2021-09-30,Greater Sydney,Inner Ring,House,Total,1300.0,163.0,1183.0,Non Strata,9,2021,-0.01098901098901095
+14235,Woollahra,4250.0,5813.0,142.0,2021-12-31,Greater Sydney,Inner Ring,House,Total,1400.0,181.0,1209.0,Non Strata,12,2021,-0.05555555555555558
+15170,Woollahra,4200.0,5394.0,75.0,2022-03-31,Greater Sydney,Inner Ring,House,Total,1400.0,160.0,1211.0,Non Strata,3,2022,-0.0117647058823529
+16105,Woollahra,5165.0,6257.0,110.0,2022-06-30,Greater Sydney,Inner Ring,House,Total,1300.0,149.0,1231.0,Non Strata,6,2022,0.22976190476190483
+17040,Woollahra,4625.0,5253.0,90.0,2022-09-30,Greater Sydney,Inner Ring,House,Total,840.0,365.0,1453.0,Non Strata,9,2022,-0.10454985479186829
+17976,Woollahra,4175.0,6072.0,83.0,2022-12-31,Greater Sydney,Inner Ring,House,Total,965.0,354.0,1652.0,Non Strata,12,2022,-0.0972972972972973
+18910,Woollahra,4425.0,5366.0,77.0,2023-03-31,Greater Sydney,Inner Ring,House,Total,1200.0,359.0,1877.0,Non Strata,3,2023,0.05988023952095811
+19845,Woollahra,4240.0,5440.0,88.0,2023-06-30,Greater Sydney,Inner Ring,House,Total,1550.0,156.0,1447.0,Non Strata,6,2023,-0.041807909604519744
+221,Bayside,1303.0,1349.0,152.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,650.0,251.0,3055.0,Non Strata,3,2018,0.0
+1156,Bayside,1298.0,1358.0,149.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,680.0,291.0,3100.0,Non Strata,6,2018,-0.0038372985418265726
+2088,Bayside,1195.0,1219.0,111.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,670.0,312.0,3168.0,Non Strata,9,2018,-0.0793528505392912
+3024,Bayside,1183.0,1222.0,146.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,650.0,300.0,3224.0,Non Strata,12,2018,-0.010041841004184149
+3960,Bayside,1138.0,1176.0,98.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,650.0,293.0,3257.0,Non Strata,3,2019,-0.03803888419273038
+4897,Bayside,1127.0,1181.0,174.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,650.0,329.0,3351.0,Non Strata,6,2019,-0.009666080843585223
+5816,Bayside,1250.0,1297.0,162.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,650.0,369.0,3398.0,Non Strata,9,2019,0.10913930789707194
+6755,Bayside,1366.0,1395.0,191.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,638.0,316.0,3465.0,Non Strata,12,2019,0.0928
+7695,Bayside,1390.0,1411.0,149.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,650.0,348.0,3531.0,Non Strata,3,2020,0.017569546120058455
+8635,Bayside,1301.0,1374.0,128.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,620.0,264.0,3499.0,Non Strata,6,2020,-0.06402877697841725
+9575,Bayside,1373.0,1401.0,180.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,650.0,361.0,3557.0,Non Strata,9,2020,0.05534204458109149
+10515,Bayside,1375.0,1410.0,265.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,620.0,330.0,3559.0,Non Strata,12,2020,0.0014566642388929019
+11455,Bayside,1505.0,1537.0,177.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,650.0,349.0,3574.0,Non Strata,3,2021,0.09454545454545449
+12393,Bayside,1670.0,1703.0,277.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,660.0,315.0,3564.0,Non Strata,6,2021,0.10963455149501655
+13328,Bayside,1815.0,1879.0,230.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,650.0,296.0,3567.0,Non Strata,9,2021,0.08682634730538918
+14263,Bayside,1800.0,1893.0,287.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,670.0,315.0,3591.0,Non Strata,12,2021,-0.008264462809917328
+15198,Bayside,1838.0,1923.0,202.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,685.0,288.0,3622.0,Non Strata,3,2022,0.02111111111111108
+16133,Bayside,1800.0,1882.0,206.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,750.0,333.0,3671.0,Non Strata,6,2022,-0.020674646354733373
+17068,Bayside,1700.0,1698.0,198.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,650.0,825.0,4177.0,Non Strata,9,2022,-0.05555555555555558
+18004,Bayside,1593.0,1705.0,196.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,680.0,739.0,4602.0,Non Strata,12,2022,-0.06294117647058828
+18938,Bayside,1582.0,1628.0,147.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,750.0,807.0,5160.0,Non Strata,3,2023,-0.0069052102950407646
+19873,Bayside,1655.0,1752.0,170.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,850.0,292.0,4099.0,Non Strata,6,2023,0.04614412136536039
+248,Burwood,1665.0,1812.0,20.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,690.0,70.0,559.0,Non Strata,3,2018,0.0
+1183,Burwood,1608.0,1730.0,32.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,650.0,51.0,564.0,Non Strata,6,2018,-0.03423423423423422
+2115,Burwood,1500.0,1515.0,35.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,650.0,61.0,588.0,Non Strata,9,2018,-0.06716417910447758
+3051,Burwood,1520.0,1583.0,45.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,650.0,58.0,592.0,Non Strata,12,2018,0.01333333333333342
+3987,Burwood,1249.0,1433.0,20.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,700.0,54.0,603.0,Non Strata,3,2019,-0.17828947368421055
+4924,Burwood,1265.0,1368.0,20.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,700.0,61.0,631.0,Non Strata,6,2019,0.012810248198558805
+5843,Burwood,1685.0,1837.0,20.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,620.0,59.0,637.0,Non Strata,9,2019,0.3320158102766799
+6782,Burwood,1610.0,1608.0,33.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,650.0,60.0,645.0,Non Strata,12,2019,-0.04451038575667654
+7722,Burwood,1500.0,1647.0,31.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,695.0,59.0,646.0,Non Strata,3,2020,-0.06832298136645965
+8662,Burwood,1845.0,1768.0,20.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,670.0,59.0,638.0,Non Strata,6,2020,0.22999999999999998
+9602,Burwood,1610.0,1758.0,20.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,580.0,70.0,652.0,Non Strata,9,2020,-0.12737127371273715
+10542,Burwood,1720.0,1780.0,60.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,563.0,76.0,674.0,Non Strata,12,2020,0.06832298136645965
+11482,Burwood,1860.0,2012.0,49.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,630.0,100.0,704.0,Non Strata,3,2021,0.08139534883720922
+12420,Burwood,2048.0,2220.0,50.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,600.0,89.0,735.0,Non Strata,6,2021,0.1010752688172043
+13355,Burwood,2000.0,2140.0,45.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,600.0,69.0,737.0,Non Strata,9,2021,-0.0234375
+14290,Burwood,2201.0,2248.0,74.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,665.0,86.0,762.0,Non Strata,12,2021,0.10050000000000003
+15225,Burwood,2470.0,2458.0,42.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,665.0,74.0,761.0,Non Strata,3,2022,0.12221717401181276
+16160,Burwood,1975.0,2100.0,53.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,685.0,90.0,788.0,Non Strata,6,2022,-0.2004048582995951
+17095,Burwood,1997.0,2141.0,36.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,620.0,192.0,902.0,Non Strata,9,2022,0.011139240506329084
+18031,Burwood,1916.0,2141.0,36.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,620.0,132.0,959.0,Non Strata,12,2022,-0.040560841261892855
+18965,Burwood,2275.0,2213.0,20.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,720.0,220.0,1093.0,Non Strata,3,2023,0.18736951983298544
+19900,Burwood,2128.0,2177.0,42.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,863.0,68.0,882.0,Non Strata,6,2023,-0.06461538461538463
+275,Canada Bay,2155.0,2218.0,77.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,750.0,186.0,1518.0,Non Strata,3,2018,0.0
+1210,Canada Bay,2058.0,2138.0,88.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,777.5,190.0,1569.0,Non Strata,6,2018,-0.045011600928074214
+2142,Canada Bay,1705.0,1873.0,54.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,780.0,206.0,1630.0,Non Strata,9,2018,-0.17152575315840624
+3078,Canada Bay,1752.0,1916.0,78.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,780.0,162.0,1655.0,Non Strata,12,2018,0.027565982404692102
+4014,Canada Bay,1688.0,1701.0,56.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,750.0,218.0,1709.0,Non Strata,3,2019,-0.0365296803652968
+4951,Canada Bay,1650.0,1787.0,108.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,730.0,173.0,1737.0,Non Strata,6,2019,-0.02251184834123221
+5870,Canada Bay,1721.0,1940.0,105.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,750.0,199.0,1766.0,Non Strata,9,2019,0.043030303030302974
+6810,Canada Bay,2080.0,2158.0,119.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,750.0,191.0,1808.0,Non Strata,12,2019,0.20859965136548508
+7750,Canada Bay,1973.0,1999.0,100.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,800.0,179.0,1825.0,Non Strata,3,2020,-0.05144230769230773
+8690,Canada Bay,1866.0,2042.0,88.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,740.0,163.0,1804.0,Non Strata,6,2020,-0.05423213380638625
+9630,Canada Bay,2075.0,2177.0,98.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,720.0,209.0,1865.0,Non Strata,9,2020,0.11200428724544476
+10570,Canada Bay,2150.0,2145.0,146.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,735.0,152.0,1856.0,Non Strata,12,2020,0.03614457831325302
+11510,Canada Bay,2430.0,2429.0,126.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,780.0,204.0,1869.0,Non Strata,3,2021,0.13023255813953494
+12447,Canada Bay,2568.0,2715.0,144.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,750.0,169.0,1858.0,Non Strata,6,2021,0.05679012345679002
+13382,Canada Bay,2619.0,2781.0,121.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,760.0,157.0,1864.0,Non Strata,9,2021,0.01985981308411211
+14317,Canada Bay,2950.0,3535.0,174.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,850.0,162.0,1842.0,Non Strata,12,2021,0.1263841160748378
+15252,Canada Bay,2832.0,2983.0,105.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,800.0,193.0,1846.0,Non Strata,3,2022,-0.040000000000000036
+16187,Canada Bay,2800.0,2846.0,126.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,850.0,183.0,1875.0,Non Strata,6,2022,-0.011299435028248594
+17123,Canada Bay,2738.0,2818.0,120.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,720.0,430.0,2129.0,Non Strata,9,2022,-0.02214285714285713
+18058,Canada Bay,2533.0,2690.0,108.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,725.0,435.0,2344.0,Non Strata,12,2022,-0.07487216946676412
+18992,Canada Bay,2715.0,2812.0,78.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,795.0,454.0,2651.0,Non Strata,3,2023,0.07185155941571253
+19926,Canada Bay,2613.0,2874.0,124.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,950.0,168.0,2108.0,Non Strata,6,2023,-0.037569060773480656
+303,Canterbury-Bankstown,990.0,1046.0,464.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,560.0,749.0,8100.0,Non Strata,3,2018,0.0
+1238,Canterbury-Bankstown,985.0,1023.0,491.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,570.0,775.0,8317.0,Non Strata,6,2018,-0.005050505050505083
+2170,Canterbury-Bankstown,870.0,914.0,308.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,560.0,886.0,8519.0,Non Strata,9,2018,-0.11675126903553301
+3106,Canterbury-Bankstown,890.0,939.0,441.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,550.0,890.0,8791.0,Non Strata,12,2018,0.02298850574712641
+4042,Canterbury-Bankstown,855.0,879.0,351.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,550.0,796.0,8935.0,Non Strata,3,2019,-0.0393258426966292
+4979,Canterbury-Bankstown,867.0,917.0,504.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,550.0,844.0,9133.0,Non Strata,6,2019,0.01403508771929829
+5898,Canterbury-Bankstown,920.0,959.0,538.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,550.0,885.0,9214.0,Non Strata,9,2019,0.06113033448673577
+6838,Canterbury-Bankstown,950.0,1013.0,644.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,550.0,802.0,9269.0,Non Strata,12,2019,0.032608695652173836
+7778,Canterbury-Bankstown,985.0,1028.0,412.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,550.0,810.0,9417.0,Non Strata,3,2020,0.03684210526315779
+8718,Canterbury-Bankstown,943.0,1001.0,428.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,550.0,732.0,9453.0,Non Strata,6,2020,-0.04263959390862948
+9658,Canterbury-Bankstown,977.0,1022.0,630.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,550.0,833.0,9593.0,Non Strata,9,2020,0.036055143160127257
+10598,Canterbury-Bankstown,1000.0,1063.0,678.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,550.0,804.0,9712.0,Non Strata,12,2020,0.023541453428863823
+11538,Canterbury-Bankstown,1100.0,1157.0,665.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,550.0,728.0,9740.0,Non Strata,3,2021,0.10000000000000009
+12475,Canterbury-Bankstown,1221.0,1266.0,916.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,570.0,757.0,9714.0,Non Strata,6,2021,0.1100000000000001
+13410,Canterbury-Bankstown,1230.0,1287.0,708.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,600.0,782.0,9784.0,Non Strata,9,2021,0.0073710073710073765
+14345,Canterbury-Bankstown,1294.0,1329.0,908.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,570.0,854.0,9925.0,Non Strata,12,2021,0.052032520325203224
+15280,Canterbury-Bankstown,1311.0,1357.0,596.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,580.0,794.0,9989.0,Non Strata,3,2022,0.013137557959814528
+16215,Canterbury-Bankstown,1300.0,1364.0,682.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,610.0,765.0,10078.0,Non Strata,6,2022,-0.008390541571319576
+17151,Canterbury-Bankstown,1211.0,1262.0,593.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,580.0,1182.0,10493.0,Non Strata,9,2022,-0.06846153846153846
+18086,Canterbury-Bankstown,1200.0,1227.0,540.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,600.0,1082.0,10810.0,Non Strata,12,2022,-0.009083402146985997
+19020,Canterbury-Bankstown,1203.0,1253.0,440.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,620.0,1148.0,11427.0,Non Strata,3,2023,0.0024999999999999467
+19954,Canterbury-Bankstown,1325.0,1368.0,682.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,700.0,788.0,10871.0,Non Strata,6,2023,0.1014131338320865
+331,Cumberland,880.0,920.0,229.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,500.0,576.0,6164.0,Non Strata,3,2018,0.0
+1266,Cumberland,868.0,900.0,275.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,520.0,569.0,6318.0,Non Strata,6,2018,-0.013636363636363669
+2198,Cumberland,800.0,823.0,165.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,500.0,611.0,6446.0,Non Strata,9,2018,-0.07834101382488479
+3134,Cumberland,800.0,821.0,222.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,510.0,562.0,6534.0,Non Strata,12,2018,0.0
+4070,Cumberland,770.0,789.0,183.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,500.0,580.0,6544.0,Non Strata,3,2019,-0.03749999999999998
+5007,Cumberland,780.0,803.0,275.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,500.0,632.0,6700.0,Non Strata,6,2019,0.01298701298701288
+5926,Cumberland,800.0,810.0,286.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,500.0,668.0,6793.0,Non Strata,9,2019,0.02564102564102555
+6866,Cumberland,833.0,881.0,317.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,490.0,632.0,6904.0,Non Strata,12,2019,0.04125000000000001
+7806,Cumberland,893.0,919.0,266.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,500.0,634.0,7045.0,Non Strata,3,2020,0.07202881152460994
+8746,Cumberland,860.0,876.0,226.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,490.0,520.0,7069.0,Non Strata,6,2020,-0.03695408734602468
+9686,Cumberland,870.0,923.0,300.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,500.0,674.0,7197.0,Non Strata,9,2020,0.011627906976744207
+10626,Cumberland,910.0,958.0,387.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,490.0,620.0,7290.0,Non Strata,12,2020,0.04597701149425282
+11566,Cumberland,940.0,1000.0,339.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,500.0,582.0,7298.0,Non Strata,3,2021,0.03296703296703307
+12503,Cumberland,1010.0,1063.0,511.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,480.0,569.0,7258.0,Non Strata,6,2021,0.07446808510638303
+13438,Cumberland,1051.0,1090.0,342.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,495.0,621.0,7380.0,Non Strata,9,2021,0.04059405940594063
+14373,Cumberland,1150.0,1173.0,488.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,500.0,622.0,7537.0,Non Strata,12,2021,0.0941960038058991
+15308,Cumberland,1105.0,1147.0,356.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,525.0,620.0,7556.0,Non Strata,3,2022,-0.03913043478260869
+16243,Cumberland,1121.0,1172.0,374.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,540.0,634.0,7665.0,Non Strata,6,2022,0.014479638009049722
+17179,Cumberland,1095.0,1149.0,308.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,540.0,957.0,8063.0,Non Strata,9,2022,-0.023193577163247103
+18114,Cumberland,1050.0,1095.0,282.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,550.0,877.0,8324.0,Non Strata,12,2022,-0.04109589041095896
+19048,Cumberland,1079.0,1113.0,270.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,550.0,998.0,8885.0,Non Strata,3,2023,0.027619047619047654
+19982,Cumberland,1180.0,1220.0,379.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,650.0,617.0,8360.0,Non Strata,6,2023,0.0936051899907322
+359,Georges River,1356.0,1405.0,145.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,600.0,326.0,2994.0,Non Strata,3,2018,0.0
+1294,Georges River,1250.0,1351.0,179.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,630.0,288.0,3067.0,Non Strata,6,2018,-0.07817109144542778
+2226,Georges River,1178.0,1266.0,136.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,620.0,288.0,3125.0,Non Strata,9,2018,-0.057599999999999985
+3162,Georges River,1200.0,1313.0,191.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,600.0,312.0,3168.0,Non Strata,12,2018,0.018675721561969505
+4098,Georges River,1200.0,1231.0,125.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,600.0,319.0,3239.0,Non Strata,3,2019,0.0
+5035,Georges River,1125.0,1231.0,186.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,590.0,302.0,3289.0,Non Strata,6,2019,-0.0625
+5954,Georges River,1250.0,1301.0,216.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,595.0,369.0,3340.0,Non Strata,9,2019,0.11111111111111116
+6894,Georges River,1281.0,1353.0,270.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,570.0,286.0,3375.0,Non Strata,12,2019,0.024799999999999933
+7834,Georges River,1350.0,1419.0,174.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,600.0,300.0,3411.0,Non Strata,3,2020,0.05386416861826704
+8774,Georges River,1285.0,1402.0,163.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,580.0,309.0,3453.0,Non Strata,6,2020,-0.04814814814814816
+9714,Georges River,1306.0,1393.0,205.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,570.0,317.0,3464.0,Non Strata,9,2020,0.01634241245136181
+10654,Georges River,1390.0,1474.0,289.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,570.0,318.0,3495.0,Non Strata,12,2020,0.06431852986217468
+11594,Georges River,1495.0,1579.0,251.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,590.0,309.0,3499.0,Non Strata,3,2021,0.07553956834532372
+12531,Georges River,1622.0,1700.0,301.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,600.0,295.0,3483.0,Non Strata,6,2021,0.08494983277591972
+13466,Georges River,1705.0,1838.0,240.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,600.0,271.0,3439.0,Non Strata,9,2021,0.05117139334155363
+14401,Georges River,1800.0,1939.0,342.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,620.0,291.0,3463.0,Non Strata,12,2021,0.055718475073313734
+15336,Georges River,1795.0,1888.0,188.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,630.0,299.0,3467.0,Non Strata,3,2022,-0.002777777777777768
+16271,Georges River,1831.0,2013.0,244.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,650.0,275.0,3478.0,Non Strata,6,2022,0.020055710306406738
+17207,Georges River,1700.0,1838.0,221.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,600.0,531.0,3734.0,Non Strata,9,2022,-0.07154560349535777
+18142,Georges River,1600.0,1710.0,207.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,620.0,542.0,3957.0,Non Strata,12,2022,-0.05882352941176472
+19076,Georges River,1700.0,1800.0,157.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,650.0,501.0,4246.0,Non Strata,3,2023,0.0625
+20010,Georges River,1818.0,1918.0,228.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,770.0,329.0,3770.0,Non Strata,6,2023,0.06941176470588228
+387,Hunters Hill,2900.0,2969.0,20.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,960.0,20.0,264.0,Non Strata,3,2018,0.0
+1322,Hunters Hill,2625.0,3267.0,20.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,975.0,20.0,266.0,Non Strata,6,2018,-0.09482758620689657
+2253,Hunters Hill,2875.0,2994.0,20.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,1050.0,20.0,253.0,Non Strata,9,2018,0.09523809523809534
+3189,Hunters Hill,2670.0,2780.0,20.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,900.0,20.0,251.0,Non Strata,12,2018,-0.07130434782608697
+4125,Hunters Hill,2500.0,2769.0,20.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,950.0,33.0,250.0,Non Strata,3,2019,-0.06367041198501877
+5062,Hunters Hill,2534.0,2925.0,20.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,1075.0,32.0,262.0,Non Strata,6,2019,0.013600000000000056
+5981,Hunters Hill,2620.0,3201.0,20.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,935.0,20.0,265.0,Non Strata,9,2019,0.033938437253354437
+6921,Hunters Hill,2780.0,3231.0,32.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,20.0,269.0,Non Strata,12,2019,0.06106870229007644
+7861,Hunters Hill,3540.0,3719.0,20.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,850.0,20.0,269.0,Non Strata,3,2020,0.27338129496402885
+8801,Hunters Hill,2425.0,2809.0,20.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,845.0,20.0,267.0,Non Strata,6,2020,-0.3149717514124294
+9742,Hunters Hill,3100.0,3810.0,41.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,875.0,33.0,266.0,Non Strata,9,2020,0.2783505154639174
+10682,Hunters Hill,2978.0,3416.0,42.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,950.0,20.0,265.0,Non Strata,12,2020,-0.039354838709677376
+11622,Hunters Hill,2855.0,3735.0,20.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,1120.0,33.0,265.0,Non Strata,3,2021,-0.04130288784419078
+12558,Hunters Hill,3288.0,3658.0,20.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,1035.0,20.0,257.0,Non Strata,6,2021,0.15166374781085823
+13493,Hunters Hill,3976.0,4252.0,36.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,1100.0,32.0,271.0,Non Strata,9,2021,0.2092457420924574
+14428,Hunters Hill,4055.0,5336.0,34.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,34.0,275.0,Non Strata,12,2021,0.019869215291750564
+15363,Hunters Hill,4115.0,4228.0,20.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,1300.0,20.0,271.0,Non Strata,3,2022,0.01479654747225645
+16298,Hunters Hill,3950.0,4235.0,20.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,1200.0,20.0,267.0,Non Strata,6,2022,-0.04009720534629402
+17234,Hunters Hill,3850.0,3902.0,20.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,740.0,48.0,286.0,Non Strata,9,2022,-0.025316455696202556
+18169,Hunters Hill,4002.0,4334.0,20.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,800.0,51.0,304.0,Non Strata,12,2022,0.03948051948051945
+19103,Hunters Hill,3410.0,3746.0,20.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,950.0,39.0,325.0,Non Strata,3,2023,-0.1479260369815092
+20037,Hunters Hill,3325.0,4182.0,20.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,1213.0,20.0,281.0,Non Strata,6,2023,-0.024926686217008776
+413,Ku-Ring-Gai,2065.0,2266.0,243.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,1000.0,272.0,2405.0,Non Strata,3,2018,0.0
+1348,Ku-Ring-Gai,2010.0,2289.0,214.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,1000.0,278.0,2475.0,Non Strata,6,2018,-0.0266343825665859
+2279,Ku-Ring-Gai,2050.0,2164.0,180.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,995.0,297.0,2532.0,Non Strata,9,2018,0.01990049751243772
+3215,Ku-Ring-Gai,2050.0,2184.0,260.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,1100.0,305.0,2573.0,Non Strata,12,2018,0.0
+4151,Ku-Ring-Gai,1910.0,2065.0,168.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,990.0,339.0,2662.0,Non Strata,3,2019,-0.06829268292682922
+5088,Ku-Ring-Gai,1894.0,2081.0,264.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,958.0,246.0,2690.0,Non Strata,6,2019,-0.008376963350785305
+6007,Ku-Ring-Gai,2020.0,2270.0,283.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,960.0,328.0,2726.0,Non Strata,9,2019,0.06652587117212239
+6947,Ku-Ring-Gai,2208.0,2364.0,308.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,276.0,2712.0,Non Strata,12,2019,0.09306930693069315
+7887,Ku-Ring-Gai,2300.0,2515.0,235.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,1000.0,311.0,2776.0,Non Strata,3,2020,0.04166666666666674
+8828,Ku-Ring-Gai,2203.0,2385.0,222.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,950.0,259.0,2749.0,Non Strata,6,2020,-0.042173913043478284
+9768,Ku-Ring-Gai,2370.0,2467.0,338.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,950.0,319.0,2805.0,Non Strata,9,2020,0.07580571947344539
+10708,Ku-Ring-Gai,2500.0,2648.0,396.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,1100.0,289.0,2810.0,Non Strata,12,2020,0.05485232067510548
+11647,Ku-Ring-Gai,2783.0,3011.0,312.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,1098.0,292.0,2821.0,Non Strata,3,2021,0.11319999999999997
+12583,Ku-Ring-Gai,2928.0,3179.0,398.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,1063.0,272.0,2810.0,Non Strata,6,2021,0.05210204814947894
+13518,Ku-Ring-Gai,3055.0,3310.0,356.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,1100.0,257.0,2791.0,Non Strata,9,2021,0.0433743169398908
+14453,Ku-Ring-Gai,3280.0,3448.0,369.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,1200.0,303.0,2765.0,Non Strata,12,2021,0.07364975450081834
+15388,Ku-Ring-Gai,3230.0,3467.0,249.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,1200.0,298.0,2791.0,Non Strata,3,2022,-0.015243902439024404
+16323,Ku-Ring-Gai,3005.0,3282.0,302.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,1200.0,250.0,2763.0,Non Strata,6,2022,-0.06965944272445823
+17259,Ku-Ring-Gai,2890.0,3224.0,288.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,1038.0,390.0,2870.0,Non Strata,9,2022,-0.038269550748752046
+18194,Ku-Ring-Gai,2921.0,3221.0,288.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,453.0,2962.0,Non Strata,12,2022,0.01072664359861597
+19129,Ku-Ring-Gai,3150.0,3420.0,236.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,1070.0,498.0,3219.0,Non Strata,3,2023,0.07839780896953097
+20062,Ku-Ring-Gai,3080.0,3321.0,323.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,1150.0,260.0,2985.0,Non Strata,6,2023,-0.022222222222222254
+440,Parramatta,1240.0,1272.0,224.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,550.0,514.0,4777.0,Non Strata,3,2018,0.0
+1375,Parramatta,1230.0,1240.0,279.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,580.0,500.0,4903.0,Non Strata,6,2018,-0.008064516129032251
+2306,Parramatta,1123.0,1281.0,184.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,540.0,609.0,5087.0,Non Strata,9,2018,-0.08699186991869923
+3242,Parramatta,1125.0,1237.0,254.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,550.0,585.0,5258.0,Non Strata,12,2018,0.0017809439002671734
+4178,Parramatta,1010.0,1068.0,191.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,540.0,606.0,5390.0,Non Strata,3,2019,-0.10222222222222221
+5115,Parramatta,1006.0,1058.0,292.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,550.0,560.0,5505.0,Non Strata,6,2019,-0.003960396039603964
+6034,Parramatta,1130.0,1170.0,306.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,540.0,610.0,5583.0,Non Strata,9,2019,0.12326043737574555
+6974,Parramatta,1251.0,1297.0,342.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,530.0,565.0,5677.0,Non Strata,12,2019,0.10707964601769904
+7914,Parramatta,1250.0,1307.0,260.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,540.0,584.0,5788.0,Non Strata,3,2020,-0.0007993605115906854
+8855,Parramatta,1205.0,1248.0,231.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,520.0,539.0,5892.0,Non Strata,6,2020,-0.03600000000000003
+9795,Parramatta,1250.0,1283.0,340.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,530.0,656.0,6072.0,Non Strata,9,2020,0.03734439834024905
+10735,Parramatta,1290.0,1345.0,444.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,520.0,584.0,6116.0,Non Strata,12,2020,0.03200000000000003
+11674,Parramatta,1360.0,1409.0,375.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,540.0,660.0,6184.0,Non Strata,3,2021,0.054263565891472965
+12610,Parramatta,1499.0,1570.0,464.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,540.0,610.0,6227.0,Non Strata,6,2021,0.10220588235294126
+13545,Parramatta,1566.0,1625.0,394.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,548.0,538.0,6272.0,Non Strata,9,2021,0.044696464309539774
+14480,Parramatta,1685.0,1736.0,471.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,560.0,589.0,6303.0,Non Strata,12,2021,0.07598978288633451
+15415,Parramatta,1730.0,1782.0,317.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,560.0,614.0,6326.0,Non Strata,3,2022,0.026706231454005858
+16350,Parramatta,1611.0,1658.0,353.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,600.0,577.0,6402.0,Non Strata,6,2022,-0.0687861271676301
+17286,Parramatta,1528.0,1591.0,324.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,550.0,1288.0,7143.0,Non Strata,9,2022,-0.051520794537554315
+18221,Parramatta,1549.0,1639.0,314.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,570.0,1271.0,7778.0,Non Strata,12,2022,0.013743455497382095
+19156,Parramatta,1556.0,1607.0,241.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,600.0,1360.0,8688.0,Non Strata,3,2023,0.004519044544867734
+20089,Parramatta,1709.0,1776.0,342.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,670.0,595.0,7143.0,Non Strata,6,2023,0.0983290488431876
+468,Ryde,1775.0,1851.0,105.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,670.0,271.0,2350.0,Non Strata,3,2018,0.0
+1403,Ryde,1673.0,1765.0,144.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,680.0,239.0,2393.0,Non Strata,6,2018,-0.057464788732394356
+2334,Ryde,1435.0,1498.0,90.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,680.0,296.0,2450.0,Non Strata,9,2018,-0.14225941422594146
+3270,Ryde,1428.0,1480.0,146.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,670.0,245.0,2486.0,Non Strata,12,2018,-0.004878048780487809
+4206,Ryde,1335.0,1428.0,117.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,660.0,332.0,2573.0,Non Strata,3,2019,-0.06512605042016806
+5143,Ryde,1400.0,1514.0,147.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,650.0,294.0,2667.0,Non Strata,6,2019,0.04868913857677892
+6062,Ryde,1520.0,1592.0,149.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,640.0,308.0,2726.0,Non Strata,9,2019,0.08571428571428563
+7002,Ryde,1690.0,1767.0,169.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,630.0,242.0,2729.0,Non Strata,12,2019,0.11184210526315796
+7942,Ryde,1718.0,1826.0,117.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,670.0,287.0,2759.0,Non Strata,3,2020,0.016568047337278013
+8883,Ryde,1670.0,1743.0,109.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,600.0,239.0,2728.0,Non Strata,6,2020,-0.027939464493597188
+9823,Ryde,1681.0,1733.0,164.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,620.0,319.0,2814.0,Non Strata,9,2020,0.006586826347305452
+10763,Ryde,1750.0,1854.0,232.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,650.0,270.0,2827.0,Non Strata,12,2020,0.04104699583581195
+11702,Ryde,1973.0,2105.0,158.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,630.0,265.0,2831.0,Non Strata,3,2021,0.12742857142857145
+12638,Ryde,2161.0,2215.0,268.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,650.0,237.0,2798.0,Non Strata,6,2021,0.09528636594019257
+13573,Ryde,2350.0,2361.0,203.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,680.0,305.0,2819.0,Non Strata,9,2021,0.08745950948634884
+14508,Ryde,2500.0,2590.0,256.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,670.0,249.0,2849.0,Non Strata,12,2021,0.06382978723404253
+15443,Ryde,2435.0,2554.0,144.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,700.0,283.0,2855.0,Non Strata,3,2022,-0.026000000000000023
+16378,Ryde,2398.0,2447.0,188.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,720.0,245.0,2879.0,Non Strata,6,2022,-0.015195071868583154
+17314,Ryde,2225.0,2276.0,164.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,600.0,671.0,3289.0,Non Strata,9,2022,-0.07214345287739787
+18249,Ryde,2200.0,2232.0,168.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,630.0,634.0,3588.0,Non Strata,12,2022,-0.011235955056179803
+19184,Ryde,2250.0,2250.0,142.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,690.0,650.0,4004.0,Non Strata,3,2023,0.022727272727272707
+20117,Ryde,2433.0,2560.0,216.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,823.0,234.0,3177.0,Non Strata,6,2023,0.08133333333333326
+496,Strathfield,2520.0,2468.0,20.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,680.0,68.0,588.0,Non Strata,3,2018,0.0
+1431,Strathfield,1880.0,2150.0,20.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,670.0,59.0,601.0,Non Strata,6,2018,-0.25396825396825395
+2362,Strathfield,1425.0,1552.0,20.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,700.0,52.0,597.0,Non Strata,9,2018,-0.24202127659574468
+3298,Strathfield,1625.0,1711.0,36.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,650.0,60.0,606.0,Non Strata,12,2018,0.14035087719298245
+4234,Strathfield,2250.0,2499.0,20.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,705.0,72.0,626.0,Non Strata,3,2019,0.3846153846153846
+5171,Strathfield,2100.0,2105.0,36.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,680.0,57.0,631.0,Non Strata,6,2019,-0.06666666666666665
+6090,Strathfield,2243.0,2367.0,36.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,660.0,79.0,641.0,Non Strata,9,2019,0.06809523809523799
+7030,Strathfield,2070.0,2171.0,42.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,625.0,80.0,666.0,Non Strata,12,2019,-0.0771288452964779
+7970,Strathfield,2078.0,2083.0,37.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,650.0,58.0,672.0,Non Strata,3,2020,0.0038647342995168366
+8911,Strathfield,2305.0,2353.0,20.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,610.0,74.0,684.0,Non Strata,6,2020,0.10923965351299336
+9851,Strathfield,2194.0,2431.0,36.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,620.0,91.0,712.0,Non Strata,9,2020,-0.04815618221258133
+10791,Strathfield,2620.0,2606.0,59.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,610.0,59.0,713.0,Non Strata,12,2020,0.19416590701914305
+11730,Strathfield,2873.0,2622.0,42.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,600.0,73.0,703.0,Non Strata,3,2021,0.09656488549618314
+12666,Strathfield,2944.0,2949.0,62.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,580.0,80.0,705.0,Non Strata,6,2021,0.024712843717368704
+13601,Strathfield,3200.0,3336.0,45.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,640.0,76.0,729.0,Non Strata,9,2021,0.08695652173913038
+14536,Strathfield,2900.0,2904.0,71.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,580.0,73.0,744.0,Non Strata,12,2021,-0.09375
+15471,Strathfield,3450.0,3561.0,36.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,580.0,101.0,764.0,Non Strata,3,2022,0.18965517241379315
+16406,Strathfield,2720.0,2833.0,41.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,700.0,66.0,749.0,Non Strata,6,2022,-0.2115942028985507
+17342,Strathfield,2940.0,3125.0,44.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,560.0,202.0,879.0,Non Strata,9,2022,0.0808823529411764
+18277,Strathfield,2615.0,2716.0,34.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,600.0,167.0,953.0,Non Strata,12,2022,-0.11054421768707479
+19212,Strathfield,3325.0,3460.0,20.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,650.0,167.0,1049.0,Non Strata,3,2023,0.2715105162523901
+20145,Strathfield,3100.0,3202.0,45.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,800.0,94.0,840.0,Non Strata,6,2023,-0.06766917293233088
+523,Willoughby,2450.0,2602.0,95.0,2018-03-31,Greater Sydney,Middle Ring,House,Total,995.0,159.0,1462.0,Non Strata,3,2018,0.0
+1458,Willoughby,2485.0,2621.0,110.0,2018-06-30,Greater Sydney,Middle Ring,House,Total,1000.0,171.0,1503.0,Non Strata,6,2018,0.014285714285714235
+2390,Willoughby,2240.0,2320.0,72.0,2018-09-30,Greater Sydney,Middle Ring,House,Total,980.0,184.0,1533.0,Non Strata,9,2018,-0.09859154929577463
+3326,Willoughby,2260.0,2327.0,97.0,2018-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,154.0,1555.0,Non Strata,12,2018,0.008928571428571397
+4262,Willoughby,2105.0,2291.0,62.0,2019-03-31,Greater Sydney,Middle Ring,House,Total,955.0,187.0,1567.0,Non Strata,3,2019,-0.06858407079646023
+5199,Willoughby,2215.0,2314.0,124.0,2019-06-30,Greater Sydney,Middle Ring,House,Total,900.0,167.0,1600.0,Non Strata,6,2019,0.052256532066508266
+6118,Willoughby,2386.0,2553.0,103.0,2019-09-30,Greater Sydney,Middle Ring,House,Total,950.0,183.0,1612.0,Non Strata,9,2019,0.0772009029345373
+7058,Willoughby,2480.0,2585.0,126.0,2019-12-31,Greater Sydney,Middle Ring,House,Total,1000.0,181.0,1636.0,Non Strata,12,2019,0.039396479463537304
+7998,Willoughby,2600.0,2724.0,90.0,2020-03-31,Greater Sydney,Middle Ring,House,Total,1000.0,187.0,1681.0,Non Strata,3,2020,0.048387096774193505
+8939,Willoughby,2515.0,2693.0,89.0,2020-06-30,Greater Sydney,Middle Ring,House,Total,950.0,143.0,1661.0,Non Strata,6,2020,-0.03269230769230769
+9879,Willoughby,2522.0,2672.0,116.0,2020-09-30,Greater Sydney,Middle Ring,House,Total,905.0,226.0,1734.0,Non Strata,9,2020,0.002783300198807126
+10819,Willoughby,2639.0,2738.0,163.0,2020-12-31,Greater Sydney,Middle Ring,House,Total,963.0,162.0,1758.0,Non Strata,12,2020,0.046391752577319645
+11757,Willoughby,2970.0,3124.0,125.0,2021-03-31,Greater Sydney,Middle Ring,House,Total,970.0,201.0,1770.0,Non Strata,3,2021,0.12542629784009085
+12693,Willoughby,3301.0,3452.0,165.0,2021-06-30,Greater Sydney,Middle Ring,House,Total,950.0,149.0,1768.0,Non Strata,6,2021,0.11144781144781146
+13628,Willoughby,3350.0,3607.0,124.0,2021-09-30,Greater Sydney,Middle Ring,House,Total,1100.0,180.0,1749.0,Non Strata,9,2021,0.014843986670705744
+14563,Willoughby,3560.0,3710.0,166.0,2021-12-31,Greater Sydney,Middle Ring,House,Total,1050.0,163.0,1760.0,Non Strata,12,2021,0.0626865671641792
+15498,Willoughby,3299.0,3587.0,122.0,2022-03-31,Greater Sydney,Middle Ring,House,Total,1100.0,191.0,1775.0,Non Strata,3,2022,-0.07331460674157309
+16433,Willoughby,3318.0,3498.0,126.0,2022-06-30,Greater Sydney,Middle Ring,House,Total,1200.0,183.0,1777.0,Non Strata,6,2022,0.005759321006365559
+17369,Willoughby,3025.0,3193.0,114.0,2022-09-30,Greater Sydney,Middle Ring,House,Total,800.0,373.0,1991.0,Non Strata,9,2022,-0.0883062085593731
+18304,Willoughby,3305.0,3347.0,124.0,2022-12-31,Greater Sydney,Middle Ring,House,Total,828.0,338.0,2076.0,Non Strata,12,2022,0.09256198347107447
+19239,Willoughby,3376.0,3455.0,78.0,2023-03-31,Greater Sydney,Middle Ring,House,Total,888.0,360.0,2268.0,Non Strata,3,2023,0.021482602118003014
+20172,Willoughby,3320.0,3549.0,107.0,2023-06-30,Greater Sydney,Middle Ring,House,Total,1198.0,194.0,1944.0,Non Strata,6,2023,-0.016587677725118488
+551,Blacktown,755.0,773.0,733.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,480.0,1747.0,16298.0,Non Strata,3,2018,0.0
+1486,Blacktown,740.0,771.0,697.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,480.0,1771.0,16765.0,Non Strata,6,2018,-0.019867549668874163
+2418,Blacktown,720.0,730.0,522.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,470.0,1937.0,17235.0,Non Strata,9,2018,-0.027027027027026973
+3354,Blacktown,719.0,729.0,655.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,470.0,1804.0,17613.0,Non Strata,12,2018,-0.001388888888888884
+4290,Blacktown,684.0,702.0,564.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,470.0,1840.0,17883.0,Non Strata,3,2019,-0.04867872044506261
+5227,Blacktown,705.0,711.0,747.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,450.0,1864.0,18296.0,Non Strata,6,2019,0.030701754385964897
+6146,Blacktown,720.0,732.0,890.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,460.0,2238.0,18701.0,Non Strata,9,2019,0.02127659574468077
+7086,Blacktown,755.0,771.0,883.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,460.0,1844.0,19001.0,Non Strata,12,2019,0.04861111111111116
+8026,Blacktown,761.0,775.0,733.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,450.0,1981.0,19496.0,Non Strata,3,2020,0.007947019867549754
+8966,Blacktown,755.0,774.0,682.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,450.0,1803.0,19876.0,Non Strata,6,2020,-0.007884362680683266
+9906,Blacktown,775.0,787.0,991.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,450.0,1996.0,20463.0,Non Strata,9,2020,0.026490066225165476
+10846,Blacktown,795.0,809.0,1168.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,470.0,1743.0,20867.0,Non Strata,12,2020,0.02580645161290329
+11784,Blacktown,850.0,879.0,1189.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,480.0,1790.0,21024.0,Non Strata,3,2021,0.0691823899371069
+12720,Blacktown,920.0,961.0,1283.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,480.0,1867.0,21151.0,Non Strata,6,2021,0.08235294117647052
+13655,Blacktown,965.0,1003.0,1153.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,480.0,1848.0,21508.0,Non Strata,9,2021,0.048913043478260976
+14590,Blacktown,980.0,1038.0,1225.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,500.0,1936.0,21890.0,Non Strata,12,2021,0.015544041450777257
+15526,Blacktown,1041.0,1072.0,985.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,510.0,1892.0,22103.0,Non Strata,3,2022,0.06224489795918364
+16461,Blacktown,1020.0,1071.0,883.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,540.0,1986.0,22432.0,Non Strata,6,2022,-0.02017291066282423
+17397,Blacktown,960.0,1007.0,825.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,530.0,2514.0,23060.0,Non Strata,9,2022,-0.05882352941176472
+18332,Blacktown,980.0,1009.0,834.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,530.0,2497.0,23546.0,Non Strata,12,2022,0.02083333333333326
+19267,Blacktown,970.0,1016.0,817.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,550.0,2526.0,24644.0,Non Strata,3,2023,-0.010204081632653073
+20200,Blacktown,1080.0,1095.0,1040.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,600.0,2058.0,24176.0,Non Strata,6,2023,0.11340206185567014
+579,Blue Mountains,673.0,702.0,271.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,450.0,307.0,3333.0,Non Strata,3,2018,0.0
+1514,Blue Mountains,664.0,706.0,304.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,450.0,311.0,3369.0,Non Strata,6,2018,-0.013372956909361022
+2446,Blue Mountains,630.0,650.0,199.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,450.0,323.0,3388.0,Non Strata,9,2018,-0.051204819277108404
+3382,Blue Mountains,635.0,660.0,235.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,450.0,314.0,3410.0,Non Strata,12,2018,0.007936507936507908
+4318,Blue Mountains,650.0,679.0,219.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,450.0,342.0,3429.0,Non Strata,3,2019,0.023622047244094446
+5255,Blue Mountains,650.0,673.0,278.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,430.0,307.0,3466.0,Non Strata,6,2019,0.0
+6174,Blue Mountains,650.0,676.0,308.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,440.0,322.0,3463.0,Non Strata,9,2019,0.0
+7114,Blue Mountains,660.0,690.0,296.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,450.0,326.0,3478.0,Non Strata,12,2019,0.01538461538461533
+8054,Blue Mountains,665.0,696.0,277.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,450.0,332.0,3560.0,Non Strata,3,2020,0.007575757575757569
+8994,Blue Mountains,670.0,715.0,251.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,450.0,288.0,3582.0,Non Strata,6,2020,0.007518796992481258
+9934,Blue Mountains,695.0,723.0,383.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,470.0,308.0,3644.0,Non Strata,9,2020,0.03731343283582089
+10874,Blue Mountains,720.0,753.0,439.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,470.0,257.0,3610.0,Non Strata,12,2020,0.03597122302158273
+11812,Blue Mountains,767.0,820.0,358.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,480.0,291.0,3594.0,Non Strata,3,2021,0.06527777777777777
+12748,Blue Mountains,805.0,863.0,407.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,498.0,264.0,3542.0,Non Strata,6,2021,0.049543676662320735
+13683,Blue Mountains,860.0,930.0,365.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,510.0,290.0,3540.0,Non Strata,9,2021,0.06832298136645965
+14618,Blue Mountains,940.0,1072.0,473.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,540.0,269.0,3541.0,Non Strata,12,2021,0.09302325581395343
+15554,Blue Mountains,983.0,1052.0,338.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,535.0,260.0,3483.0,Non Strata,3,2022,0.04574468085106376
+16489,Blue Mountains,938.0,1013.0,296.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,550.0,287.0,3461.0,Non Strata,6,2022,-0.04577822990844349
+17425,Blue Mountains,900.0,987.0,307.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,550.0,292.0,3403.0,Non Strata,9,2022,-0.04051172707889128
+18360,Blue Mountains,880.0,941.0,289.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,550.0,318.0,3390.0,Non Strata,12,2022,-0.022222222222222254
+19295,Blue Mountains,870.0,934.0,233.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,550.0,346.0,3512.0,Non Strata,3,2023,-0.011363636363636354
+20228,Blue Mountains,860.0,918.0,290.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,550.0,334.0,3531.0,Non Strata,6,2023,-0.011494252873563204
+607,Camden,765.0,810.0,309.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,520.0,623.0,4537.0,Non Strata,3,2018,0.0
+1542,Camden,750.0,782.0,318.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,530.0,632.0,4779.0,Non Strata,6,2018,-0.019607843137254943
+2474,Camden,720.0,739.0,233.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,520.0,612.0,4943.0,Non Strata,9,2018,-0.040000000000000036
+3410,Camden,720.0,740.0,285.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,518.0,588.0,5066.0,Non Strata,12,2018,0.0
+4346,Camden,700.0,720.0,242.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,500.0,636.0,5212.0,Non Strata,3,2019,-0.02777777777777779
+5283,Camden,695.0,718.0,299.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,503.0,610.0,5308.0,Non Strata,6,2019,-0.0071428571428571175
+6202,Camden,715.0,742.0,366.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,500.0,752.0,5438.0,Non Strata,9,2019,0.02877697841726623
+7142,Camden,727.0,755.0,318.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,500.0,670.0,5628.0,Non Strata,12,2019,0.016783216783216703
+8082,Camden,735.0,764.0,300.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,510.0,651.0,5857.0,Non Strata,3,2020,0.011004126547455195
+9022,Camden,730.0,775.0,261.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,510.0,562.0,6010.0,Non Strata,6,2020,-0.006802721088435382
+9962,Camden,740.0,782.0,451.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,520.0,603.0,6254.0,Non Strata,9,2020,0.013698630136986356
+10902,Camden,785.0,818.0,524.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,540.0,628.0,6393.0,Non Strata,12,2020,0.060810810810810745
+11840,Camden,831.0,876.0,414.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,540.0,545.0,6501.0,Non Strata,3,2021,0.05859872611464967
+12776,Camden,865.0,936.0,496.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,560.0,599.0,6595.0,Non Strata,6,2021,0.04091456077015643
+13711,Camden,940.0,1052.0,426.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,560.0,645.0,6758.0,Non Strata,9,2021,0.08670520231213863
+14646,Camden,1000.0,1074.0,537.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,590.0,599.0,6822.0,Non Strata,12,2021,0.06382978723404253
+15582,Camden,1080.0,1115.0,382.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,600.0,615.0,6919.0,Non Strata,3,2022,0.08000000000000007
+16517,Camden,1050.0,1128.0,367.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,620.0,641.0,6967.0,Non Strata,6,2022,-0.02777777777777779
+17453,Camden,1020.0,1079.0,383.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,635.0,745.0,7142.0,Non Strata,9,2022,-0.02857142857142858
+18388,Camden,1046.0,1131.0,308.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,650.0,724.0,7205.0,Non Strata,12,2022,0.025490196078431282
+19323,Camden,999.0,1086.0,301.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,650.0,840.0,7621.0,Non Strata,3,2023,-0.0449330783938815
+20256,Camden,1050.0,1109.0,363.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,650.0,710.0,7658.0,Non Strata,6,2023,0.05105105105105112
+634,Campbelltown,640.0,652.0,410.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,440.0,650.0,7099.0,Non Strata,3,2018,0.0
+1569,Campbelltown,645.0,657.0,378.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,435.0,776.0,7262.0,Non Strata,6,2018,0.0078125
+2501,Campbelltown,600.0,603.0,262.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,430.0,689.0,7330.0,Non Strata,9,2018,-0.06976744186046513
+3437,Campbelltown,601.0,604.0,308.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,430.0,733.0,7468.0,Non Strata,12,2018,0.0016666666666667052
+4373,Campbelltown,571.0,584.0,284.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,430.0,686.0,7511.0,Non Strata,3,2019,-0.04991680532445919
+5310,Campbelltown,575.0,585.0,323.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,420.0,770.0,7679.0,Non Strata,6,2019,0.007005253940455258
+6229,Campbelltown,605.0,618.0,362.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,420.0,824.0,7768.0,Non Strata,9,2019,0.05217391304347818
+7169,Campbelltown,606.0,617.0,350.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,420.0,753.0,7943.0,Non Strata,12,2019,0.0016528925619834212
+8109,Campbelltown,628.0,634.0,335.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,420.0,781.0,8134.0,Non Strata,3,2020,0.03630363036303641
+9049,Campbelltown,640.0,637.0,301.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,420.0,778.0,8351.0,Non Strata,6,2020,0.019108280254777066
+9989,Campbelltown,640.0,637.0,421.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,430.0,794.0,8570.0,Non Strata,9,2020,0.0
+10929,Campbelltown,650.0,658.0,497.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,450.0,732.0,8765.0,Non Strata,12,2020,0.015625
+11867,Campbelltown,700.0,714.0,498.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,450.0,677.0,8808.0,Non Strata,3,2021,0.07692307692307687
+12803,Campbelltown,730.0,753.0,549.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,450.0,797.0,8965.0,Non Strata,6,2021,0.04285714285714293
+13738,Campbelltown,770.0,809.0,516.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,450.0,745.0,9111.0,Non Strata,9,2021,0.0547945205479452
+14673,Campbelltown,815.0,837.0,575.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,470.0,781.0,9220.0,Non Strata,12,2021,0.05844155844155852
+15609,Campbelltown,830.0,867.0,421.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,480.0,732.0,9312.0,Non Strata,3,2022,0.018404907975460016
+16544,Campbelltown,847.0,894.0,450.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,500.0,746.0,9392.0,Non Strata,6,2022,0.02048192771084345
+17480,Campbelltown,800.0,819.0,405.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,480.0,971.0,9619.0,Non Strata,9,2022,-0.05548996458087363
+18415,Campbelltown,810.0,832.0,351.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,500.0,918.0,9766.0,Non Strata,12,2022,0.012499999999999956
+19350,Campbelltown,795.0,823.0,338.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,500.0,931.0,10139.0,Non Strata,3,2023,-0.01851851851851849
+20283,Campbelltown,835.0,862.0,396.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,545.0,899.0,10058.0,Non Strata,6,2023,0.05031446540880502
+661,Central Coast,670.0,720.0,1182.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,450.0,1638.0,16390.0,Non Strata,3,2018,0.0
+1596,Central Coast,658.0,708.0,1117.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,440.0,1846.0,16790.0,Non Strata,6,2018,-0.017910447761193993
+2529,Central Coast,630.0,676.0,825.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,450.0,1762.0,17073.0,Non Strata,9,2018,-0.04255319148936165
+3465,Central Coast,640.0,696.0,982.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,440.0,1691.0,17195.0,Non Strata,12,2018,0.015873015873015817
+4401,Central Coast,620.0,665.0,845.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,440.0,1637.0,17401.0,Non Strata,3,2019,-0.03125
+5338,Central Coast,620.0,663.0,967.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,440.0,1710.0,17648.0,Non Strata,6,2019,0.0
+6257,Central Coast,630.0,666.0,1079.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,450.0,1922.0,17733.0,Non Strata,9,2019,0.016129032258064502
+7197,Central Coast,650.0,701.0,1153.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,440.0,1711.0,17909.0,Non Strata,12,2019,0.031746031746031855
+8137,Central Coast,663.0,709.0,1006.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,440.0,1733.0,18263.0,Non Strata,3,2020,0.020000000000000018
+9077,Central Coast,665.0,728.0,967.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,440.0,1664.0,18548.0,Non Strata,6,2020,0.003016591251885359
+10017,Central Coast,700.0,785.0,1478.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,440.0,1654.0,18913.0,Non Strata,9,2020,0.05263157894736836
+10957,Central Coast,730.0,823.0,1683.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,470.0,1406.0,18898.0,Non Strata,12,2020,0.04285714285714293
+11895,Central Coast,796.0,901.0,1513.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,490.0,1421.0,18864.0,Non Strata,3,2021,0.09041095890410955
+12831,Central Coast,855.0,959.0,1619.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,500.0,1490.0,18741.0,Non Strata,6,2021,0.07412060301507539
+13766,Central Coast,910.0,1041.0,1533.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,500.0,1670.0,18872.0,Non Strata,9,2021,0.06432748538011701
+14701,Central Coast,970.0,1129.0,1608.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,530.0,1548.0,18927.0,Non Strata,12,2021,0.06593406593406592
+15637,Central Coast,995.0,1133.0,1227.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,553.0,1466.0,18917.0,Non Strata,3,2022,0.025773195876288568
+16572,Central Coast,996.0,1124.0,1071.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,560.0,1676.0,18983.0,Non Strata,6,2022,0.0010050251256281673
+17508,Central Coast,900.0,1019.0,1027.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,550.0,2147.0,19421.0,Non Strata,9,2022,-0.09638554216867468
+18443,Central Coast,915.0,1033.0,991.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,550.0,1981.0,19623.0,Non Strata,12,2022,0.016666666666666607
+19378,Central Coast,875.0,977.0,994.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,550.0,2110.0,20428.0,Non Strata,3,2023,-0.04371584699453557
+20311,Central Coast,920.0,1034.0,1021.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,560.0,1894.0,20156.0,Non Strata,6,2023,0.05142857142857138
+689,Fairfield,800.0,819.0,249.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,480.0,461.0,6446.0,Non Strata,3,2018,0.0
+1624,Fairfield,789.0,802.0,276.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,470.0,520.0,6569.0,Non Strata,6,2018,-0.01375000000000004
+2557,Fairfield,730.0,749.0,150.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,480.0,573.0,6674.0,Non Strata,9,2018,-0.07477820025348547
+3493,Fairfield,730.0,754.0,217.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,475.0,486.0,6753.0,Non Strata,12,2018,0.0
+4429,Fairfield,719.0,725.0,166.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,460.0,401.0,6733.0,Non Strata,3,2019,-0.015068493150684925
+5366,Fairfield,700.0,712.0,267.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,480.0,506.0,6838.0,Non Strata,6,2019,-0.026425591098748313
+6285,Fairfield,743.0,753.0,284.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,470.0,491.0,6873.0,Non Strata,9,2019,0.06142857142857139
+7225,Fairfield,770.0,805.0,302.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,470.0,486.0,6938.0,Non Strata,12,2019,0.03633916554508754
+8165,Fairfield,770.0,776.0,218.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,480.0,427.0,6996.0,Non Strata,3,2020,0.0
+9105,Fairfield,770.0,794.0,215.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,450.0,473.0,7076.0,Non Strata,6,2020,0.0
+10045,Fairfield,801.0,837.0,302.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,463.0,534.0,7201.0,Non Strata,9,2020,0.04025974025974022
+10985,Fairfield,815.0,851.0,387.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,470.0,468.0,7236.0,Non Strata,12,2020,0.017478152309613026
+11923,Fairfield,855.0,881.0,315.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,480.0,429.0,7209.0,Non Strata,3,2021,0.04907975460122693
+12859,Fairfield,920.0,952.0,445.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,490.0,471.0,7269.0,Non Strata,6,2021,0.07602339181286544
+13794,Fairfield,916.0,959.0,307.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,480.0,436.0,7331.0,Non Strata,9,2021,-0.004347826086956497
+14729,Fairfield,990.0,1042.0,411.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,490.0,475.0,7429.0,Non Strata,12,2021,0.08078602620087327
+15665,Fairfield,1018.0,1061.0,331.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,493.0,460.0,7450.0,Non Strata,3,2022,0.028282828282828243
+16600,Fairfield,1018.0,1056.0,370.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,520.0,477.0,7506.0,Non Strata,6,2022,0.0
+17536,Fairfield,988.0,1025.0,331.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,500.0,572.0,7613.0,Non Strata,9,2022,-0.029469548133595258
+18471,Fairfield,980.0,1027.0,311.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,550.0,586.0,7727.0,Non Strata,12,2022,-0.0080971659919028
+19406,Fairfield,980.0,1025.0,252.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,540.0,537.0,7962.0,Non Strata,3,2023,0.0
+20339,Fairfield,1021.0,1062.0,360.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,580.0,431.0,7882.0,Non Strata,6,2023,0.0418367346938775
+716,Hawkesbury,778.0,933.0,168.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,460.0,242.0,2332.0,Non Strata,3,2018,0.0
+1651,Hawkesbury,743.0,858.0,152.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,450.0,248.0,2386.0,Non Strata,6,2018,-0.04498714652956293
+2584,Hawkesbury,770.0,917.0,99.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,450.0,279.0,2439.0,Non Strata,9,2018,0.03633916554508754
+3520,Hawkesbury,770.0,907.0,133.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,450.0,266.0,2511.0,Non Strata,12,2018,0.0
+4456,Hawkesbury,750.0,834.0,112.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,450.0,270.0,2556.0,Non Strata,3,2019,-0.025974025974025983
+5393,Hawkesbury,720.0,849.0,166.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,450.0,251.0,2607.0,Non Strata,6,2019,-0.040000000000000036
+6313,Hawkesbury,714.0,794.0,200.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,450.0,298.0,2652.0,Non Strata,9,2019,-0.008333333333333304
+7253,Hawkesbury,690.0,798.0,205.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,450.0,268.0,2665.0,Non Strata,12,2019,-0.03361344537815125
+8193,Hawkesbury,718.0,830.0,155.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,450.0,259.0,2731.0,Non Strata,3,2020,0.04057971014492745
+9133,Hawkesbury,720.0,860.0,177.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,450.0,273.0,2782.0,Non Strata,6,2020,0.0027855153203342198
+10073,Hawkesbury,818.0,979.0,242.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,470.0,289.0,2860.0,Non Strata,9,2020,0.13611111111111107
+11013,Hawkesbury,820.0,1003.0,267.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,495.0,217.0,2887.0,Non Strata,12,2020,0.0024449877750611915
+11951,Hawkesbury,796.0,922.0,260.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,475.0,231.0,2913.0,Non Strata,3,2021,-0.029268292682926855
+12887,Hawkesbury,870.0,1058.0,261.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,478.0,246.0,2883.0,Non Strata,6,2021,0.09296482412060292
+13822,Hawkesbury,945.0,1147.0,255.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,490.0,249.0,2908.0,Non Strata,9,2021,0.0862068965517242
+14757,Hawkesbury,1020.0,1256.0,268.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,500.0,246.0,2937.0,Non Strata,12,2021,0.0793650793650793
+15693,Hawkesbury,968.0,1264.0,214.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,525.0,225.0,2947.0,Non Strata,3,2022,-0.050980392156862786
+16628,Hawkesbury,1200.0,1383.0,186.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,550.0,234.0,2929.0,Non Strata,6,2022,0.2396694214876034
+17564,Hawkesbury,1000.0,1294.0,194.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,520.0,297.0,2966.0,Non Strata,9,2022,-0.16666666666666663
+18499,Hawkesbury,880.0,1100.0,183.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,570.0,283.0,2986.0,Non Strata,12,2022,-0.12
+19434,Hawkesbury,920.0,1097.0,157.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,550.0,271.0,3068.0,Non Strata,3,2023,0.045454545454545414
+20367,Hawkesbury,950.0,1161.0,180.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,565.0,266.0,3046.0,Non Strata,6,2023,0.032608695652173836
+743,Hornsby,1350.0,1377.0,222.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,700.0,335.0,3221.0,Non Strata,3,2018,0.0
+1678,Hornsby,1300.0,1360.0,244.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,687.5,290.0,3288.0,Non Strata,6,2018,-0.03703703703703709
+2611,Hornsby,1193.0,1220.0,198.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,680.0,323.0,3351.0,Non Strata,9,2018,-0.0823076923076923
+3547,Hornsby,1180.0,1212.0,261.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,680.0,352.0,3393.0,Non Strata,12,2018,-0.010896898575020963
+4483,Hornsby,1175.0,1221.0,180.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,650.0,369.0,3425.0,Non Strata,3,2019,-0.004237288135593209
+5420,Hornsby,1140.0,1177.0,250.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,660.0,333.0,3500.0,Non Strata,6,2019,-0.029787234042553234
+6340,Hornsby,1226.0,1264.0,281.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,680.0,386.0,3538.0,Non Strata,9,2019,0.07543859649122808
+7280,Hornsby,1330.0,1373.0,318.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,680.0,385.0,3575.0,Non Strata,12,2019,0.08482871125611746
+8220,Hornsby,1400.0,1425.0,235.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,680.0,410.0,3688.0,Non Strata,3,2020,0.05263157894736836
+9160,Hornsby,1305.0,1361.0,251.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,650.0,315.0,3708.0,Non Strata,6,2020,-0.06785714285714284
+10100,Hornsby,1329.0,1376.0,314.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,640.0,351.0,3751.0,Non Strata,9,2020,0.01839080459770126
+11040,Hornsby,1450.0,1481.0,403.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,680.0,330.0,3807.0,Non Strata,12,2020,0.09104589917230999
+11978,Hornsby,1630.0,1672.0,340.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,680.0,332.0,3816.0,Non Strata,3,2021,0.12413793103448278
+12913,Hornsby,1780.0,1822.0,410.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,700.0,334.0,3796.0,Non Strata,6,2021,0.09202453987730053
+13848,Hornsby,1800.0,1876.0,359.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,700.0,322.0,3795.0,Non Strata,9,2021,0.011235955056179803
+14783,Hornsby,2000.0,2025.0,457.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,750.0,357.0,3815.0,Non Strata,12,2021,0.11111111111111116
+15719,Hornsby,1918.0,1985.0,282.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,750.0,343.0,3814.0,Non Strata,3,2022,-0.041000000000000036
+16654,Hornsby,1820.0,1910.0,297.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,755.0,336.0,3823.0,Non Strata,6,2022,-0.051094890510948954
+17590,Hornsby,1680.0,1757.0,283.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,685.0,495.0,3970.0,Non Strata,9,2022,-0.07692307692307687
+18525,Hornsby,1718.0,1779.0,320.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,700.0,510.0,4101.0,Non Strata,12,2022,0.02261904761904754
+19460,Hornsby,1800.0,1896.0,246.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,725.0,491.0,4362.0,Non Strata,3,2023,0.047729918509895164
+20393,Hornsby,1900.0,1970.0,317.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,800.0,336.0,4095.0,Non Strata,6,2023,0.05555555555555558
+770,Liverpool,790.0,821.0,327.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,530.0,693.0,7075.0,Non Strata,3,2018,0.0
+1705,Liverpool,788.0,814.0,348.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,520.0,720.0,7219.0,Non Strata,6,2018,-0.0025316455696202667
+2639,Liverpool,750.0,769.0,215.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,507.5,796.0,7432.0,Non Strata,9,2018,-0.048223350253807085
+3575,Liverpool,750.0,793.0,281.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,520.0,737.0,7589.0,Non Strata,12,2018,0.0
+4511,Liverpool,750.0,780.0,232.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,500.0,740.0,7668.0,Non Strata,3,2019,0.0
+5448,Liverpool,728.0,745.0,348.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,500.0,705.0,7765.0,Non Strata,6,2019,-0.029333333333333322
+6368,Liverpool,760.0,768.0,345.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,500.0,856.0,7940.0,Non Strata,9,2019,0.04395604395604402
+7308,Liverpool,800.0,899.0,408.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,500.0,767.0,8044.0,Non Strata,12,2019,0.05263157894736836
+8248,Liverpool,780.0,778.0,298.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,500.0,744.0,8243.0,Non Strata,3,2020,-0.025000000000000022
+9188,Liverpool,766.0,776.0,286.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,520.0,688.0,8398.0,Non Strata,6,2020,-0.017948717948717996
+10127,Liverpool,769.0,794.0,452.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,500.0,750.0,8666.0,Non Strata,9,2020,0.003916449086161844
+11068,Liverpool,795.0,824.0,515.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,520.0,668.0,8758.0,Non Strata,12,2020,0.033810143042912966
+12006,Liverpool,830.0,849.0,443.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,525.0,659.0,8801.0,Non Strata,3,2021,0.04402515723270439
+12941,Liverpool,900.0,940.0,579.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,550.0,685.0,8865.0,Non Strata,6,2021,0.0843373493975903
+13876,Liverpool,970.0,1043.0,484.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,550.0,655.0,8962.0,Non Strata,9,2021,0.07777777777777772
+14811,Liverpool,1011.0,1078.0,622.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,550.0,764.0,9092.0,Non Strata,12,2021,0.042268041237113474
+15746,Liverpool,1002.0,1061.0,434.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,560.0,728.0,9169.0,Non Strata,3,2022,-0.008902077151335286
+16681,Liverpool,1048.0,1101.0,478.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,580.0,755.0,9279.0,Non Strata,6,2022,0.045908183632734634
+17617,Liverpool,995.0,1046.0,429.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,555.0,994.0,9592.0,Non Strata,9,2022,-0.050572519083969425
+18552,Liverpool,970.0,1008.0,381.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,580.0,1009.0,9839.0,Non Strata,12,2022,-0.025125628140703515
+19487,Liverpool,990.0,1030.0,340.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,580.0,1087.0,10378.0,Non Strata,3,2023,0.020618556701030855
+20420,Liverpool,1005.0,1072.0,461.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,650.0,847.0,10107.0,Non Strata,6,2023,0.015151515151515138
+798,Northern Beaches,1825.0,2005.0,399.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,1000.0,552.0,4799.0,Non Strata,3,2018,0.0
+1733,Northern Beaches,1700.0,1908.0,432.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,990.0,567.0,4923.0,Non Strata,6,2018,-0.06849315068493156
+2667,Northern Beaches,1650.0,1837.0,360.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,950.0,592.0,5025.0,Non Strata,9,2018,-0.02941176470588236
+3603,Northern Beaches,1660.0,1837.0,483.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,950.0,570.0,5070.0,Non Strata,12,2018,0.0060606060606061
+4539,Northern Beaches,1600.0,1722.0,373.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,1000.0,594.0,5155.0,Non Strata,3,2019,-0.03614457831325302
+5476,Northern Beaches,1673.0,1824.0,478.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,950.0,597.0,5286.0,Non Strata,6,2019,0.04562500000000003
+6396,Northern Beaches,1720.0,1939.0,488.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,950.0,601.0,5373.0,Non Strata,9,2019,0.028093245666467315
+7336,Northern Beaches,1880.0,2077.0,601.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,957.0,590.0,5401.0,Non Strata,12,2019,0.09302325581395343
+8276,Northern Beaches,1925.0,2074.0,465.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,1000.0,587.0,5453.0,Non Strata,3,2020,0.02393617021276606
+9216,Northern Beaches,1850.0,2059.0,461.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,950.0,609.0,5501.0,Non Strata,6,2020,-0.038961038961038974
+10155,Northern Beaches,1915.0,2192.0,635.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,980.0,533.0,5574.0,Non Strata,9,2020,0.03513513513513522
+11096,Northern Beaches,2084.0,2337.0,732.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,1000.0,498.0,5542.0,Non Strata,12,2020,0.08825065274151433
+12034,Northern Beaches,2350.0,2616.0,546.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,1100.0,534.0,5560.0,Non Strata,3,2021,0.12763915547024962
+12969,Northern Beaches,2610.0,2942.0,725.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,1100.0,490.0,5521.0,Non Strata,6,2021,0.11063829787234036
+13904,Northern Beaches,2786.0,3069.0,635.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,1100.0,580.0,5510.0,Non Strata,9,2021,0.06743295019157092
+14839,Northern Beaches,2810.0,3094.0,700.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,1200.0,559.0,5460.0,Non Strata,12,2021,0.008614501076812608
+15774,Northern Beaches,2851.0,3129.0,452.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,1200.0,576.0,5487.0,Non Strata,3,2022,0.014590747330960774
+16709,Northern Beaches,2620.0,2982.0,485.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,1175.0,507.0,5466.0,Non Strata,6,2022,-0.08102420203437388
+17645,Northern Beaches,2300.0,2560.0,442.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,880.0,1048.0,5980.0,Non Strata,9,2022,-0.12213740458015265
+18580,Northern Beaches,2300.0,2551.0,461.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,920.0,901.0,6283.0,Non Strata,12,2022,0.0
+19515,Northern Beaches,2420.0,2730.0,381.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,995.0,971.0,6795.0,Non Strata,3,2023,0.05217391304347818
+20448,Northern Beaches,2525.0,2845.0,451.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,1250.0,563.0,5905.0,Non Strata,6,2023,0.04338842975206614
+825,Penrith,696.0,711.0,494.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,465.0,1012.0,9787.0,Non Strata,3,2018,0.0
+1760,Penrith,691.0,714.0,464.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,450.0,1100.0,10012.0,Non Strata,6,2018,-0.007183908045977017
+2695,Penrith,660.0,688.0,355.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,450.0,1142.0,10261.0,Non Strata,9,2018,-0.04486251808972508
+3631,Penrith,665.0,692.0,422.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,450.0,1076.0,10448.0,Non Strata,12,2018,0.007575757575757569
+4567,Penrith,643.0,650.0,364.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,440.0,1155.0,10620.0,Non Strata,3,2019,-0.03308270676691727
+5504,Penrith,645.0,669.0,460.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,430.0,1129.0,10824.0,Non Strata,6,2019,0.0031104199066873672
+6424,Penrith,650.0,666.0,468.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,430.0,1240.0,11024.0,Non Strata,9,2019,0.007751937984496138
+7364,Penrith,682.0,709.0,476.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,430.0,1139.0,11268.0,Non Strata,12,2019,0.04923076923076919
+8304,Penrith,705.0,725.0,422.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,440.0,1067.0,11453.0,Non Strata,3,2020,0.03372434017595305
+9244,Penrith,685.0,703.0,408.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,430.0,1069.0,11648.0,Non Strata,6,2020,-0.028368794326241176
+10183,Penrith,705.0,762.0,579.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,440.0,1041.0,11872.0,Non Strata,9,2020,0.029197080291970767
+11124,Penrith,726.0,769.0,604.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,450.0,951.0,11991.0,Non Strata,12,2020,0.029787234042553123
+12062,Penrith,780.0,810.0,576.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,450.0,950.0,12111.0,Non Strata,3,2021,0.07438016528925617
+12997,Penrith,808.0,863.0,723.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,460.0,969.0,12171.0,Non Strata,6,2021,0.03589743589743599
+13932,Penrith,842.0,900.0,648.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,470.0,946.0,12275.0,Non Strata,9,2021,0.04207920792079212
+14867,Penrith,920.0,991.0,686.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,500.0,962.0,12341.0,Non Strata,12,2021,0.09263657957244664
+15802,Penrith,920.0,964.0,536.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,500.0,980.0,12365.0,Non Strata,3,2022,0.0
+16737,Penrith,915.0,977.0,522.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,503.0,898.0,12399.0,Non Strata,6,2022,-0.005434782608695676
+17673,Penrith,868.0,934.0,517.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,500.0,1266.0,12697.0,Non Strata,9,2022,-0.051366120218579225
+18608,Penrith,870.0,937.0,426.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,510.0,1181.0,12836.0,Non Strata,12,2022,0.0023041474654377225
+19543,Penrith,867.0,919.0,436.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,520.0,1255.0,13395.0,Non Strata,3,2023,-0.0034482758620689724
+20476,Penrith,895.0,942.0,464.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,550.0,1039.0,13132.0,Non Strata,6,2023,0.032295271049596286
+853,Sutherland Shire,1258.0,1368.0,349.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,700.0,386.0,3523.0,Non Strata,3,2018,0.0
+1788,Sutherland Shire,1200.0,1290.0,415.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,720.0,395.0,3612.0,Non Strata,6,2018,-0.04610492845786962
+2723,Sutherland Shire,1080.0,1187.0,292.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,695.0,466.0,3721.0,Non Strata,9,2018,-0.09999999999999998
+3659,Sutherland Shire,1105.0,1215.0,421.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,693.0,412.0,3786.0,Non Strata,12,2018,0.02314814814814814
+4595,Sutherland Shire,1050.0,1159.0,303.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,700.0,450.0,3881.0,Non Strata,3,2019,-0.04977375565610864
+5532,Sutherland Shire,1100.0,1153.0,442.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,680.0,461.0,3981.0,Non Strata,6,2019,0.04761904761904767
+6452,Sutherland Shire,1158.0,1236.0,432.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,660.0,513.0,4100.0,Non Strata,9,2019,0.052727272727272734
+7392,Sutherland Shire,1252.0,1346.0,451.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,678.0,442.0,4166.0,Non Strata,12,2019,0.08117443868739205
+8332,Sutherland Shire,1300.0,1373.0,391.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,680.0,393.0,4202.0,Non Strata,3,2020,0.03833865814696491
+9272,Sutherland Shire,1200.0,1292.0,374.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,680.0,359.0,4184.0,Non Strata,6,2020,-0.07692307692307687
+10211,Sutherland Shire,1242.0,1323.0,524.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,700.0,372.0,4222.0,Non Strata,9,2020,0.03499999999999992
+11152,Sutherland Shire,1324.0,1422.0,628.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,700.0,328.0,4198.0,Non Strata,12,2020,0.06602254428341392
+12090,Sutherland Shire,1465.0,1563.0,511.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,750.0,355.0,4149.0,Non Strata,3,2021,0.10649546827794554
+13025,Sutherland Shire,1600.0,1750.0,608.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,750.0,322.0,4046.0,Non Strata,6,2021,0.0921501706484642
+13960,Sutherland Shire,1661.0,1802.0,576.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,780.0,350.0,4038.0,Non Strata,9,2021,0.038124999999999964
+14895,Sutherland Shire,1799.0,1940.0,656.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,800.0,345.0,4009.0,Non Strata,12,2021,0.08308248043347377
+15830,Sutherland Shire,1745.0,1885.0,419.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,800.0,324.0,3940.0,Non Strata,3,2022,-0.030016675931072823
+16765,Sutherland Shire,1700.0,1842.0,465.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,800.0,365.0,3918.0,Non Strata,6,2022,-0.025787965616045794
+17701,Sutherland Shire,1640.0,1757.0,421.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,730.0,663.0,4183.0,Non Strata,9,2022,-0.03529411764705881
+18636,Sutherland Shire,1550.0,1674.0,381.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,700.0,706.0,4482.0,Non Strata,12,2022,-0.054878048780487854
+19571,Sutherland Shire,1571.0,1701.0,352.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,750.0,712.0,4907.0,Non Strata,3,2023,0.013548387096774084
+20504,Sutherland Shire,1686.0,1820.0,464.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,850.0,433.0,4410.0,Non Strata,6,2023,0.07320178230426477
+880,The Hills Shire,1281.0,1368.0,306.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,650.0,627.0,4831.0,Non Strata,3,2018,0.0
+1815,The Hills Shire,1257.0,1345.0,345.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,640.0,567.0,4993.0,Non Strata,6,2018,-0.0187353629976581
+2750,The Hills Shire,1177.0,1278.0,249.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,630.0,620.0,5152.0,Non Strata,9,2018,-0.06364359586316626
+3686,The Hills Shire,1168.0,1285.0,321.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,630.0,641.0,5295.0,Non Strata,12,2018,-0.007646559048428259
+4623,The Hills Shire,1128.0,1194.0,251.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,650.0,684.0,5487.0,Non Strata,3,2019,-0.03424657534246578
+5560,The Hills Shire,1155.0,1263.0,379.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,625.0,679.0,5694.0,Non Strata,6,2019,0.02393617021276606
+6480,The Hills Shire,1255.0,1361.0,487.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,630.0,705.0,5801.0,Non Strata,9,2019,0.08658008658008653
+7420,The Hills Shire,1300.0,1337.0,512.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,630.0,661.0,5918.0,Non Strata,12,2019,0.03585657370517925
+8360,The Hills Shire,1300.0,1363.0,391.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,640.0,633.0,6100.0,Non Strata,3,2020,0.0
+9300,The Hills Shire,1320.0,1385.0,357.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,645.0,529.0,6139.0,Non Strata,6,2020,0.01538461538461533
+10239,The Hills Shire,1300.0,1358.0,553.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,650.0,652.0,6327.0,Non Strata,9,2020,-0.015151515151515138
+11179,The Hills Shire,1326.0,1369.0,702.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,650.0,636.0,6496.0,Non Strata,12,2020,0.020000000000000018
+12117,The Hills Shire,1500.0,1602.0,590.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,650.0,603.0,6533.0,Non Strata,3,2021,0.13122171945701355
+13052,The Hills Shire,1676.0,1737.0,635.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,680.0,613.0,6550.0,Non Strata,6,2021,0.11733333333333329
+13987,The Hills Shire,1700.0,1777.0,614.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,690.0,599.0,6573.0,Non Strata,9,2021,0.014319809069212486
+14922,The Hills Shire,1873.0,1976.0,612.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,720.0,639.0,6644.0,Non Strata,12,2021,0.10176470588235298
+15857,The Hills Shire,1880.0,2078.0,402.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,725.0,684.0,6714.0,Non Strata,3,2022,0.0037373198077950143
+16792,The Hills Shire,1825.0,1942.0,467.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,750.0,630.0,6753.0,Non Strata,6,2022,-0.0292553191489362
+17728,The Hills Shire,1700.0,1888.0,457.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,725.0,898.0,7037.0,Non Strata,9,2022,-0.06849315068493156
+18663,The Hills Shire,1746.0,1905.0,424.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,730.0,818.0,7188.0,Non Strata,12,2022,0.027058823529411802
+19598,The Hills Shire,1751.0,1844.0,394.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,720.0,929.0,7620.0,Non Strata,3,2023,0.00286368843069873
+20531,The Hills Shire,1811.0,1903.0,540.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,780.0,732.0,7406.0,Non Strata,6,2023,0.03426613363792108
+908,Wollondilly,767.0,851.0,135.0,2018-03-31,Greater Sydney,Outer Ring,House,Total,450.0,147.0,1450.0,Non Strata,3,2018,0.0
+1843,Wollondilly,815.0,861.0,118.0,2018-06-30,Greater Sydney,Outer Ring,House,Total,460.0,171.0,1479.0,Non Strata,6,2018,0.0625814863102998
+2778,Wollondilly,663.0,776.0,90.0,2018-09-30,Greater Sydney,Outer Ring,House,Total,450.0,176.0,1526.0,Non Strata,9,2018,-0.1865030674846626
+3713,Wollondilly,708.0,838.0,106.0,2018-12-31,Greater Sydney,Outer Ring,House,Total,450.0,174.0,1565.0,Non Strata,12,2018,0.0678733031674208
+4650,Wollondilly,670.0,757.0,121.0,2019-03-31,Greater Sydney,Outer Ring,House,Total,460.0,161.0,1573.0,Non Strata,3,2019,-0.053672316384180796
+5587,Wollondilly,663.0,726.0,116.0,2019-06-30,Greater Sydney,Outer Ring,House,Total,450.0,208.0,1641.0,Non Strata,6,2019,-0.010447761194029903
+6507,Wollondilly,850.0,860.0,146.0,2019-09-30,Greater Sydney,Outer Ring,House,Total,450.0,202.0,1706.0,Non Strata,9,2019,0.28205128205128216
+7447,Wollondilly,755.0,857.0,146.0,2019-12-31,Greater Sydney,Outer Ring,House,Total,495.0,159.0,1720.0,Non Strata,12,2019,-0.11176470588235299
+8387,Wollondilly,780.0,868.0,126.0,2020-03-31,Greater Sydney,Outer Ring,House,Total,450.0,182.0,1767.0,Non Strata,3,2020,0.0331125827814569
+9327,Wollondilly,745.0,823.0,141.0,2020-06-30,Greater Sydney,Outer Ring,House,Total,450.0,170.0,1802.0,Non Strata,6,2020,-0.04487179487179482
+10267,Wollondilly,743.0,851.0,216.0,2020-09-30,Greater Sydney,Outer Ring,House,Total,450.0,186.0,1857.0,Non Strata,9,2020,-0.0026845637583892135
+11207,Wollondilly,767.0,838.0,224.0,2020-12-31,Greater Sydney,Outer Ring,House,Total,450.0,157.0,1867.0,Non Strata,12,2020,0.032301480484522305
+12145,Wollondilly,830.0,922.0,193.0,2021-03-31,Greater Sydney,Outer Ring,House,Total,485.0,140.0,1860.0,Non Strata,3,2021,0.08213820078226863
+13080,Wollondilly,895.0,1051.0,227.0,2021-06-30,Greater Sydney,Outer Ring,House,Total,480.0,141.0,1854.0,Non Strata,6,2021,0.07831325301204828
+14015,Wollondilly,925.0,1121.0,226.0,2021-09-30,Greater Sydney,Outer Ring,House,Total,500.0,166.0,1856.0,Non Strata,9,2021,0.033519553072625774
+14950,Wollondilly,1005.0,1116.0,221.0,2021-12-31,Greater Sydney,Outer Ring,House,Total,525.0,195.0,1886.0,Non Strata,12,2021,0.08648648648648649
+15885,Wollondilly,1125.0,1275.0,170.0,2022-03-31,Greater Sydney,Outer Ring,House,Total,550.0,170.0,1896.0,Non Strata,3,2022,0.11940298507462677
+16820,Wollondilly,1000.0,1122.0,180.0,2022-06-30,Greater Sydney,Outer Ring,House,Total,570.0,172.0,1906.0,Non Strata,6,2022,-0.11111111111111116
+17756,Wollondilly,980.0,1161.0,173.0,2022-09-30,Greater Sydney,Outer Ring,House,Total,560.0,221.0,1936.0,Non Strata,9,2022,-0.020000000000000018
+18691,Wollondilly,988.0,1120.0,120.0,2022-12-31,Greater Sydney,Outer Ring,House,Total,550.0,179.0,1932.0,Non Strata,12,2022,0.008163265306122547
+19626,Wollondilly,950.0,1111.0,147.0,2023-03-31,Greater Sydney,Outer Ring,House,Total,580.0,251.0,2046.0,Non Strata,3,2023,-0.038461538461538436
+20559,Wollondilly,1070.0,1192.0,170.0,2023-06-30,Greater Sydney,Outer Ring,House,Total,580.0,216.0,2054.0,Non Strata,6,2023,0.12631578947368416
